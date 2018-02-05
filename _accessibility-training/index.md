@@ -22,12 +22,10 @@ includes:
     -   Evaluating accessibility (2 topics)
 -   [**Presentation Outlines**]({% link _accessibility-training/presentation-outlines.md %}) - example
     outlines of presentations that combine some of the Topics:
-    -   Introducing web accessibility (20 minutes for any audience)
-    -   Promoting web accessibility (10 minutes for senior management)
-    -   Using an accessible web (1 hour for people with accessibility
-        needs)
-    -   Accessible web design (2 hour lecture as part of a web design
-        course)
+    -   Introducing web accessibility 
+    -   Promoting web accessibility 
+    -   Using an accessible web 
+    -   Accessible web design 
 -   [**Workshop Outline**]({% link _accessibility-training/workshop-outline.md %}) - an example outline for:
     -   Three-day hands-on web accessibility training workshop for:
         -   Website developers and application programmers (all 3 days)
