@@ -392,7 +392,7 @@ situation, from formal talks to personal conversations.
 
 {% include_cached excol.html type="start" id="intro20" %}
 
-## 5. Introducing WCAG 2.0
+## 5. Understanding WCAG 2.0
 
 {% include_cached excol.html type="middle" %}
 
