@@ -124,7 +124,7 @@ people should have equal, barrier-free access.
     use the Web](http://www.w3.org/WAI/intro/people-use-web) to
     illustrate the importance of web accessibility.
 -   **Demonstration:** 
-    -   Discuss scenarious from the Perspectives Videos (https://www.w3.org/WAI/perspectives/)
+    -   Discuss scenarios from the Perspectives Videos (https://www.w3.org/WAI/perspectives/)
         (http://www.w3.org/WAI/presentations/ageing/waiage#webuse)
   -   **Demonstration:** Show examples of accessible and inaccessible
     websites, and the effect they have on access with assistive
@@ -210,9 +210,8 @@ technologies and adaptive browsing strategies.
 ### Suggestions for speakers
 
 -   **Demonstration:** Show examples of using assistive technologies and
-    adaptive strategies, and/or show [videos of people with disabilities
-    using the Web ![- external
-    page](/Icons/offsite.png)](http://www.uiaccess.com/accessucd/resources_videos.html).
+    adaptive strategies, and/or show videos of people with disabilities
+    using the Web (https://www.w3.org/WAI/perspectives/)
 -   **Activity/Demonstration:** Explore the usage of accessible versus
     inaccessible websites, while using the keyboard only to navigate;
     wearing mittens or gardening gloves; very fast mouse pointer;
@@ -386,7 +385,7 @@ situation, from formal talks to personal conversations.
     Resources](http://www.w3.org/WAI/flyer/#resources) - includes
     information about Essential Components of Web Accessibility with a
     diagram
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
+-   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/) - a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
 
 {% include_cached excol.html type="end" %}
@@ -459,7 +458,7 @@ accessibility for people with disabilities and older people.
 
 #### Handouts
 
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
+-   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/) - a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
 -   [WAI Web Accessibility
     Resources](http://www.w3.org/WAI/flyer/#resources) - includes
@@ -544,7 +543,7 @@ requirements.
 
 #### Handouts
 
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
+-   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/)- a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
 
 ### Suggestions for speakers
@@ -1204,15 +1203,15 @@ some statistics highlighting the demographic changes.
 
 #### Handouts
 
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
+-   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/)- a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.
 
 ### Suggestions for speakers
 
 -   **Demonstration:** Show some [videos with older people using the Web
     ![- external
-    page](/Icons/offsite.png)](http://www.uiaccess.com/accessucd/resources_videos.html).
--   **Activity:** Show some simulations of low vision; get participants
+    page](https://www.w3.org/WAI/perspectives)
+-   **Activity:** Show some simulations of low vision; get participant
     to experience some impairments, e.g. using the mouse with other hand
     and browsing some sites with text enlarged.
 
