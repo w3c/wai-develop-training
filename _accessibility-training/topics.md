@@ -124,8 +124,7 @@ people should have equal, barrier-free access.
 
 #### Handouts
 
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
+-   [WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/)
 
 ### Suggestions for speakers
 
