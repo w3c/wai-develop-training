@@ -109,14 +109,6 @@ people should have equal, barrier-free access.
 -   [**Web Accessibility for Older Users
     presentation**](http://www.w3.org/WAI/presentations/ageing/), in
     particular:
-    -   [Use of the Web
-        section](http://www.w3.org/WAI/presentations/ageing/waiage#webuse)
-    -   [Changing population demographics
-        section](http://www.w3.org/WAI/presentations/ageing/waiage#demog)
--   [How People with Disabilities use the
-    Web](http://www.w3.org/WAI/intro/people-use-web) - provides examples
-    of people with different disabilities using Web sites, applications,
-    browsers, and authoring tools
 -   [WAI Guidelines for addressing different
     components](http://www.w3.org/WAI/intro/components.php#guidelines)
     of the web accessibility equation
@@ -131,10 +123,10 @@ people should have equal, barrier-free access.
 -   **Discussion:** Discuss scenarios from [How People with Disabilities
     use the Web](http://www.w3.org/WAI/intro/people-use-web) to
     illustrate the importance of web accessibility.
--   **Demonstration:** Show some [videos of people with disabilities
-    using the Web ![- external
-    page](/Icons/offsite.png)](http://www.uiaccess.com/accessucd/resources_videos.html).
--   **Demonstration:** Show examples of accessible and inaccessible
+-   **Demonstration:** 
+    -   Discuss scenarious from the Perspectives Videos (https://www.w3.org/WAI/perspectives/)
+        (http://www.w3.org/WAI/presentations/ageing/waiage#webuse)
+  -   **Demonstration:** Show examples of accessible and inaccessible
     websites, and the effect they have on access with assistive
     technologies. Consider using the [Before and After
     Demonstration](http://www.w3.org/WAI/demos/bad/).
