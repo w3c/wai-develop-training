@@ -365,8 +365,7 @@ situation, from formal talks to personal conversations.
     Groups](http://www.w3.org/WAI/groups) - listing of all the WAI
     working groups and interest groups with links to their individual
     pages
--   [WCAG logos](http://www.w3.org/WAI/WCAG2-Conformance) and [ATAG
-    logos](http://www.w3.org/WAI/ATAG10-Conformance) - how and when to
+-   [WCAG logos](http://www.w3.org/WAI/WCAG2-Conformance) - how and when to
     use the conformance logos
 
 #### Additional resources
@@ -445,7 +444,7 @@ accessibility for people with disabilities and older people.
     customizable quick reference to WCAG 2.0 requirements and techniques
 
 #### Additional resources
-
+How to Meet WCAG 2.0] (https://www.w3.org/WAI/WCAG20/quickref/)
 -   [Web Content Accessibility Guidelines (WCAG)
     2.0](http://www.w3.org/TR/WCAG20/) - formal technical specification
     (W3C Technical Report)
@@ -455,6 +454,7 @@ accessibility for people with disabilities and older people.
     2.0
 -   [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/) -
     techniques and failures for Web Content Accessibility Guidelines 2.0
+
 
 #### Handouts
 
