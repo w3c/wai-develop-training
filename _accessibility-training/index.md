@@ -28,9 +28,9 @@ includes:
     -   Accessible web design 
 -   [**Workshop Outline**]({% link _accessibility-training/workshop-outline.md %}) - an example outline for:
     -   Three-day hands-on web accessibility training workshop for:
-        -   Website developers and application programmers (all 3 days)
-        -   Web content authors and visual designers (days 1 & 2 only)
-        -   Managers and decision-makers (day 1 only)
+        -   Website developers and application programmers 
+        -   Web content authors and visual designers 
+        -   Managers and decision-makers 
 
 Notes:
 ------
