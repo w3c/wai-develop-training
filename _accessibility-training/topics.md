@@ -193,9 +193,6 @@ technologies and adaptive browsing strategies.
 
 #### Additional resources
 
--   [Overview of WAI presentation](http://www.w3.org/Talks/WAI-Intro/),
-    in particular [Web accessibility is a Cross-Disability
-    Issue](http://www.w3.org/Talks/WAI-Intro/slide6-0)
 -   [Web Accessibility for Older Users
     presentation](http://www.w3.org/WAI/presentations/ageing/), in
     particular material from [Changing Abilities of Older
