@@ -195,7 +195,7 @@ technologies and adaptive browsing strategies.
 -   [Better Web Browsing: Tips for Configuring Your
     Computer](http://www.w3.org/WAI/users/browsing) - references to
     resources to help people customize their web browser and computer
-    setup
+    setup @@@ Shawn suggests we archive for now, and this might be updat later.  Suggests we keep in the link with a note on the need to update later. @@@
 
 #### Handouts
 
