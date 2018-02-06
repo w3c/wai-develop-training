@@ -202,8 +202,8 @@ technologies and adaptive browsing strategies.
 -   [WAI Web Accessibility
     Resources](http://www.w3.org/WAI/flyer/#resources) - includes
     information about Essential Components of Web Accessibility with a
-    diagram
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
+    diagram @@@ SH says to comment out for now as it lead to flyer link @@@
+-   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/) - a
     paraphrased summary of Web Content Accessibility Guidelines (WCAG)
     2.0
 
@@ -301,7 +301,7 @@ accessibility.
 -   [WAI Web Accessibility
     Resources](http://www.w3.org/WAI/flyer/#resources) - includes
     information about Essential Components of Web Accessibility with a
-    diagram
+    diagram @@@ SH says to comment out for now - see previous ref to this handout
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
 
@@ -384,7 +384,7 @@ situation, from formal talks to personal conversations.
 -   [WAI Web Accessibility
     Resources](http://www.w3.org/WAI/flyer/#resources) - includes
     information about Essential Components of Web Accessibility with a
-    diagram
+    diagram @@@ SH says to comment out for now - see previous note @@@
 -   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/) - a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
 
@@ -463,7 +463,7 @@ accessibility for people with disabilities and older people.
 -   [WAI Web Accessibility
     Resources](http://www.w3.org/WAI/flyer/#resources) - includes
     information about Essential Components of Web Accessibility with a
-    diagram.
+    diagram.@@@ SH says to comment out for now - see previous comments @@@
 
 ### Suggestions for speakers
 
