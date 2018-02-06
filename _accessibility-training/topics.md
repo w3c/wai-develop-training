@@ -1288,10 +1288,6 @@ simultaneously.
 
 #### Handouts
 
--   [Mobile Web Best Practices (MWBP)
-    Flipcards](http://www.w3.org/2007/02/mwbp_flip_cards) - a summary of
-    the [Mobile Web Best Practices 1.0](http://www.w3.org/TR/mobile-bp)
-    document
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/) - a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
 
