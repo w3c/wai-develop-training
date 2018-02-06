@@ -106,16 +106,6 @@ people should have equal, barrier-free access.
 -   [Introduction to Web
     Accessibility](http://www.w3.org/WAI/intro/accessibility) - a longer
     introduction to the what, why and how of web accessibility
--   [**Overview of WAI
-    presentation**](http://www.w3.org/Talks/WAI-Intro/), in particular:
-    -   [What is web
-        accessibility](http://www.w3.org/Talks/WAI-Intro/slide3-0)
-    -   [Why web accessibility is an
-        issue](http://www.w3.org/Talks/WAI-Intro/slide4-0)
-    -   [Impact of Web on people with
-        disabilities](http://www.w3.org/Talks/WAI-Intro/slide5-0)
-    -   [Demographics of the disability
-        marketplace](http://www.w3.org/Talks/WAI-Intro/slide7-0)
 -   [**Web Accessibility for Older Users
     presentation**](http://www.w3.org/WAI/presentations/ageing/), in
     particular:
