@@ -102,7 +102,7 @@ people should have equal, barrier-free access.
 #### Primary resources
 
 -   [Accessibility -
-    W3C](http://www.w3.org/standards/webdesign/accessibility) -
+    W3C](http://www.w3.org/WAI/intro/accessibility) -
     introduces the why, what and how of web accessibility
 -   [Introduction to Web
     Accessibility](http://www.w3.org/WAI/intro/accessibility) - a longer
