@@ -940,8 +940,7 @@ policies.
     -   [Changing
         abilities](http://www.w3.org/WAI/presentations/ageing/waiage#abilities)
         of older people
--   [Policies Relating to Web
-    Accessibility](http://www.w3.org/WAI/Policy/) - links to laws and
+-   [Web Accessibility Laws and Policies](http://www.w3.org/WAI/Policy/) - links to laws and
     policies regarding web accessibility around the world
 -   [Developing Organizational Policies on Web
     Accessibility](%7B%7Bsite.github.url%7D%7D/planning-and-managing/implement/) -
@@ -950,9 +949,7 @@ policies.
 
 #### Additional resources
 
--   [Web Content Accessibility and Mobile Web: Making a Web Site
-    Accessible Both for People with Disabilities and for Mobile
-    Devices](http://www.w3.org/WAI/mobile/overlap.html)
+-   @@@ SH suggested we take out the 'Web Content Accessibility and Mobile Web Making link - https://www.w3.org/WAI/mobile/overlap.html, but should we put something else in here? @@@
 
 ### Suggestions for speakers
 
@@ -1158,9 +1155,6 @@ some statistics highlighting the demographic changes.
     Review"](http://www.w3.org/WAI/intro/wai-age-literature) - the
     Literature Review informs educational activities and enables better
     promotion of accessibility solutions for older Web users
--   [WAI-AGE Project](http://www.w3.org/WAI/WAI-AGE/) - contains an
-    overview of the education and outreach materials updated or
-    developed within the WAI-AGE Project
 
 #### Handouts
 
