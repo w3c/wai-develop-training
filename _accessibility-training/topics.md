@@ -299,11 +299,7 @@ accessibility.
 #### Handouts
 
 -   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram @@@ SH says to comment out for now - see previous ref to this handout
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
+    Resources](http://www.w3.org/WAI/WCAG20/glance)
 
 ### Suggestions for speakers
 
@@ -380,10 +376,6 @@ situation, from formal talks to personal conversations.
 
 #### Handouts
 
--   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram @@@ SH says to comment out for now - see previous note @@@
 -   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/) - a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
 
@@ -458,12 +450,7 @@ How to Meet WCAG 2.0] (https://www.w3.org/WAI/WCAG20/quickref/)
 
 #### Handouts
 
--   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
--   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram.@@@ SH says to comment out for now - see previous comments @@@
+-   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/) 
 
 ### Suggestions for speakers
 
@@ -545,6 +532,7 @@ requirements.
 
 -   [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/)- a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
+    @@@ SH says we should note this internally as it was a link to the flyer @@@
 
 ### Suggestions for speakers
 
@@ -627,7 +615,7 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/) - a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
 -   [Including People with Disabilities in Design
-    Studies](http://www.w3.org/WAI/flyer/#pwds)
+    Studies](http://www.w3.org/WAI/flyer/#pwds) @@ SH says to note this internally as it is to the flyer @@@
 
 ### Suggestions for speakers
 
@@ -715,9 +703,7 @@ UAAG Overview.)
 #### Handouts
 
 -   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram.
+    Resources](http://www.w3.org/WAI/WCAG20/glance/)
 
 ### Suggestions for speakers
 
@@ -803,7 +789,7 @@ ATAG Overview.)
     1.0](http://www.w3.org/TR/ATAG10/) - specifies requirements that, if
     satisfied by authoring tool developers, will lower barriers to
     accessibility
--   [Selecting and Using Authoring Tools for Web
+-  @@@ SH says to comment this resource out and add back in after it has been udpated @@@ [Selecting and Using Authoring Tools for Web
     Accessibility](http://www.w3.org/WAI/impl/software) - provides
     information which may help find improved authoring tools and/or work
     around the gaps in existing authoring tools
@@ -811,9 +797,7 @@ ATAG Overview.)
 #### Handouts
 
 -   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram.
+    Resources](http://www.w3.org/WAI/WAI/WCAG20/glance/)
 
 ### Suggestions for speakers
 
@@ -894,9 +878,7 @@ Accessibility](#components).
 #### Handouts
 
 -   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility and a
-    link to the WAI-ARIA Overview page.
+    Resources](http://www.w3.org/WAI/WCAG20/glance/)
 
 ### Suggestions for speakers
 
@@ -1134,7 +1116,7 @@ that are not always discovered by conformance evaluation alone.
 #### Handouts
 
 -   [Including People with Disabilities in Design
-    Studies](http://www.w3.org/WAI/flyer/#pwds)
+    Studies](http://www.w3.org/WAI/flyer/#pwds) @@@ SH says to comment out at the moment @@@
 
 ### Suggestions for speakers
 
