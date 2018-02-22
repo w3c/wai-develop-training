@@ -707,9 +707,6 @@ UAAG Overview.)
     1.0](http://www.w3.org/TR/UAAG10/) - specifies requirements that, if
     satisfied by user agent developers, will lower barriers to
     accessibility
--   [Table of Checkpoints for User Agent Accessibility Guidelines
-    1.0](http://www.w3.org/TR/UAAG/uaag10-chktable) - list may be used
-    to review a tool or set of tools for accessibility
 -   [Better Web Browsing: Tips for Configuring Your
     Computer](http://www.w3.org/WAI/users/browsing) - references to
     resources to help people customize their web browser and computer
