@@ -103,6 +103,7 @@ people should have equal, barrier-free access.
 
 -   [Accessibility - W3C](http://www.w3.org/WAI/intro/accessibility) -
     introduces the why, what and how of web accessibility
+-   [Video Introduction to Web Accessibility and W3C Standards] (https://www.w3.org/WAI/videos/standards-and-benefits.html)
 -   [Introduction to Web
     Accessibility](http://www.w3.org/WAI/intro/accessibility) - a longer
     introduction to the what, why and how of web accessibility
@@ -1174,7 +1175,8 @@ some statistics highlighting the demographic changes.
 
 {% include_cached excol.html type="start" id="mobile" %}
 
-## 15. Accessibility and the Mobile Web
+## 15. Accessibility and the Mobile Web @@@ SH suggests deleting this whole topic, but I thought I should check before just deleting @@@
+
 
 {% include_cached excol.html type="middle" %}
 
