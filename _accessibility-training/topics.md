@@ -1026,7 +1026,7 @@ website's accessibility over time.
 -   [Implementation Plan for Web
     Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
     planning process for implementing web accessibility
--   [Preliminary Review of Web Sites for
+-   [Easy Checks - A First Review of Accessibility]
     Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
     describes a method to quickly identify some accessibility problems
     on a website
@@ -1358,8 +1358,7 @@ evaluation review.
 
 #### Primary resources
 
--   [Preliminary Review of Web Sites for
-    Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
+-   [Easy Checks - A First Review of Web Accessibility] (%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
     describes a method to quickly identify some accessibility problems
     on a website
 -   [Selecting Web Accessibility Evaluation
@@ -1437,9 +1436,6 @@ Introducing WCAG 2.0](#intro20).
     Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
     describes a conformance evaluation method that combines automatic,
     semi-automatic, and manual testing
--   [Evaluation Approaches for Specific
-    Contexts](http://www.w3.org/WAI/eval/considerations) - describes
-    considerations for evaluation of large and complex websites
 -   [Using Combined Expertise to Evaluate Web
     Accessibility](http://www.w3.org/WAI/eval/reviewteams) - describes
     the diverse kinds of expertise and perspectives required to evaluate
