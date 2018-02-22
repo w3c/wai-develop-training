@@ -1256,35 +1256,6 @@ simultaneously.
 
 -   [Mobile Accessibility](http://www.w3.org/WAI/mobile/) - summarizes
     existing and developing resources related to mobile accessibility
--   [Web Content Accessibility and Mobile Web: Making a Web Site
-    Accessible Both for People with Disabilities and for Mobile
-    Devices](http://www.w3.org/WAI/mobile/overlap.html) - introduces the
-    similarities along with benefits of addressing both areas
--   [Shared Web Experiences: Barriers Common to Mobile Device Users and
-    People with
-    Disabilities](http://www.w3.org/WAI/mobile/experiences) - provides
-    examples of barriers that people with disabilities and people using
-    mobile devices experience when interacting with Web content
--   [Relationship between Mobile Web Best Practices (MWBP) and Web
-    Content Accessibility Guidelines
-    (WCAG)](http://www.w3.org/TR/mwbp-wcag/) - technical report
-    describing the similarities and differences between the requirements
-    in WCAG and MWBP
--   [From MWBP to WCAG 2.0](http://www.w3.org/TR/mwbp-wcag/mwbp-wcag20)
-    (and [From MWBP to WCAG
-    1.0)](http://www.w3.org/TR/mwbp-wcag/mwbp-wcag10) - outlines what
-    also needs to be done to meet WCAG for those familiar with MWBP
--   [From WCAG 2.0 to MWBP](http://www.w3.org/TR/mwbp-wcag/wcag20-mwbp)
-    (and [From WCAG 1.0 to
-    MWBP](http://www.w3.org/TR/mwbp-wcag/wcag10-mwbp)) - outlines what
-    also needs to be done to meet MWBP for those familiar with WCAG
--   [Mobile Web Best Practices 1.0](http://www.w3.org/TR/mobile-bp/) -
-    technical report specifying Best Practices for delivering web
-    content to mobile devices
--   [Mobile Web Application Best
-    Practices](http://www.w3.org/TR/mwabp/ "http://www.w3.org/TR/mwabp/") -
-    technical report to aid the development of rich and dynamic mobile
-    Web applications
 
 #### Handouts
 
