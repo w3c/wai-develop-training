@@ -699,7 +699,7 @@ UAAG Overview.)
 #### Primary resources
 
 -   [User Agent Accessibility Guidelines (UAAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/uaag/) - an overview
+    Overview](https://www.w3.org/WAI/intro/uaag) - an overview
     of UAAG and the related documentation
 -   [\[Draft\] User Agent Accessibility Guidelines (UAAG)
     2.0](http://www.w3.org/TR/UAAG20/) - working draft for UAAG 2.0
