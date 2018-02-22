@@ -777,7 +777,7 @@ ATAG Overview.)
 #### Primary resources
 
 -   [Authoring Tool Accessibility Guidelines (ATAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/atag/) - an overview
+    Overview](https://www.w3.org/WAI/intro/atag) - an overview
     of ATAG and the related documentation
 -   [\[Draft\] Authoring Tool Accessibility Guidelines (ATAG)
     2.0](http://www.w3.org/TR/ATAG20/) - working draft for ATAG 2.0
@@ -860,16 +860,8 @@ Accessibility](#components).
 
 #### Primary resources
 
--   [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria) - describes
-    the problems that WAI-ARIA addresses, and introduces the WAI-ARIA
-    suite of technical documents
--   [\[Draft\] WAI-ARIA Authoring Practices
-    1.0](http://www.w3.org/TR/wai-aria-practices/) - a guide to
-    understanding and implementing Accessible Rich Internet Applications
--   [\[Draft\] WAI-ARIA Primer](http://www.w3.org/TR/wai-aria-primer/) -
-    introduces developers to the accessibility problems that WAI-ARIA is
-    intended to solve, the fundamental concepts, and the technical
-    approach of WAI-ARIA
+-   [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria) - Introduces the WAI-ARIA
+    suite of technical documents and resources
 -   [WAI-ARIA FAQ](http://www.w3.org/WAI/aria/faq) - some frequently
     asked questions (FAQ) about WAI-ARIA
 -   WAI-ARIA and scripting techniques from [How to Meet WCAG
