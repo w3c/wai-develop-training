@@ -706,11 +706,11 @@ UAAG Overview.)
 -   [User Agent Accessibility Guidelines
     1.0](https://www.w3.org/WAI/intro.uaag) - specifies requirements that, if
     satisfied by user agent developers, will lower barriers to
-    accessibility
+    accessibility - @@@ please refer to 'Overview' document and UAAG 2.0 link above @@@
 -   [Better Web Browsing: Tips for Configuring Your
     Computer](http://www.w3.org/WAI/users/browsing) - references to
     resources to help people customize their web browser and computer
-    setup
+    setup @@@ SH note about date to be added here @@@
 
 #### Handouts
 
