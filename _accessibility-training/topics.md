@@ -928,10 +928,10 @@ policies.
     Organization](http://www.w3.org/WAI/bcase/resources), including:
     -   [Case Studies of Accessibility
         Improvements](http://www.w3.org/WAI/bcase/resources#cases)
-    -   [Statistics on People with Disabilities and Web
-        Use](http://www.w3.org/WAI/bcase/resources#statecom)
-    -   [Accessibility Improving Search Engine
-        Optimization](http://www.w3.org/WAI/bcase/resources#seo)
+    -  @@@ [Statistics on People with Disabilities and Web
+        Use](http://www.w3.org/WAI/bcase/resources#statecom) @@@
+    -  @@@ SH says  [Accessibility Improving Search Engine
+        Optimization](http://www.w3.org/WAI/bcase/resources#seo) @@@
     -   [Example for ROI
         calculations](http://www.w3.org/WAI/bcase/resources#roi)
     -   [Cautionary Tales of
