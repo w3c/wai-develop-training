@@ -936,12 +936,6 @@ policies.
         calculations](http://www.w3.org/WAI/bcase/resources#roi)
     -   [Cautionary Tales of
         Inaccessibility](http://www.w3.org/WAI/bcase/resources#casesnot)
--   [Overview of WAI presentation](http://www.w3.org/Talks/WAI-Intro/),
-    in particular:
-    -   [Web accessibility is a marketplace
-        issue](http://www.w3.org/Talks/WAI-Intro/slide7-0)
-    -   [Accessibility contributes to universal
-        design](http://www.w3.org/Talks/WAI-Intro/slide8-0)
 -   [Web Accessibility for Older Users
     presentation](http://www.w3.org/WAI/presentations/ageing/), in
     particular:
@@ -1293,8 +1287,7 @@ of organizational accessibility policies.
     ratified by many countries and specifically includes accessibility
     of the Internet and other information and communications technology
     (ICT)
--   International [Policies Relating to Web
-    Accessibility](http://www.w3.org/WAI/Policy/) - links to laws and
+-   International [Web Accessibility Laws and Policies](http://www.w3.org/WAI/Policy/) - links to laws and
     policies regarding Web accessibility around the world (not
     definitive)
 -   [Why Standards Harmonization is Essential to Web
@@ -1469,8 +1462,8 @@ Introducing WCAG 2.0](#intro20).
     but applicable to WCAG 2.0);\
     see also the reports from [Before and After
     Demonstration](http://www.w3.org/WAI/demos/bad/)
--   [\[Draft\] Website Accessibility Conformance Evaluation Methodology
-    1.0](http://www.w3.org/TR/WCAG-EM/) - a methodology for evaluating
+-   Website Accessibility Conformance Evaluation Methodology
+    1.0 - WCAG-EM](http://www.w3.org/WAI/eval/conformance - a methodology for evaluating
     the conformance of websites to WCAG 2.0
 
 #### Handouts
