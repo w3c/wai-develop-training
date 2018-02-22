@@ -704,7 +704,7 @@ UAAG Overview.)
 -   [\[Draft\] User Agent Accessibility Guidelines (UAAG)
     2.0](http://www.w3.org/TR/UAAG20/) - working draft for UAAG 2.0
 -   [User Agent Accessibility Guidelines
-    1.0](http://www.w3.org/TR/UAAG10/) - specifies requirements that, if
+    1.0](https://www.w3.org/WAI/intro.uaag) - specifies requirements that, if
     satisfied by user agent developers, will lower barriers to
     accessibility
 -   [Better Web Browsing: Tips for Configuring Your
