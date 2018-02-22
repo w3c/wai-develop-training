@@ -192,10 +192,6 @@ technologies and adaptive browsing strategies.
     Accessibility](http://www.w3.org/WAI/intro/components.php) - shows
     how Web accessibility depends on several components working together
     and the role of the WAI guidelines
--   [Better Web Browsing: Tips for Configuring Your
-    Computer](http://www.w3.org/WAI/users/browsing) - references to
-    resources to help people customize their web browser and computer
-    setup @@@ Shawn suggests we archive for now, and this might be updat later.  Suggests we keep in the link with a note on the need to update later. @@@
 
 #### Handouts
 
