@@ -20,7 +20,7 @@ This page provides an overview and outline for an example three-day hands-on wor
 
 {::options toc_levels="2,3" /}
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents %}
+{% include_cached toc.html type="start" title="Page Contents" %}
 {:/}
 -   TOC is created automatically.
 {:toc}
