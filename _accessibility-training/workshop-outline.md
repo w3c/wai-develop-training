@@ -18,9 +18,9 @@ This page provides an overview and outline for an example three-day hands-on wor
 {% include box.html type="end" %}
  {:/}
 
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents &mdash; Presentation Outlines:" %}
+{% include_cached toc.html type="start" title="Page Contents %}
 {:/}
 -   TOC is created automatically.
 {:toc}
@@ -32,11 +32,14 @@ This page provides an overview and outline for an example three-day hands-on wor
 
 @@HERE@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+{% include excol.html type="all" %}
+
 {% include_cached excol.html type="start" id="overview" open="true" %}
 
 ## Overview
 
 {% include_cached excol.html type="middle" %}
+
 **Scenario:** A three-day hands-on workshop to inform participants about
 web accessibility and to teach developers how to implement accessibility
 requirements.
