@@ -30,7 +30,7 @@ This page describes an example three-day hands-on workshop on web accessibility.
 
 **Note:** For guidance on making your presentations and training accessible to people with disabilities and others in your audience, see [How to Make Your Presentations Accessible to All](http://www.w3.org/WAI/training/accessible).
 
-{% include excol.html type="all" %}
+{% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="overview" open="true" %}
 
@@ -86,6 +86,8 @@ Website developers and application programmers should be able to do above and **
 
 ## Schedule
 
+{% include_cached excol.html type="middle" %}
+
 ### Day 1 schedule
 
 1.  **09:00 - 10:30 [Session 1 - Introduction to web
@@ -136,6 +138,7 @@ Website developers and application programmers should be able to do above and **
 ## Session Descriptions
 
 {% include_cached excol.html type="middle" %}
+
 ### Day 1 - Session 1: Introduction to web accessibility {#d1s1}
 
 **Target audience:** Managers and decision makers, web content authors
@@ -985,6 +988,5 @@ authoring tools to provide accessible content.
 
 {% include_cached excol.html type="end" %}
 
-{% include excol.html type="all" %}
+{% include_cached excol.html type="all" %}
 
-@@
