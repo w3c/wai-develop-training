@@ -21,7 +21,7 @@ This page provides example outlines of four web accessibility presentations. It 
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Presentation outlines on this page:" %}
+{% include_cached toc.html type="start" title="Page Contents &mdash; Presentation Outlines:" %}
 {:/}
 
 -   TOC is created automatically.
