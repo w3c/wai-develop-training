@@ -37,6 +37,8 @@ your presentations and training accessible to people with disabilities
 and others in your audience.
 
 
+{% include excol.html type="all" %}
+
 {% include_cached excol.html type="start" id="intro" %}
 
 ## 1. Introducing web accessibility (20 minutes, for any audience)
@@ -312,3 +314,4 @@ After the lecture and exercise, students should be able to:
     describe the barriers addressed and solutions applied.
 
 {% include_cached excol.html type="end" %}
+{% include excol.html type="all" %}
