@@ -12,7 +12,7 @@ footer: >
 {% include box.html type="start" title="Summary" class="" %} 
 {:/}
 
-This page provides an overview and outline for an example three-day hands-on workshop on web accessibility. You can use it as a basis for developing customized training for specific audience needs and goals. It links to [Accessibility Topics](topics) and WAI resources that you can use as building blocks to develop your presentation and activity materials.
+This page describes an example three-day hands-on workshop on web accessibility. You can use it as a basis for developing customized training for specific audience needs and goals. It links to [Accessibility Topics](topics) and WAI resources that you can use as building blocks to develop your presentation and activity materials.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -29,8 +29,6 @@ This page provides an overview and outline for an example three-day hands-on wor
 {:/}
 
 **Note:** For guidance on making your presentations and training accessible to people with disabilities and others in your audience, see [How to Make Your Presentations Accessible to All](http://www.w3.org/WAI/training/accessible).
-
-@@HERE@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 {% include excol.html type="all" %}
 
@@ -52,9 +50,9 @@ requirements.
 
 **Other key audiences** include staff from public relations, marketing,
 communications, human resources, procurement, legal and policy advisors,
-staff representatives, and many more involved with the Web.
+staff representatives, and many more involved with the web.
 
-### Overall learning objectives:
+### Overall learning objectives
 
 After the training, managers and decision makers should be able to:
 
@@ -69,7 +67,7 @@ In addition, authors and non-technical developers should also be able
 to:
 
 -   Explain the role of the WAI guidelines and other components in
-    achieving an accessible Web
+    achieving an accessible web
 -   Apply basic principles of accessibility during the preparation of
     web content
 -   Carry out preliminary checks of websites for accessibility and
@@ -160,7 +158,7 @@ and other key audiences
 
 -   Overview of web accessibility, including what web accessibility is
     and why it's important
--   Videos showing people with disabilities using the Web
+-   Videos showing people with disabilities using the web
 -   Information about the ageing population and ageing-related
     impairments
 -   Relevant legislation or other policies applicable to participants'
@@ -170,7 +168,7 @@ and other key audiences
 -   Business benefits of web accessibility, including some case studies
 -   Overlapping experiences of people with disabilities and mobile users
 -   Introduction to WAI guidelines as the international standard for
-    making the Web accessible
+    making the web accessible
 
 #### Related Accessibility Topics:
 
@@ -400,7 +398,7 @@ developers and application programmers
 
 #### Learning Objectives:
 
--   Embrace the differences between the Web and print media
+-   Embrace the differences between the web and print media
 -   Know the accessibility requirements for visual web page design and
     how to test for them
 -   Incorporate accessibility requirements in the visual design and
@@ -408,7 +406,7 @@ developers and application programmers
 
 #### Outline:
 
--   Overview of the adaptability of the Web, highlighting the
+-   Overview of the adaptability of the web, highlighting the
     differences from print media
 -   Accessibility aspects of visual design of websites
 -   Importance of the use of color and contrast in accessible design
@@ -800,7 +798,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [SCR18: Providing client-side validation and
     alert](http://www.w3.org/TR/WCAG20-TECHS/SCR18)
 
-### Day 3 - Session 3: Basics of accessible scripting and WAI-ARIA {#d3s3} **(Accessible Rich Internet Applications)**
+### Day 3 - Session 3: Basics of accessible scripting and WAI-ARIA **(Accessible Rich Internet Applications)** {#d3s3}
 
 **Target audience:** Web developers and application programmers
 
@@ -956,7 +954,7 @@ needed. For example, content authors would benefit from specific
 instruction on how to use their content management system (CMS) or other
 authoring tools to provide accessible content.
 
-### **Additional notes for presenters for the technical sessions on days 2 and 3:**
+### Additional notes for presenters for the technical sessions on days 2 and 3
 
 -   Allow time at the end of each session to sum up the requirements and
     clarify any issues arising from the session.
