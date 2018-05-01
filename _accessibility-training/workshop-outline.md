@@ -3,10 +3,34 @@ title: "Example Outline for a Web Accessibility Workshop"
 nav_title: Workshop Outline
 order: 3
 footer: >
-  <p><strong>Date:</strong> Updated 21 February 2013. First published November  2000.</p>
+  <p><strong>Date:</strong> Links and organization updated 1 May 2018. Content updated 21 February 2013. First published November  2000.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
+
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %} 
+{:/}
+
+This page provides an overview and outline for an example three-day hands-on workshop on web accessibility. You can use it as a basis for developing customized training for specific audience needs and goals. It links to [Accessibility Topics](topics) and WAI resources that you can use as building blocks to develop your presentation and activity materials.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+ {:/}
+
+{::options toc_levels="2" /}
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents &mdash; Presentation Outlines:" %}
+{:/}
+-   TOC is created automatically.
+{:toc}
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+**Note:** For guidance on making your presentations and training accessible to people with disabilities and others in your audience, see [How to Make Your Presentations Accessible to All](http://www.w3.org/WAI/training/accessible).
+
+@@HERE@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 {% include_cached excol.html type="start" id="overview" open="true" %}
 
@@ -64,7 +88,6 @@ able to:
 
 ## Schedule
 
-{% include_cached excol.html type="middle" %}
 ### Day 1 schedule
 
 1.  **09:00 - 10:30 [Session 1 - Introduction to web
@@ -107,8 +130,6 @@ able to:
 8.  **16:00 - 17:00 [Session 5 - Workshop review and lessons
     learned](#d3s5)**
 {:style="list-style:none;"}
-
-{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="sessions" %}
 
@@ -963,3 +984,5 @@ authoring tools to provide accessible content.
 -   Carry out activities and exercises to reinforce the learning effect.
 
 {% include_cached excol.html type="end" %}
+
+{% include excol.html type="all" %}
