@@ -3,19 +3,25 @@ title: "Example Outlines for Web Accessibility Presentations"
 nav_title: Presentation Outlines
 order: 2
 footer: >
-  <p><strong>Date:</strong> Updated 21 February 2013. First published November  2000.</p>
+  <p><strong>Date:</strong> Link updated 1 May 2018. Content updated 21 February 2013. First published November 2000.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
 
-This page provides example outlines of four web accessibility
-presentations. It shows how you can use the [Accessibility
-Topics](topics) as building blocks for different types of presentations.
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+This page provides example outlines of four web accessibility presentations. It shows how you can use the [Accessibility Topics](topics) as building blocks for different types of presentations.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include_cached toc.html type="start" title="Presentation outlines on this page:" %}
 {:/}
 
 -   TOC is created automatically.
@@ -65,12 +71,12 @@ several short presentations from a panel of speakers.
     minutes)
     -   Describe what web accessibility is and why it's important
     -   Mention the WAI guidelines as the international standard for
-        making the Web accessible
+        making the web accessible
 -   **[How people with disabilities use the
-    Web](http://www.w3.org/WAI/training/topics#people)** (10 minutes)
+    web](http://www.w3.org/WAI/training/topics#people)** (10 minutes)
     -   Discuss some of the ways that people with disabilities use the
-        Web and/or show some short videos of people with disabilities
-        using the Web
+        web and/or show some short videos of people with disabilities
+        using the web
     -   Mention some of the types of barriers that arise from
         inaccessible design
 -   **[Business case for web
@@ -114,8 +120,7 @@ meeting to introduce the business case for web accessibility.
 
 ### Sample outline:
 
--   [**Introducing web accessibility
-    topic**](http://www.w3.org/WAI/training/topics#intro) (4 minutes)
+-   [**Introducing web accessibility**](http://www.w3.org/WAI/training/topics#intro) (4 minutes)
     -   Describe what web accessibility is
     -   Briefly introduce demographics of the disability marketplace
         and/or demographics of the ageing population
@@ -178,8 +183,7 @@ accessibility features of computers, browsers, and websites.
     -   Introduce the different ways people with disabilities and older
         people use the web by describing some scenarios or showing some
         videos
--   **[How people with disabilities use the web
-    topic](http://www.w3.org/WAI/training/topics#people)** (25 minutes)
+-   **[How people with disabilities use the web](http://www.w3.org/WAI/training/topics#people)** (25 minutes)
     -   Discuss and illustrate the range of adaptive strategies and
         assistive technologies
     -   Demonstrate some adaptive strategies and/or assistive
@@ -195,8 +199,7 @@ accessibility features of computers, browsers, and websites.
         Glance" handout
     -   Explain the components of web accessibility and how they relate
         to the WAI Guidelines
--   **[Promoting web accessibility
-    topic](http://www.w3.org/WAI/training/topics#promoting)** (5
+-   **[Promoting web accessibility](http://www.w3.org/WAI/training/topics#promoting)** (5
     minutes)
     -   Introduce how to contact organizations with inaccessible
         websites
@@ -230,10 +233,10 @@ of a full semester's introductory course on general web design.
 After the lecture and exercise, students should be able to:
 
 -   Describe various ways people with different disabilities, including
-    ageing-related impairments use the Web
+    ageing-related impairments use the web
 -   List the factors in the business case for web accessibility and the
     additional benefits that might apply
--   Identify barriers in using the Web and identify solutions that would
+-   Identify barriers in using the web and identify solutions that would
     improve the situation
 -   Refer to the WAI website to for further technical and educational
     resources on web accessibility
@@ -242,14 +245,13 @@ After the lecture and exercise, students should be able to:
 
 ### Sample outline:
 
--   [**Introduction to web accessibility
-    topic**](http://www.w3.org/WAI/training/topics#intro) (5 minutes)
+-   [**Introduction to web accessibility**](http://www.w3.org/WAI/training/topics#intro) (5 minutes)
     -   Describe what web accessibility is
 -   **[How people with disabilities use the
     web](http://www.w3.org/WAI/training/topics#people)** (15 minutes)
     -   Discuss some of the ways that people with disabilities use the
-        Web and/or show some short videos of people with disabilities
-        using the Web
+        web and/or show some short videos of people with disabilities
+        using the web
     -   Mention some of the types of barriers that arise from
         inaccessible design
 -   **[Business case for web
@@ -296,9 +298,8 @@ After the lecture and exercise, students should be able to:
 
 **Suggested preparatory reading for students:**
 
--   [Accessibility -
-    W3C](http://www.w3.org/standards/webdesign/accessibility)
--   [How People with Disabilities use the
+-   [Introduction to Web Accessibility]( https://www.w3.org/WAI/intro/accessibility)
+-   [How People with Disabilities Use the
     Web](http://www.w3.org/WAI/intro/people-use-web)
 -   [Developing a Web Accessibility Business Case for Your
     Organization](http://www.w3.org/WAI/bcase/)
