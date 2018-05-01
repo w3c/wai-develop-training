@@ -3,7 +3,7 @@ title: "Example Outlines for Web Accessibility Presentations"
 nav_title: Presentation Outlines
 order: 2
 footer: >
-  <p><strong>Date:</strong> Link updated 1 May 2018. Content updated 21 February 2013. First published November 2000.</p>
+  <p><strong>Date:</strong> Links updated 1 May 2018. Content updated 21 February 2013. First published November 2000.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
@@ -31,17 +31,13 @@ This page provides example outlines of four web accessibility presentations. It 
 {% include_cached toc.html type="end" %}
 {:/}
 
-**Note:** See also [How to Make Your Presentations Accessible to
-All](http://www.w3.org/WAI/training/accessible) for guidance on making
-your presentations and training accessible to people with disabilities
-and others in your audience.
-
+**Note:** For guidance on making your presentations and training accessible to people with disabilities and others in your audience, see [How to Make Your Presentations Accessible to All](http://www.w3.org/WAI/training/accessible).
 
 {% include excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="intro" %}
 
-## 1. Introducing web accessibility (20 minutes, for any audience)
+## Introducing web accessibility (20 minutes, for any audience)
 
 {% include_cached excol.html type="middle" %}
 
@@ -96,7 +92,7 @@ several short presentations from a panel of speakers.
 
 {% include_cached excol.html type="start" id="bcase" %}
 
-## 2. Web accessibility business case (10 minutes, for senior management)
+## Web accessibility business case (10 minutes, for senior management)
 
 {% include_cached excol.html type="middle" %}
 
@@ -151,7 +147,7 @@ meeting to introduce the business case for web accessibility.
 
 {% include_cached excol.html type="start" id="users" %}
 
-## 3. Using an accessible web (1 hour, for people with accessibility needs)
+## Using an accessible web (1 hour, for people with accessibility needs)
 
 {% include_cached excol.html type="middle" %}
 **Example scenario:** presentation for non-technical people (such as
@@ -212,7 +208,7 @@ accessibility features of computers, browsers, and websites.
 
 {% include_cached excol.html type="start" id="design" %}
 
-## 4. Accessible web design (2 hour lecture, for web design students)
+## Accessible web design (2 hour lecture, for web design students)
 
 {% include_cached excol.html type="middle" %}
 **Example scenario:** lecture/presentation on web accessibility as part
