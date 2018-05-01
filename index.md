@@ -1,3 +1,3 @@
 ---
-redirect_to: /wai-develop-training/teach-advocate/accessibility-training/
+redirect_to: /teach-advocate/accessibility-training/
 ---
