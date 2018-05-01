@@ -46,7 +46,7 @@ requirements.
 
 -   Day 1: Managers and decision makers
 -   Days 1 and 2: Web content authors and visual designers
--   All 3 days: Website developers and application programmers
+-   Days 1, 2, and 3: Website developers and application programmers
 
 **Other key audiences** include staff from public relations, marketing,
 communications, human resources, procurement, legal and policy advisors,
@@ -54,7 +54,7 @@ staff representatives, and many more involved with the web.
 
 ### Overall learning objectives
 
-After the training, managers and decision makers should be able to:
+Managers and decision makers should be able to:
 
 -   Explain the importance of web accessibility for people with
     disabilities and older people
@@ -63,8 +63,7 @@ After the training, managers and decision makers should be able to:
 -   Describe the business case that influences an organization's web
     accessibility efforts
 
-In addition, authors and non-technical developers should also be able
-to:
+Authors and non-technical developers should be able to do above and **also**:
 
 -   Explain the role of the WAI guidelines and other components in
     achieving an accessible web
@@ -73,9 +72,7 @@ to:
 -   Carry out preliminary checks of websites for accessibility and
     communicate the results
 
-Website developers and application programmers should additionally be
-able to:
-
+Website developers and application programmers should be able to do above and **also**:
 -   Utilize WCAG 2.0 and its supporting documents as a guide to
     implementing accessible websites
 -   Apply WCAG 2.0 techniques to develop accessible layouts, forms,
@@ -798,7 +795,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [SCR18: Providing client-side validation and
     alert](http://www.w3.org/TR/WCAG20-TECHS/SCR18)
 
-### Day 3 - Session 3: Basics of accessible scripting and WAI-ARIA **(Accessible Rich Internet Applications)** {#d3s3}
+### Day 3 - Session 3: Basics of accessible scripting and WAI-ARIA (Accessible Rich Internet Applications) {#d3s3}
 
 **Target audience:** Web developers and application programmers
 
@@ -964,9 +961,9 @@ authoring tools to provide accessible content.
 -   Clarify that not all WCAG 2.0 success criteria are being presented
     and discussed in this workshop.
 -   Describe the intent of accessibility requirements, and their
-    relationship to barriers for people with disabilities and older
-    people. Also describe the broader benefits for [mobile
-    users](http://www.w3.org/WAI/mobile/), search engine optimization
+    relationship to barriers for people with disabilities and [older
+    people]( https://www.w3.org/WAI/older-users/). Also describe the broader benefits for [mobile
+    users]( https://www.w3.org/WAI/mobile/overlap), search engine optimization
     (SEO), and more.
 -   Draw illustrative examples from sites and material that are relevant
     to the participants backgrounds, e.g. government, commerce, etc.
