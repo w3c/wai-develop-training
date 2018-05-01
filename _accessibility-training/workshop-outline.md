@@ -129,6 +129,8 @@ Website developers and application programmers should be able to do above and **
     learned](#d3s5)**
 {:style="list-style:none;"}
 
+{% include_cached excol.html type="end" %}
+
 {% include_cached excol.html type="start" id="sessions" %}
 
 ## Session Descriptions
@@ -984,3 +986,5 @@ authoring tools to provide accessible content.
 {% include_cached excol.html type="end" %}
 
 {% include excol.html type="all" %}
+
+@@
