@@ -1,1496 +1,996 @@
 ---
-title: "Topics for Web Accessibility Presentations and Training"
-nav_title: Topics
-order: 1
+title: "Example Outline for a Web Accessibility Workshop"
+nav_title: Workshop Outline
+order: 3
 footer: >
-  <p><strong>Date: Updates in progress &mdash;</strong> Links updated 1 May 2018. Other content updated 21 February 2013. First published November 2000.</p>
+  <p><strong>Date: Updates in progress &mdash;</strong> Links and organization updated 1 May 2018. Content updated 21 February 2013. First published November  2000.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
 
-
 {::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
+{% include box.html type="start" title="Summary" class="" %} 
 {:/}
 
-This page provides material for web accessibility topics that you can use as building blocks to create presentations and training. These are examples that you can adapt and combine for your specific audience and goals.
+This page describes an example three-day hands-on workshop on web accessibility. You can use it as a basis for developing customized training for specific audience needs and goals. It links to [Accessibility Topics](topics) and WAI resources that you can use as building blocks to develop your presentation and activity materials.
 
 {::nomarkdown}
 {% include box.html type="end" %}
-{:/}
+ {:/}
 
-{::options toc_levels="2" /}
-
+{::options toc_levels="2,3" /}
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include_cached toc.html type="start" title="Page Contents" %}
 {:/}
-
-<ul class="toc">
-  <li><strong>Introducing Accessibility </strong>
-     <ol>
-        <li><a href="#introduction">Introducing Web Accessibility</a></li>
-        <li><a href="#people">How People with Disabilities Use the Web</a></li>
-        <li><a href="#components">Components of Web Accessibility</a><!--(sample presentation available) --></li>
-        <li><a href="#promoting">Promoting Web Accessibility</a></li>
-     </ol>
-  </li>
-  <li><strong>Guidelines and Techniques </strong>
-     <ol start="5">
-        <li><a href="#intro20">Introducing WCAG 2.0</a><!--(related presentation  available)--></li>
-        <li><a href="#migrate">Migrating to WCAG 2.0</a></li>
-        <li><a href="#design">Designing and Developing Accessible Websites with WCAG 2</a></li>
-        <li><a href="#browsers">Browser Accessibility and UAAG</a></li>
-        <li><a href="#authoring">Authoring Tool Accessibility and ATAG</a></li>
-        <li><a href="#aria">Accessible Rich Internet Applications (WAI-ARIA)</a></li>
-     </ol>
-  </li>
-  <li><strong>Managing Accessibility</strong>
-     <ol start="11">
-        <li><a href="#bcase">Business Case for Web Accessibility</a></li>
-        <li><a href="#improve">Improving the Accessibility of Existing Websites</a></li>
-        <li><a href="#involving">Involving Users in Web Projects</a></li>
-        <li><a href="#older">Web Accessibility and Older People</a> <!--(sample presentation available) --></li>
-        <li><a href="#mobile">Accessibility  and the Mobile Web</a></li>
-        <li><a href="#policy">Web Accessibility Policy and Legislation</a></li>
-     </ol>
-  </li>
-  <li><strong>Evaluating Accessibility</strong>
-     <ol start="17">
-        <li><a href="#check">Quick Check for Web Accessibility</a></li>
-        <li><a href="#conform">Conformance Evaluation for Web Accessibility</a></li>
-     </ol>
-  </li>
-</ul>
-
+-   TOC is created automatically.
+{:toc}
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
 
 **Note:** For guidance on making your presentations and training accessible to people with disabilities and others in your audience, see [How to Make Your Presentations Accessible to All](http://www.w3.org/WAI/training/accessible).
 
-{% include excol.html type="all" %}
+{% include_cached excol.html type="all" %}
 
-{% include_cached excol.html type="start" id="intro" %}
+{% include_cached excol.html type="start" id="overview" open="true" %}
 
-## 1. Introducing Web Accessibility
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Communicate the basic principles of web accessibility, why it
-is important, and who is affected.
-
-**Audience:** Anyone with an interest in the web, disability, or related
-topics.
-
-### Description
-
-This topic introduces the importance of the Web as an essential
-communication tool and the fact that people with disabilities and older
-people should have equal, barrier-free access.
-
-### What this topic covers
-
--   Access to the Web is an essential requirement for full participation
-    in the information society
--   Effect of accessibility barriers on people's access to web based
-    information systems and services
--   Meaning and importance of web accessibility for people with
-    disabilities and older people
--   WAI guidelines and resources as the international standard for web
-    accessibility
--   How to get involved and where to get more information about web
-    accessibility
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [Introduction to Web Accessibility](http://www.w3.org/WAI/intro/accessibility) - explains web accessibility in context; the scope of accessibility; and that accessibility benefits individuals, businesses, and society. Links to resources on accessibility standards, making the web accessibility, and evaluating accessibility. Provides simple examples of accessibility.
--   [How People with Disabilities use the Web](http://www.w3.org/WAI/intro/people-use-web) - provides examples of people with different disabilities using websites, applications, browsers, and authoring tools
--   [WAI Guidelines for addressing different components](http://www.w3.org/WAI/intro/components.php#guidelines) of the web accessibility equation
--   [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]( https://www.w3.org/WAI/older-users/)
-    -   Overview of "Web Accessibility for Older Users: A Literature Review" – includes [statistics on the impact and prevalence of ageing]( https://www.w3.org/WAI/intro/wai-age-literature#summary)
--   [Participating in WAI](http://www.w3.org/WAI/participation)
-
-#### Handouts
-
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
-
-### Suggestions for speakers
-
--   **Discussion:** Discuss scenarios from [How People with Disabilities
-    use the Web](http://www.w3.org/WAI/intro/people-use-web) to
-    illustrate the importance of web accessibility.
--   **Demonstration:** Show some videos:
-    -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits) – 4 minutes
-    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspectives/) – show selected videos, or the [compilation of all 10 videos (YouTube, 7:36 minutes)]( https://www.youtube.com/watch?v=3f31oufqFSM)
-    -   [Videos of people with disabilities using the Web](http://www.uiaccess.com/accessucd/resources_videos.html)
--   **Demonstration:** Show examples of accessible and inaccessible
-    websites, and the effect they have on access with assistive
-    technologies. Consider using the [Before and After
-    Demonstration](http://www.w3.org/WAI/demos/bad/).
--   **Activity:** Ask attendees what kind of accessibility
-    accommodations in buildings, transport, or every day life are they
-    aware of? When they answer ramps, curb cuts, captions, automatic
-    doors, elevators, etc., ask if anyone uses those accommodations
-    other than people with disabilities. Discuss how accessibility
-    features benefit everyone. Draw the analogy with web accessibility.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="people" %}
-
-## 2. How People with Disabilities Use the Web
+## Overview
 
 {% include_cached excol.html type="middle" %}
 
-**Goal:** Provide an understanding of how people with disabilities and
-older people access the Web, and the type of barriers they can
-encounter. Highlight the importance of web accessibility in an
-information society.
-
-**Audience:** Anyone with an interest in the web, disability, ageing, or
-related topics.
-
-### Description
-
-This topic explores accessibility barriers for people with disabilities
-and older people using the Web. It also gives an introduction to the
-principles of accessible web design, and an overview on assistive
-technologies and adaptive browsing strategies.
-
-### What this topic covers
-
--   Broad diversity of people, abilities, skills, and preferences
--   Impact of web accessibility on people with disabilities, including
-    people with age-related impairments
--   Accessibility needs and examples of common barriers that affect
-    millions of people
--   Assistive technologies and adaptive strategies used by people with
-    disabilities
--   Accessibility requirements and technical standards for web
-    accessibility
--   Where to get more information
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [How People with Disabilities use the
-    Web](http://www.w3.org/WAI/intro/people-use-web) - provides examples
-    of people with different disabilities using websites, web
-    applications, browsers, and authoring tools
-
-#### Additional resources
-
--   [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]( https://www.w3.org/WAI/older-users/)
-    -   Overview of "Web Accessibility for Older Users: A Literature Review" – includes [statistics on the impact and prevalence of ageing]( https://www.w3.org/WAI/intro/wai-age-literature#summary)
--   [Essential Components of Web
-    Accessibility](http://www.w3.org/WAI/intro/components.php) - shows
-    how Web accessibility depends on several components working together
-    and the role of the WAI guidelines
--   [Better Web Browsing: Tips for Configuring Your
-    Computer](http://www.w3.org/WAI/users/browsing) - references to
-    resources to help people customize their web browser and computer
-    setup
-
-#### Handouts
-
--   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines (WCAG)
-    2.0
-
-### Suggestions for speakers
-
--   **Demonstration:** Show examples of using assistive technologies and
-    adaptive strategies, and/or show videos linked above.
--   **Activity/Demonstration:** Explore the usage of accessible versus
-    inaccessible websites, while using the keyboard only to navigate;
-    wearing mittens or gardening gloves; very fast mouse pointer;
-    onscreen keyboard (no physical keyboard); blurred glasses; very high
-    browser zoom; no sound; etc. Discuss the difficulties with
-    inaccessible websites and the solutions used in accessible websites.
--   **Tip:** Give accessibility a human face, for example by relating it
-    to older relatives, such as grandparents, who may be encountering
-    accessibility barriers as they go online.
--   **Tip:** Suggest participants repeat the activity/demonstration on
-    other websites after the session.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="components" %}
-
-## 3. Components of Web Accessibility
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Introduction to the WAI standards and guidelines for web
-accessibility.
-
-**Audience:** Web developers and others responsible for creating
-accessible online content and applications, accessibility advocates, ICT
-departments
-
-### Description
-
-This topic explores the components of web accessibility, in particular
-the WAI Guidelines for:
-
--   user agents (browsers and media players)
--   authoring tools (tools used by content authors and web developers)
--   web content
-
-It covers how these components work together to improve web
-accessibility.
-
-### What this topic covers
-
--   Three related sets of WAI guidelines working together:
-    -   User Agent Accessibility Guidelines (UAAG)
-    -   Authoring Tool Accessibility Guidelines (ATAG)
-    -   Web Content Accessibility Guidelines (WCAG)
--   Understand the role of each guideline in creating and maintaining an
-    accessible Web
--   Role of underlying technologies (HTML, XML, CSS, SVG, SMIL, etc.) to
-    enable accessibility
--   WAI-ARIA for dynamic web pages and applications
--   Understand how various guidelines and specifications interact to
-    deliver accessibility
--   Where to get more information
-
-### Resources for developing a presentation
-
-#### Sample presentation
-
--   [Components of Web Accessibility
-    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/components/) -
-    can be used as the basis for this topic
-
-#### Primary resources
-
--   [Essential Components of Web
-    Accessibility](http://www.w3.org/WAI/intro/components.php) - shows
-    how Web accessibility depends on several components working together
--   [How People with Disabilities use the
-    Web](http://www.w3.org/WAI/intro/people-use-web) - provides examples
-    of people with different disabilities using websites, web
-    applications, browsers, and authoring tools
--   [Web Content Accessibility Guidelines (WCAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/wcag/) - an overview
-    of WCAG and the related documentation
--   [Authoring Tool Accessibility Guidelines (ATAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/atag/) - an overview
-    of ATAG and the related documentation
--   [User Agent Accessibility Guidelines (UAAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/uaag/) - an overview
-    of UAAG and the related documentation
--   [WAI-ARIA Overview](%7B%7Bsite.github.url%7D%7D/standards/aria/) -
-    describes the problems that WAI-ARIA addresses, and introduces the
-    WAI-ARIA suite of technical documents
-
-#### Handouts
-
--   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
-
-### Suggestions for speakers
-
--   **Question:** Ask audience if they have ever used
-    [velcro](http://en.wikipedia.org/wiki/Velcro), and think
-    about how it works. Each side of the velcro must do a job, one can't
-    work without the other. Draw an analogy to assistive technologies,
-    adaptive strategies, and accessible web design.
--   **Tip:** Remind participants that even if they are not browser or
-    authoring tool developers, they can help improve such tools by
-    requesting accessibility features, especially during procurement.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="promoting" %}
-
-## 4. Promoting Web Accessibility
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Encourage web accessibility advocates and support their
-efforts to promote inclusive design practices.
-
-**Audience:** Accessibility advocates
-
-### Description
-
-This topic provides support for speakers who are promoting and
-furthering web accessibility within groups of all sizes and in any
-situation, from formal talks to personal conversations.
-
-### What this topic covers
-
--   Web accessibility is an ongoing challenge that needs a high level of
-    awareness
--   WAI resources to help you reach your audience
--   Opportunities to promote web accessibility
--   Participation opportunities in WAI and other W3C projects
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [Contacting Organizations about Inaccessible
-    Websites](http://www.w3.org/WAI/users/inaccessible) - steps and tips
-    to help report websites with accessibility problems
--   [Why Standards Harmonization is Essential to Web
-    Accessibility](http://www.w3.org/WAI/Policy/harmon) - explains the
-    key role that harmonization of standards plays in increasing the
-    accessibility of the Web
--   [How WAI Develops Accessibility Guidelines through the W3C Process:
-    Milestones and Opportunities to
-    Contribute](http://www.w3.org/WAI/intro/w3c-process) - introduces
-    how WAI works through a process designed to encourage community
-    input and consensus development
--   [Participating in WAI](http://www.w3.org/WAI/participation) -
-    describes the different participation opportunities in WAI
--   [WAI Working Groups and Interest
-    Groups](http://www.w3.org/WAI/groups) - listing of all the WAI
-    working groups and interest groups with links to their individual
-    pages
--   [WCAG logos](http://www.w3.org/WAI/WCAG2-Conformance) and [ATAG
-    logos](http://www.w3.org/WAI/ATAG10-Conformance) - how and when to
-    use the conformance logos
-
-#### Additional resources
-
--   [Translating WAI Documents](http://www.w3.org/WAI/translation) -
-    pointer to translation policy; list of existing translations;
-    priority list of documents for translation
--   [Developing Organizational Policies on Web
-    Accessibility](%7B%7Bsite.github.url%7D%7D/planning-and-managing/implement/) -
-    addresses considerations that can arise when developing
-    organizational policies on Web accessibility
-
-#### Handouts
-
--   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="intro20" %}
-
-## 5. Introducing WCAG 2.0
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Provide basic familiarity with WCAG 2.0 and its benefits.
-
-**Audience:** Anyone requiring an introduction to WCAG 2.0 and
-familiarization with the WCAG 2.0 documents.
-
-### Description
-
-This topic presents the use of WCAG 2.0 when developing websites
-(especially techniques to use and techniques to avoid) that will improve
-accessibility for people with disabilities and older people.
-
-### What this topic covers
-
--   The four basic principles (Perceivable, Operable, Understandable,
-    Robust) under which WCAG 2.0 is organized
--   Relationship of the organizing principles to the supporting
-    Guidelines, Success Criteria and associated techniques
--   Structure of WCAG 2.0 success criteria and associated techniques
-    (Sufficient, Advisory, Failure)
--   Benefits of WCAG 2.0 in relation to internationalization,
-    interoperability, adaptability to emerging technologies, etc.
--   Tools and documents provided to support practical implementation and
-    testing
--   How to locate supporting resources through the "How to Meet WCAG
-    2.0" gateway
-
-### Resources for developing a presentation
-
-#### Sample presentation
-
--   [Benefits of WCAG 2
-    presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
-    a related presentation to draw from
-
-#### Primary resources
-
--   [Web Content Accessibility Guidelines (WCAG)
-    Overview](http://www.w3.org/WAI/intro/wcag) - an overview of WCAG
-    and the related documentation
--   [Understanding the Four Principles of
-    Accessibility](http://www.w3.org/TR/UNDERSTANDING-WCAG20/intro#introduction-fourprincs-head)
-    in Introduction to Understanding WCAG 2.0
--   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
-    describes the different WCAG 2.0 technical documents, to help know
-    where to go for different types of information
--   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
-    customizable quick reference to WCAG 2.0 requirements and techniques
-
-#### Additional resources
-
--   [Web Content Accessibility Guidelines (WCAG)
-    2.0](http://www.w3.org/TR/WCAG20/) - formal technical standard
-    (W3C Recommendation)
--   [Understanding WCAG
-    2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/) - a guide to
-    understanding and implementing Web Content Accessibility Guidelines
-    2.0
--   [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/) -
-    techniques and failures for Web Content Accessibility Guidelines 2.0
-
-#### Handouts
-
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
--   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram.
-
-### Suggestions for speakers
-
--   **Demonstration:** Show how to effectively access WCAG 2.0
-    success criteria, understanding documents, and techniques using [How to
-    Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/).
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="migrate" %}
-
-## 6. Migrating to WCAG 2
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Help people wanting to transition to WCAG 2.0.
-
-**Audience:** Web developers, policy makers, and accessibility advocates
-
-### Description
-
-This topic provides support for those who have previously incorporated
-older accessibility standards and are interested in WCAG 2. Guidance to
-help prioritize, analyze, and document technical and organizational
+**Scenario:** A three-day hands-on workshop to inform participants about
+web accessibility and to teach developers how to implement accessibility
 requirements.
 
-### What this topic covers
+**Target audience:**
 
--   Acknowledgement that the basic goals of web accessibility have not
-    changed
--   Advantages of WCAG 2.0 as a common target for accessibility
--   Identification of priority areas for revision based on impact and
-    effort
--   The need to analyze and relate those priorities to WCAG 2.0
-    Principles, Guidelines and Success Criteria
--   Methods to document the process and update organizational policies
-    and supporting materials
--   Where to get more information, including WCAG 2.0 translations
+-   Managers and decision makers &mdash; Day 1
+-   Web content authors and visual designers &mdash; Days 1 and 2
+-   Website developers and application programmers &mdash; Days 1, 2, and 3
 
-### Resources for developing a presentation
+**Other key audiences** include staff from public relations, marketing,
+communications, human resources, procurement, legal and policy advisors,
+staff representatives, and many more involved with the web.
 
-#### Sample presentation
+### Overall learning objectives
 
--   [Benefits of WCAG 2
-    presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
-    a related presentation to draw from
+Managers and decision makers should be able to:
 
-#### Primary resources
+-   Explain the importance of web accessibility for people with
+    disabilities and older people
+-   List common barriers experienced by people with disabilities and
+    older people
+-   Describe the business case that influences an organization's web
+    accessibility efforts
 
--   [Web Content Accessibility Guidelines (WCAG)
-    Overview](http://www.w3.org/WAI/intro/wcag) - an overview of WCAG
-    and the related documentation
--   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
-    describes the different WCAG 2.0 technical documents, to help know
-    where to go for different types of information
--   [How to Update Your Web Site from WCAG 1.0 to WCAG
-    2.0](http://www.w3.org/WAI/WCAG20/from10/websites) - detailed
-    guidance for designers, developers, and project managers
--   [How WCAG 2.0 Differs from WCAG
-    1.0](http://www.w3.org/WAI/WCAG20/from10/diff) - describes the
-    differences in structure and the different support resources
--   [Comparison of WCAG 1.0 Checkpoints to WCAG
-    2.0](http://www.w3.org/WAI/WCAG20/from10/comparison/) - lists the
-    new requirements in WCAG 2.0, and shows how each WCAG 1.0 checkpoint
-    relates to WCAG 2.0
--   [WCAG 2.0 Translations](http://www.w3.org/WAI/WCAG20/translations) -
-    a list of complete and in-progress translations
+Authors and non-technical developers should be able to do above and **also**:
 
-#### Additional resources
+-   Explain the role of the WAI guidelines and other components in
+    achieving an accessible web
+-   Apply basic principles of accessibility during the preparation of
+    web content
+-   Carry out preliminary checks of websites for accessibility and
+    communicate the results
 
--   [Web Accessibility First Aid: Approaches for Interim Repairs](http://www.w3.org/WAI/impl/improving) - approaches to make the
-    process of improving accessibility more efficient and effective
--   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
-    planning process for implementing web accessibility
-
-#### Handouts
-
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
-
-### Suggestions for speakers
-
--   **Tip:** Explain to participants that communicating migration plans
-    in accessibility statements helps manage expectations.
+Website developers and application programmers should be able to do above and **also**:
+-   Utilize WCAG 2.0 and its supporting documents as a guide to
+    implementing accessible websites
+-   Apply WCAG 2.0 techniques to develop accessible layouts, forms,
+    tables, and other content
+-   Evaluate websites for conformance with WCAG 2.0 and communicate the
+    results
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="design" %}
+{% include_cached excol.html type="start" id="schedule" %}
 
-## 7. Designing and Developing Accessible Websites with WCAG 2
+## Schedule
 
 {% include_cached excol.html type="middle" %}
 
-**Goal:** Teach web developers how to create accessible web content and
-applications.
+### Day 1 schedule
+{:.no_toc}
 
-**Audience:** Web designers and developers
+1.  **09:00 - 10:30 [Session 1 - Introduction to web
+    accessibility](#d1s1)**
+2.  10:30 - 11:00 Break
+3.  **11:00 - 12:30 [Session 2 - Components of web
+    accessibility](#d1s2)**
+4.  12:30 - 13:30 Lunch
+5.  **13:30 - 15:00 [Session 3 - Managing web accessibility](#d1s3)**
+6.  15:00 - 15:30 Break
+7.  **15:30 - 17:00 [Session 4 - Accessible content authoring](#d1s4)**
+{:style="list-style:none;"}
 
-### Description
+### Day 2 schedule
+{:.no_toc}
 
-This topic presents the use of WCAG 2.0 when developing websites
-(especially techniques to use, and techniques to avoid) that will
-improve accessibility for people with disabilities and older people.
+1.  **09:00 - 09:30 [Session 1 - Working with WCAG 2.0](#d2s1)**
+2.  **09:30 - 10:30 [Session 2 - Visual design and
+    CSS](#d2s2)**
+3.  10:30 - 11:00 Break
+4.  **11:00 - 11:45 [Session 3 - Images](#d2s3)**
+5.  **11:45 - 12:30 [Session 4 - Multimedia](#d2s4)**
+6.  12:30 - 13:30 Lunch
+7.  **13:30 - 15:00 [Session 5 - Page structure](#d2s5)**
+8.  15:00 - 15:30 Break
+9.  **15:30 - 17:00 [Session 6 - Navigation and
+    orientation](#d2s6)**
+{:style="list-style:none;"}
 
-**Note:** This topic could be presented as an introduction (such as part
-of a [lecture to web design
-students](http://www.w3.org/WAI/training/presentation-outlines#design))
-or as a [multi-day workshop for developers](workshop-outlines). See also
-the related [Topic 9: Accessibility of Authoring Tools](#authoring).
+### Day 3 schedule
+{:.no_toc}
 
-### What this topic covers
-
--   Applicability of WCAG 2.0 Success Criteria to all web technologies,
-    including dynamic content, multimedia, and other formats
--   Application of techniques to meet WCAG 2.0 Success Criteria
--   Distinguishing between the different categories of techniques
-    (sufficient, advisory, and failure)
--   Using advisory techniques to optimize accessibility beyond the
-    minimum requirements
--   Using How to Meet WCAG 2.0 to effectively access WCAG 2.0
-    Guidelines, Success Criteria and associated techniques
--   Role of WAI-ARIA for dynamic applications using JavaScript, AJAX,
-    and other technologies
--   Where to get more information
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [Web Content Accessibility Guidelines (WCAG)
-    Overview](http://www.w3.org/WAI/intro/wcag) - an overview of WCAG
-    and the related documentation
--   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
-    describes the different WCAG 2.0 technical documents, to help know
-    where to go for different types of information
--   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
-    customizable quick reference to WCAG 2.0 requirements and techniques
--   [WCAG 2.0
-    Conformance](http://www.w3.org/WAI/WCAG20/quickref/Overview.php?introopt=Y#conformance-reqs) -
-    lists the WCAG 2.0 conformance levels and requirements
--   [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria) - describes
-    the problems that WAI-ARIA addresses, and introduces the WAI-ARIA
-    suite of technical document
--   [Benefits of WCAG 2
-    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
-    a complete presentation to draw from
-
-#### Additional resources
-
--   [Web Accessibility First Aid: Approaches for Interim Repairs](http://www.w3.org/WAI/impl/improving) - approaches to make the
-    process of improving accessibility more efficient and effective
--   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
-    planning process for implementing web accessibility
-
-#### Handouts
-
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
--   [Including People with Disabilities in Design
-    Studies](http://www.w3.org/WAI/flyer/#pwds)
-
-### Suggestions for speakers
-
--   **Demonstration:** Show how to effectively access WCAG 2.0
-    Guidelines, Success Criteria and associated techniques using [How to
-    Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/).
--   **Activity/Demonstration:** Explore the failures and repairs in the
-    [Before and After Demonstration](http://www.w3.org/WAI/demos/bad/).
-    Consider carrying out evaluations on the inaccessible pages of the
-    Demo and comparing with the reports provided, or carrying out
-    repairs and comparing with the accessible pages of the Demo.
--   **Tip:** Show examples of accessible websites with advanced
-    features, such as multimedia or scripting, to illustrate how
-    accessible web design can be applied to a wide range of websites.
--   **Tip:** Suggest participants repeat the activity/demonstration on
-    other websites after the session.
+1.  **09:30 - 11:00 [Session 1 - Tables](#d3s1)**
+2.  11:00 - 11:30 Break
+3.  **11:30 - 12:30 [Session 2 - Forms](#d3s2)**
+4.  12:30 - 13:30 Lunch
+5.  **13:30 - 15:00 [Session 3 - Basics of accessible scripting and
+    WAI-ARIA](#d3s3)**
+6.  15:00 - 15:30 Break
+7.  **15:30 - 16:00 [Session 4 - Principles of conformance
+    evaluation](#d3s4)**
+8.  **16:00 - 17:00 [Session 5 - Workshop review and lessons
+    learned](#d3s5)**
+{:style="list-style:none;"}
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="browsers" %}
+{% include_cached excol.html type="start" id="sessions" %}
 
-## 8. Browser Accessibility and UAAG
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Help people understand the importance of browsers and media
-players in enabling web accessibility.
-
-**Audience:** Web browser and media player developers, plug-in
-developers, assistive technology developers, ICT and procurement
-departments, web developers, accessibility advocates
-
-### Description
-
-This topic explains the relationship between user agents (browsers,
-media players, and other tools that access content), web content,
-assistive technologies and adaptive strategies. It introduces the User
-Agent Accessibility Guidelines (UAAG), and explains their importance for
-people with disabilities and older people.
-
-**Note:** See also the related [Topic 3: Components of Web
-Accessibility](#components).
-
-### What this topic covers
-
--   Understanding how UAAG relates to other WAI guidelines
--   Understanding user agents as one of the key components for web
-    accessibility
--   Principles and checkpoints for accessibility of user agents
--   How user agents interface with assistive technologies
--   Adaptive strategies used by people with disabilities in using user
-    agents
-
-### Resources for developing a presentation
-
-#### Sample presentation
-
--   [Components of Web Accessibility
-    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/components/) - a
-    related presentation to draw from
-
-#### Primary resources
-
--   [User Agent Accessibility Guidelines (UAAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/uaag/) - an overview
-    of UAAG and the related documentation
--   [User Agent Accessibility Guidelines (UAAG)
-    2.0](http://www.w3.org/TR/UAAG20/) – W3C Working Group Note (not a standard)
--   [User Agent Accessibility Guidelines
-    1.0 *(old standard)*](http://www.w3.org/TR/UAAG10/) - specifies requirements that, if
-    satisfied by user agent developers, will lower barriers to
-    accessibility
--   [Better Web Browsing: Tips for Configuring Your
-    Computer](http://www.w3.org/WAI/users/browsing) - references to
-    resources to help people customize their web browser and computer
-    setup
-
-#### Handouts
-
--   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram.
-
-### Suggestions for speakers
-
--   **Tip:** Emphasize the important role of browser accessibility, such
-    as increasing text size or supporting keyboard navigation,
-    especially for people who do not use assistive technologies such as
-    many older people.
--   **Activity/Demonstration:** Explore how browsers and media players
-    support adjusting text size or colors, navigating content using
-    keyboard only, displaying captions, and other strategies from
-    [Better Web Browsing: Tips for Configuring Your
-    Computer](http://www.w3.org/WAI/users/browsing). Discuss the
-    importance of user agents as the point of contact between people and
-    the Web.
--   **Tip:** Suggest participants repeat the activity/demonstration with
-    different user agents and websites after the session.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="authoring" %}
-
-## 9. Authoring Tool Accessibility and ATAG
+## Session Descriptions
 
 {% include_cached excol.html type="middle" %}
 
-**Goal:** Help people understand the importance of authoring tools in
-achieving web accessibility.
-
-**Audience:** Authoring tool developers, web developers, ICT and
-procurement departments, web developers, accessibility advocates
-
-### Description
-
-This topic explains the relationship between authoring tools (editors,
-content management systems, blogging tools, and other tools that produce
-content) and web content. It introduces the Authoring Tool Accessibility
-Guidelines (ATAG), and explains the importance of authoring tools to
-achieve and maintain accessible websites.
-
-**Note:** See also the related [Topic 3: Components of Web
-Accessibility](#components).
-
-### What this topic covers
-
--   Understanding how ATAG relates to other WAI guidelines
--   Understanding authoring tools as one of the key components for web
-    accessibility
--   Principles and checkpoints for accessibility of authoring tools
--   Role of authoring tools to manage the accessibility of web content,
-    including user generated content
--   Considerations for selecting and using authoring tools that support
-    accessibility
--   Ensuring that authoring tools are themselves accessible to people
-    with disabilities
-
-### Resources for developing a presentation
-
-#### Sample presentation
-
--   [Components of Web Accessibility
-    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/components/) - a
-    related presentation to draw from
-
-#### Primary resources
-
--   [Authoring Tool Accessibility Guidelines (ATAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/atag/) - an overview
-    of ATAG and the related documentation
--   [Authoring Tool Accessibility Guidelines (ATAG)
-    2.0](http://www.w3.org/TR/ATAG20/) - specifies requirements that, if
-    satisfied by authoring tool developers, will lower barriers to
-    accessibility
--   [Implementing ATAG
-    2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/) - a guide to
-    understanding and implementing Authoring Tool Accessibility
-    Guidelines 2.0
--   [Selecting and Using Authoring Tools for Web
-    Accessibility](http://www.w3.org/WAI/impl/software) - provides
-    information which may help find improved authoring tools and/or work
-    around the gaps in existing authoring tools
-
-#### Handouts
-
--   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility with a
-    diagram.
-
-### Suggestions for speakers
-
--   **Tip:** Ensure that audience understand the wide range of authoring
-    tools, including WYSIWYG HTML editor, word processor, text editor,
-    content management systems (CMS), blogging tools, social media
-    applications, and websites that enable user generated content such
-    as comments and reviews.
--   **Tip:** Emphasize the importance of training for content authors
-    and publishers in using the accessibility features of authoring
-    tools to produce accessible web content.
--   **Activity/Demonstration:** Explore how accessible authoring tools
-    are, and how well the produce web content. For instance, can the
-    authoring tool be used without a mouse, and does the generated
-    content meet accessibility standards? Discuss the significant role
-    of authoring tools to achieve and maintain accessibility, and the
-    importance that authoring tools are themselves accessible to people
-    with disabilities. Remind participants that there are people with
-    disabilities among developers too.
--   **Tip:** Suggest participants repeat the activity/demonstration with
-    other authoring tools after the session.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="aria" %}
-
-## 10. Accessible Rich Internet Applications (WAI-ARIA)
-
-{% include_cached excol.html type="middle" %}
-**Goal:** Provide an understanding of the requirements for accessible
-rich internet applications.
-
-**Audience:** Web developers, framework/library developers, assistive
-technology developers, ICT and procurement departments
-
-### Description
-
-This topic presents the use of WAI-ARIA resources and other
-accessibility techniques to develop rich internet applications that are
-accessible to people with disabilities.
-
-**Note:** See also the related [Topic 3: Components of Web
-Accessibility](#components).
-
-### What this topic covers
-
--   Accessibility barriers of rich internet applications
--   Basic steps to make rich internet applications accessible
--   Relationship between WAI-ARIA and WCAG 2.0
--   Technical solutions provided by WAI-ARIA, including:
-    -   WAI-ARIA features that help make Ajax, DHTML, etc accessible
-    -   WAI-ARIA Roles, States, Properties, plus relationships and live
-        regions
-    -   WAI-ARIA keyboard navigation and focus handling
--   Reminder that HTML 5 does not make WAI ARIA redundant
--   Know where to get more information, including JavaScript toolkits
-    and widget libraries
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria) - describes
-    the problems that WAI-ARIA addresses, and introduces the WAI-ARIA
-    suite of technical documents. Links to relevant documents, including:
-    -   [Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/TR/wai-aria/) – technical specification, web standard (W3C Recommendation)
--   [WAI-ARIA FAQ](http://www.w3.org/WAI/aria/faq) - some frequently
-    asked questions (FAQ) about WAI-ARIA
-
-<!-- @@ this will need better links or more thought to be specific enough to be a useful link here…
--   WAI-ARIA and scripting techniques from [How to Meet WCAG
-    2.0](http://www.w3.org/WAI/WCAG20/quickref/)
--->
-
-#### Handouts
-
--   [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources) - includes
-    information about Essential Components of Web Accessibility and a
-    link to the WAI-ARIA Overview page.
-
-### Suggestions for speakers
-
--   **Demonstration:** Show examples of making rich internet
-    applications accessible using WAI-ARIA. Discuss some of the current
-    issues, including incomplete support and other open issues that will
-    be resolved when WAI-ARIA is completed.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="bcase" %}
-
-## 11. Business Case for Web Accessibility
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Provide an appreciation of the business case for web
-accessibility.
-
-**Audience:** Managers and decision makers, ICT and procurement
-departments, marketing and legal departments, accessibility advocates
-and others who inform decisions and policies
-
-### Description
-
-This topic explores the social, technical, financial and legal factors
-that influence an organization's decision about web accessibility. It
-also provides an introduction to the development of web accessibility
-policies.
-
-### What this topic covers
-
--   Benefits for people with and without disabilities, including the
-    increasing ageing population
--   Reduction of development and operational costs, including server
-    load, bandwidth, and maintenance
--   Improved cross-device browsing, including mobile phones, interactive
-    television, and other delivery channels
--   The legal and policy landscape, and liabilities associated with not
-    implementing web accessibility
--   Developing policies, including procurement practices, relating to
-    web accessibility
--   Case studies, statistic, and figures covering return on investment
-    from web accessibility
-
-### Resources for developing a presentation
-
-#### Primary resources
--   [Developing a Web Accessibility Business Case for Your
-    Organization](http://www.w3.org/WAI/bcase/) - a suite of pages
-    covering the social, technical, financial, and legal and policy
-    factors in the business case for web accessibility. Includes resources such as:
-    -   [Case Studies of Accessibility
-        Improvements](http://www.w3.org/WAI/bcase/resources#cases)
-    -   [Statistics on People with Disabilities and Web
-        Use](http://www.w3.org/WAI/bcase/resources#statecom)
-    -   [Accessibility Improving Search Engine
-        Optimization](http://www.w3.org/WAI/bcase/resources#seo)
-    -   [Example for ROI
-        calculations](http://www.w3.org/WAI/bcase/resources#roi)
-    -   [Cautionary Tales of
-        Inaccessibility](http://www.w3.org/WAI/bcase/resources#casesnot)
--   [Web Content Accessibility and Mobile Web: Making a Web Site
-    Accessible Both for People with Disabilities and for Mobile
-    Devices](http://www.w3.org/WAI/mobile/overlap.html)
--   [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]( https://www.w3.org/WAI/older-users/)
-    -   Overview of "Web Accessibility for Older Users: A Literature Review" – includes [statistics on the impact and prevalence of ageing]( https://www.w3.org/WAI/intro/wai-age-literature#summary)
--   [Web Accessibility Laws and Policies](http://www.w3.org/WAI/Policy/) - links to laws and
-    policies regarding web accessibility around the world
--   [Developing Organizational Policies on Web
-    Accessibility](https://www.w3.org/WAI/impl/pol) -
-    addresses considerations that can arise when developing
-    organizational policies on web accessibility
-
-### Suggestions for speakers
-
--   **Discussion:** Explore how accessibility solutions are becoming
-    increasing available in mainstream products and services. For
-    example, text-to-speech (speech synthesis), voice recognition
-    (speech input), touch screens, motion sensors, and others in mobile
-    devices, car navigation systems, interactive television, game
-    consoles, and many more. Discuss how accessibility features benefit
-    everyone, including people with and without disabilities.
--   **Question:** Ask if anyone has experienced problems browsing the
-    Web with a mobile phone. Discuss the [barriers common to mobile
-    device users and people with
-    disabilities](http://www.w3.org/WAI/mobile/experiences), and how
-    accessible web design benefits mobile web users.
--   **Discussion:** Explore the international, national, or
-    organizational policies that are applicable to the participants.
-    Discuss relevant [laws and policies relating to web
-    accessibility](http://www.w3.org/WAI/Policy/), [legal and policy
-    factors](http://www.w3.org/WAI/bcase/pol) in a web accessibility
-    business case, and [cautionary tales of
-    inaccessibility](http://www.w3.org/WAI/bcase/resources#casesnot).
--   **Discussion:** Explore effective ways to increase the adoption of
-    web accessibility within organizations. Discuss the role of key
-    players, such as management, procurement, and local advocates.
--   **Tip:** Refer to your local disability organizations for further
-    background on statistics, local policies, and examples of good and
-    bad practices.
--   **Tip:** Give accessibility a human face, for example by relating it
-    to older relatives, such as grandparents, who may be encountering
-    accessibility barriers as they go online.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="improve" %}
-
-## 12. Improving the Accessibility of Existing Websites
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Assistance for organizations taking the initial steps towards
-implementing web accessibility.
-
-**Audience:** Web developers, website owners, decision makers
-
-### Description
-
-This topic introduces the process of embracing web accessibility by
-improving existing websites. The topic also covers how to maintain the
-website's accessibility over time.
-
-### What this topic covers
-
--   Considerations for setting appropriate web accessibility targets
--   Identifying scope and nature of existing accessibility problems
--   Creating an implementation plan to achieve the accessibility targets
--   Ideas for prioritizing repairs according to different strategies
--   Planning for ongoing monitoring and maintenance of accessibility
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [Web Accessibility First Aid: Approaches for Interim Repairs](http://www.w3.org/WAI/impl/improving) - approaches to make the
-    process of improving accessibility more efficient and effective
--   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
-    planning process for implementing web accessibility
--   [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
-    provides step-by-step guidance and brief explanations for checking some aspects of accessibility.
--   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
-    introduces an approach for determining conformance to Web Content Accessibility Guidelines (WCAG)
-
-### Suggestions for speakers
-
--   **Activity/Demonstration:** Explore web accessibility barriers using
-    some of the techniques from [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/).
--   **Discussion:** Explore the failures and repairs in the [Before and
-    After Demonstration](http://www.w3.org/WAI/demos/bad/). Discuss how
-    websites can be made accessible with little or no change to their
-    visual design.
--   **Tip:** Suggest participants repeat the activity/demonstration with
-    other websites, including their own, after the session.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="involving" %}
-
-## 13. Involving Users in Web Projects
-
-{% include_cached excol.html type="middle" %}
-**Goal:** Encourage all web projects to involve users from the start.
-
-**Audience:** Managers, development teams, quality assurance and
-usability departments
-
-### Description
-
-This topic covers benefits involving people with disabilities and older
-people from the beginning of any web development project. It
-demonstrates how users can identify usability aspects of accessibility
-that are not always discovered by conformance evaluation alone.
-
-### What this topic covers
-
--   Benefits of involving users with disabilities and older users in
-    development and evaluation of web sites
--   How and when to engage users with disabilities and older users
--   How testing with users can complement the technical conformance to
+### Introduction to web accessibility &mdash; Day 1 Session 1 {#d1s1}
+
+**Target audience:** Managers and decision makers, web content authors
+and visual designers, website developers and application programmers,
+and other key audiences
+
+#### Learning Objectives:
+
+-   Explain the importance of web accessibility for people with
+    disabilities and older people
+-   List common barriers experienced by people with disabilities and
+    older people
+-   Describe the benefits of web accessibility for people with and
+    without disabilities
+-   Understand that the W3C/WAI Guidelines are the international
+    standard for web accessibility
+
+#### Outline:
+
+-   Overview of web accessibility, including what web accessibility is
+    and why it's important
+-   Videos showing people with disabilities using the web
+-   Information about the ageing population and ageing-related
+    impairments
+-   Relevant legislation or other policies applicable to participants'
+    organizations
+-   Carry-over benefits of universal design for people with and without
+    disabilities
+-   Business benefits of web accessibility, including some case studies
+-   Overlapping experiences of people with disabilities and mobile users
+-   Introduction to WAI guidelines as the international standard for
+    making the web accessible
+
+#### Related Accessibility Topics:
+
+-   [Introducing Web
+    Accessibility](http://www.w3.org/WAI/training/topics#intro)
+-   [How People with Disabilities Use the
+    Web](http://www.w3.org/WAI/training/topics#people)
+-   [Business Case for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#bcase)
+-   [Web Accessibility and Older
+    People](http://www.w3.org/WAI/training/topics#older)
+-   [Web Accessibility Policy and
+    Legislation](http://www.w3.org/WAI/training/topics#policy)
+-   [Accessibility and the Mobile
+    Web](http://www.w3.org/WAI/training/topics#mobile)
+
+### Components of web accessibility &mdash; Day 1 Session 2 {#d1s2}
+
+**Target audience:** Managers and decision makers, web content authors
+and visual designers, website developers and application programmers,
+and other key audiences
+
+#### Learning Objectives:
+
+-   Explain the components of web accessibility, including authoring
+    tools and user agents
+-   Explain the role of the W3C/WAI Guidelines in providing a technical
+    standard for accessibility
+-   Define the basic concepts of WCAG 2.0, its organizing principles and
     guidelines
--   Involving users is not an add-on at the end but needs to be part of
-    the workflow throughout development process
--   Care required when drawing conclusions from observing users
--   Where to get more information
+-   Describe the importance of authoring tools that support the
+    production of accessible content
+-   Describe the benefits of involving people with disabilities
+    throughout any web development
 
-### Resources for developing a presentation
+#### Outline:
 
-#### Primary resources
+-   Hands-on experiential session showing the use of adaptive strategies
+    and assistive technologies
+-   Introduction to the components of web accessibility
+-   Introduction to WCAG 2.0, its four basic design principles, and
+    guidelines
+-   Benefits of WCAG 2.0
+-   Importance of accessible authoring tools, including content
+    management systems
+-   Benefits of involving users in all aspects of web projects from the
+    beginning
 
--   [Involving Users in Web Projects for Better, Easier
-    Accessibility](%7B%7Bsite.github.io%7D%7D/plan/involving-users/) - a
-    start to reaping the benefits of involving people with disabilities
-    and older people throughout your projects
--   [Involving Users in Evaluating Web
-    Accessibility](http://www.w3.org/WAI/eval/users) - describes the
-    benefits of evaluating with real people and identifying usability
-    issues that are not discovered by conformance evaluation alone
--   [How People with Disabilities use the
-    Web](http://www.w3.org/WAI/intro/people-use-web) - provides examples
-    of people with different disabilities using websites, web
-    applications, browsers, and authoring tools
+#### Handouts:
 
-#### Handouts
-
+-   [WCAG 2 at a
+    Glance](http://www.w3.org/WAI/flyer/Overview.html#glance)
 -   [Including People with Disabilities in Design
-    Studies](http://www.w3.org/WAI/flyer/#pwds)
+    Projects](http://www.w3.org/WAI/flyer/Overview.html#pwds)
 
-### Suggestions for speakers
+#### Related Accessibility Topics:
 
--   **Discussion:** Ask participants to share experiences of involving
-    users in their projects. Discuss the benefits of involving users
-    throughout design processes. Help participants identify
-    opportunities to involve users in their own projects.
+-   [Components of Web
+    Accessibility](http://www.w3.org/WAI/training/topics#components)
+-   [Involving Users in Web
+    Projects](http://www.w3.org/WAI/training/topics#involving)
+-   [Introducing WCAG
+    2.0](http://www.w3.org/WAI/training/topics#intro20)
+-   [How People with Disabilities Use the
+    Web](http://www.w3.org/WAI/training/topics#people)
 
-{% include_cached excol.html type="end" %}
+### Managing web accessibility &mdash; Day 1 Session 3 {#d1s3}
 
-{% include_cached excol.html type="start" id="older" %}
+**Target audience:** Managers and decision makers, web content authors
+and visual designers, website developers and application programmers,
+and other key audiences
 
-## 14. Web Accessibility and Older People
+#### Learning Objectives:
 
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Help people understand the importance of web accessibility for
-older people.
-
-**Audience:** Managers and decision makers, web developers, ICT and
-procurement departments, marketing and legal departments, accessibility
-advocates and others who inform decisions and policies
-
-### Description
-
-This topic explores the importance of the adoption of WAI guidelines to
-meet the needs of people with ageing-related impairments. It provides
-some statistics highlighting the demographic changes.
-
-### What this topic covers
-
--   Facts about the ageing world population and the increasing numbers
-    of older users online
--   Relationship between ageing-related impairments and web
+-   Describe the steps needed to develop an implementation plan for web
     accessibility
--   Importance of conforming to WAI Guidelines to meet the accessibility
-    needs of older people
--   Scope and deliverables of the WAI-AGE Project, and resources for
-    industry and users
--   Where to get more information
+-   Describe the steps needed to develop organizational policies on web
+    accessibility
+-   Identify key players in achieving an accessible website
+-   Describe the principles for selecting appropriate authoring and
+    evaluation tools
+-   Conduct a preliminary check of websites for accessibility and
+    communicate the results
 
-### Resources for developing a presentation
+#### Outline:
 
-#### Sample presentation
+-   Developing a web accessibility implementation plan
+-   Requirements for an accessibility policy for an organization
+-   Approaches to improving the accessibility of an organization's
+    existing website
+-   Identification of key players (people, departments) with the
+    organization who might be responsible for developing, managing, and
+    maintaining an accessible site
+-   Considerations in selecting authoring tools and content management
+    systems (CMS's)
+-   Selecting evaluation tools for checking web accessibility
+-   Undertaking and documenting a quick check for web accessibility with
+    exercise
 
--   [Web Accessibility for Older Users
-    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/ageing/) - can
-    be used as the basis for a presentation on this topic
+#### Related Accessibility Topics:
 
-#### Primary resources
+-   [Improving the Accessibility of Existing
+    Websites](http://www.w3.org/WAI/training/topics#improve)
+-   [Web Accessibility Policy and
+    Legislation](http://www.w3.org/WAI/training/topics#policy)
+-   [Authoring Tool Accessibility and
+    ATAG](http://www.w3.org/WAI/training/topics#authoring)
+-   [Quick Check for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#check)
 
--   [Web Accessibility and Older People: Meeting the Needs of Ageing Web
-    Users](http://www.w3.org/WAI/older-users/) - introduces the issues
-    facing older people with age-related impairments and associated WAI
-    resources
--   [Overview of "Web Accessibility for Older Users: A Literature
-    Review"](http://www.w3.org/WAI/intro/wai-age-literature) - the
-    Literature Review informs educational activities and enables better
-    promotion of accessibility solutions for older Web users
--   [WAI-AGE Project](http://www.w3.org/WAI/WAI-AGE/) - contains an
-    overview of the education and outreach materials updated or
-    developed within the WAI-AGE Project
+### Content authoring &mdash; Day 1 Session 4 {#d1s4}
 
-#### Handouts
+**Target audience:** Managers and decision makers, web content authors
+and visual designers, website developers and application programmers,
+and other key audiences
 
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.
+**Note:** This session provides an introduction to the preparation of
+accessible web content. Additional and focused training may be required
+for web content authors.
 
-### Suggestions for speakers
+#### Learning Objectives:
 
--   **Demonstration:** Show some [videos with older people using the Web
-    ![- external
-    page](/Icons/offsite.png)](http://www.uiaccess.com/accessucd/resources_videos.html).
--   **Activity:** Show some simulations of low vision; get participants
-    to experience some impairments, e.g. using the mouse with other hand
-    and browsing some sites with text enlarged.
+-   Describe accessibility requirements relevant to content authors,
+    including for text, colors, and presentation
+-   Author accessible web content, including text-alternatives, text,
+    links, and other page elements
+
+#### Outline:
+
+-   Introduction to the accessibility requirements for making web
+    content readable and understandable, including reading level
+    considerations and creating clear links
+-   Introduction to other important accessibility features for content:
+    -   Describing the purpose of images using alt-text (e.g. non-text
+        content)
+    -   Page organization (e.g. headings, labels, and other
+        relationships)
+    -   Visual presentation of text (e.g. colors, size, spacing, etc)
+-   Hands-on accessible content exercise, for instance one of the
+    following:
+    -   rewriting material to make it more readable and understandable
+    -   organizing/structuring page content
+    -   writing appropriate alt-text for a variety of different images
+        in different contexts
+    -   improving the visual presentation of the page
+-   Additional requirements for preparing accessible content (e.g.
+    abbreviations and acronyms, and jargon and unusual words)
+
+#### Related Accessibility Topics:
+
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+-   [Quick Check for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#check)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [Guideline 3.1 Make text content readable and
+    understandable](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning)
+-   [3.1.5 Reading
+    Level](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements)
+-   [2.4.4 Link Purpose (In
+    Context)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs)
+-   [1.1.1 Non-text
+    Content](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all)
+-   [2.4.10 Section
+    Headings](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-headings)
+-   [2.4.6 Headings and
+    Labels](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive)
+-   [1.3.1 Info and
+    Relationships](http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic)
+-   [1.4.1 Use of
+    Color](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color)
+-   [1.4.3 Contrast
+    (Minimum)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast)
+-   [1.4.8 Visual
+    Presentation](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation)
+-   [3.1.4
+    Abbreviations](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-located)
+-   [3.1.3 Unusual
+    Words](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-idioms)
+
+### Working with WCAG 2.0 &mdash; Day 2 Session 1  {#d2s1}
+
+**Target audience:** Web content authors and visual designers, website
+developers and application programmers
+
+#### Learning Objectives:
+
+-   Explain the concepts of WCAG 2.0 and list its supporting documents
+-   Use WCAG 2.0 documents to support practical implementation and
+    testing
+-   Explain the improvements and benefits of WCAG 2.0
+
+#### Outline:
+
+-   Introduction to the WCAG 2.0 documents
+-   Demonstration of the "How to Meet WCAG 2.0" customizable quick
+    reference
+-   Benefits of WCAG 2.0, especially in relation to testability and
+    applicability to different situations
+-   Applicability of WCAG 2.0 to all web technologies
+-   Introduction to accessibility support
+
+#### Related Accessibility Topics:
+
+-   [Introducing WCAG
+    2.0](http://www.w3.org/WAI/training/topics#intro20)
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [Understanding Accessibility
+    Support](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance#uc-accessibility-support-head)
+
+### Visual design and CSS &mdash; Day 2 Session 2 {#d2s2}
+
+**Target audience:** Web content authors and visual designers, website
+developers and application programmers
+
+#### Learning Objectives:
+
+-   Embrace the differences between the web and print media
+-   Know the accessibility requirements for visual web page design and
+    how to test for them
+-   Incorporate accessibility requirements in the visual design and
+    development of web pages
+
+#### Outline:
+
+-   Overview of the adaptability of the web, highlighting the
+    differences from print media
+-   Accessibility aspects of visual design of websites
+-   Importance of the use of color and contrast in accessible design
+-   Advisory techniques that enhance a site's readability, including the
+    visual presentation
+-   Accessibility requirements for resizable text and flexible page
+    layout
+-   Practical exercise, such as identifying pages with inaccessible
+    visual design
+-   Introduction to the issues associated with movement on web pages
+    (e.g. from scrolling text, animations, flashing/flickering)
+
+#### Related Accessibility Topics:
+
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+-   [Conformance Evaluation for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#conform)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [1.4.8 Visual
+    Presentation](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation)
+-   [1.4.1 Use of
+    Color](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color)
+-   [1.4.3 Contrast
+    (Minimum)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast)
+    & [1.4.6 Contrast
+    (Enhanced)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7)
+-   [Guideline 3.1
+    Readable](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning#meaning-advisory)
+-   [1.4.4 Resize
+    Text](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-scale)
+-   [2.2.2 Pause, Stop,
+    Hide](http://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-pause)
+-   [2.3.1 Seizures](http://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure)
+
+### Images &mdash; Day 2 Session 3 {#d2s3}
+
+**Target audience:** Web content authors and visual designers, website
+developers and application programmers
+
+#### Learning Objectives:
+
+-   Know the technical accessibility requirements for images
+-   Implement and test appropriate text alternatives for a wide range of
+    image-based content
+
+#### Outline:
+
+-   Introduction to the many different types of images and different
+    contexts that require consideration for accessibility
+-   Providing access to data and longer descriptions for diagrams,
+    graphs, photographs, etc
+-   Use of CSS to include decorative and formatting images
+-   Introduction to the accessibility issues of images of text
+-   Practical hands-on exercise, for instance to improve the
+    accessibility of some image-heavy pages
+-   Introduction to additional image-related issues such as sensory
+    experiences and use of CAPTCHA
+
+#### Related Accessibility Topics:
+
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+-   [Conformance Evaluation for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#conform)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [1.1.1 Non-text
+    Content](http://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all)
+-   [1.4.8 Images of Text (No
+    Exception)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-text-images)
+
+From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+
+-   [C9: Using CSS to include decorative
+    images](http://www.w3.org/TR/2007/WD-WCAG20-TECHS-20071211/C9)
+
+### Multimedia &mdash; Day 2 Session 4 {#d2s4}
+
+**Target audience:** Web content authors and visual designers, website
+developers and application programmers
+
+#### Learning Objectives:
+
+-   Know the accessibility requirements for multimedia
+-   Implement and test appropriate accessible alternatives for
+    multimedia materials
+
+#### Outline:
+
+-   Introduction to the need for accessible synchronized media (audio
+    and video; recorded and real-time)
+-   Illustration of the accessibility issues with some media players
+-   Solutions for accessible pre-recorded media, including transcripts,
+    captions, and audio-description
+-   Practical hands-on exercise, for instance captioning some video with
+    an appropriate tool
+-   Introduction to the issues and solutions for live audio and live
+    synchronized media (video)
+
+#### Related Accessibility Topics:
+
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+-   [Conformance Evaluation for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#conform)
+-   [Browser Accessibility and
+    UAAG](http://www.w3.org/WAI/training/topics#browsers)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [Guideline 1.2 Time-based
+    Media](http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv)
+-   [1.2.2 Captions
+    (Prerecorded)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-captions)
+-   [1.2.3 Audio Description or Media Alternative
+    (Prerecorded)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc)
+-   [1.2.6 Sign Language
+    (Prerecorded)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-sign)
+-   [1.2.9 Audio-only
+    (Live)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-live-audio-only)
+-   [1.2.4 Captions
+    (Live)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions)
+
+### Page structure &mdash; Day 2 Session 5 {#d2s5}
+
+**Target audience:** Web content authors and visual designers, website
+developers and application programmers
+
+#### Learning Objectives:
+
+-   Know the necessity of structural relationships for understanding web
+    pages
+-   Implement and test semantic structure and links to aid understanding
+    and navigation of web pages
+
+#### Outline:
+
+-   Introduction to the importance of page information and structure
+-   Use of headings for organizing page content, and the use of correct
+    heading levels
+-   Importance of lists in understanding and navigating web pages
+-   Additional page navigation techniques such as 'skip links' and
+    providing a table of contents
+-   Importance of ensuring that content is presented in a meaningful
+    sequence with a sequential navigation order
+-   Practical hands-on exercise, for instance one of the following:
+    -   Identification of accessibility improvements to page structure
+    -   Coding accessible page navigation, headings, and lists
+
+#### Related Accessibility Topics:
+
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+-   [Conformance Evaluation for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#conform)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [1.3.1 Info and
+    Relationships](http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic)
+-   [2.4.6 Headings and
+    Labels](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive)
+-   [1.3.2 Meaningful
+    Sequence](http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence)
+-   [2.4.3 Focus
+    Order](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order)
+-   [2.4.1 Bypass
+    Blocks](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip)
+
+From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+
+-   [G141: Organizing a page using
+    headings](http://www.w3.org/TR/WCAG20-TECHS/G141)
+-   [H42: Using h1-h6 to identify
+    headings](http://www.w3.org/TR/WCAG20-TECHS/H42)
+-   [H48: Using ol, ul and dl for
+    lists](http://www.w3.org/TR/WCAG20-TECHS/H48)
+-   [G64: Providing a Table of
+    Contents](http://www.w3.org/TR/WCAG20-TECHS/G64)
+
+### Site navigation and orientation &mdash; Day 2 Session 6 {#d2s6}
+
+**Target audience:** Web content authors and visual designers, website
+developers and application programmers
+
+#### Learning Objectives:
+
+-   Know the requirements for accessible website navigation and
+    orientation
+-   Implement and test accessible navigation elements and provide
+    meaningful navigation across a website
+
+#### Outline:
+
+-   Introduction to the importance of website navigation, including:
+    -   Provision of multiple ways to locate a web page
+    -   Provision of consistent navigation across a website
+    -   Ensuring that the purpose of links is clear
+-   Provision of information about the user's current location,
+    including the importance of page titles that describe the page's
+    topic or purpose
+-   Practical hands-on exercise, for instance one of the following:
+    -   Identifying inaccessible navigation on some sites
+    -   Identifying orientation improvements for some sites
+-   Introduction to some of the known failures for creating links and
+    menus such as scripts emulating links and scripted drop-down boxes
+
+#### Related Accessibility Topics:
+
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+-   [Conformance Evaluation for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#conform)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [2.4.5 Multiple
+    Ways](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-mult-loc)
+-   [3.2.3 Consistent
+    Navigation](http://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations)
+-   [2.4.4 Link Purpose (In
+    Context)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs)
+-   [2.4.8
+    Location](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-location)
+-   [2.4.2 Page
+    Titled](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title)
+
+From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+
+-   [F42: Failure of Success Criterion 1.3.1 and 2.1.1 due to using
+    scripting events to emulate links in a way that is not
+    programmatically
+    determinable](http://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/F42)
+-   [F36: Failure of Success Criterion 3.2.2 due to automatically
+    submitting a form and presenting new content without prior warning
+    when the last field in the form is given a
+    value](http://www.w3.org/TR/WCAG20-TECHS/)
+
+### Tables &mdash; Day 3 Session 1 {#d3s1}
+
+**Target audience:** Web developers and application programmers
+
+#### Learning Objectives:
+
+-   Know the requirements for accessible data tables
+-   Implement and test accessible data tables
+
+#### Outline:
+
+-   Introduction to the concept of accessible tables requiring explicit
+    information and relationships to aid understanding
+-   Introduction of the known failures for presenting tables
+-   Accessible table markup, including header cells with scope
+    attributes, table titles and summaries
+-   Advanced table markup for more complex tables, including cell
+    association
+-   Illustration of table navigation techniques used by assistive
+    technology users
+-   Practical hands-on exercise, for instance one of the following:
+    -   Coding some simple and complex tables
+    -   Evaluating some tables for accessibility and recommending
+        improvements
+-   Introduction of some advisory techniques for tables such as cell
+    highlighting on hover
+
+#### Related Accessibility Topics:
+
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+-   [Conformance Evaluation for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#conform)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [1.3.1 Info and
+    Relationships](http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic)
+-   [1.4.8 Visual
+    Presentation](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation#visual-audio-contrast-visual-presentation-94-head)
+
+From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+
+-   [H51: Using table markup to present tabular
+    information](http://www.w3.org/TR/WCAG20-TECHS/H51)
+-   [H63: Using the scope attribute to associate header cells and data
+    cells in data tables](http://www.w3.org/TR/WCAG20-TECHS/H63)
+-   [H39: Using caption elements to associate data table captions with
+    data tables](http://www.w3.org/TR/WCAG20-TECHS/H39)
+-   [H73: Using the summary attribute of the table element to give an
+    overview of data tables](http://www.w3.org/TR/WCAG20-TECHS/H73)
+-   [H43: Using id and headers attributes to associate data cells with
+    header cells in data tables](http://www.w3.org/TR/WCAG20-TECHS/H43)
+
+### Forms &mdash; Day 3 Session 2 {#d3s2}
+
+**Target audience:** Web developers and application programmers
+
+#### Learning Objectives:
+
+-   Know the accessibility requirements for accessible forms
+-   Implement and test accessibility features of forms
+
+#### Outline:
+
+-   Introduction of the information and relationship requirements for
+    basic form accessibility
+-   Introduction of some of the known failures for forms such as
+    automatic submission and issues with phone numbers
+-   Accessible form features such as labels, instructions, keyboard
+    compatible controls, and indicating required fields
+-   Advisory techniques such as linear form design and warning users
+    about changes of context
+-   Practical hands-on exercise, for instance one of the following:
+    -   Coding accessible forms
+    -   Evaluating online forms for accessibility and recommending
+        improvements
+-   Introduction to advanced accessibility approaches for completing
+    forms, including error correction suggestions, error prevention,
+    context sensitive help, client-side validation, and
+    re-authenticating
+-   Accessibility implications of error correction and reporting
+    approaches (client-side - server-side)
+-   Adequate interaction time as an issue for form completion
+
+#### Related Accessibility Topics:
+
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+-   [Conformance Evaluation for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#conform)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [1.3.1 Info and
+    Relationships](http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic)
+-   [3.3.2 Labels or
+    Instructions](http://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-cues)
+-   [3.3.3 Error
+    Suggestion](http://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-suggestions)
+-   [3.3.4 Error Prevention (Legal, Financial,
+    Data)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-reversible)
+-   [3.3.5
+    Help](http://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-context-help)
+-   [2.2.5
+    Re-authenticating](http://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-server-timeout)
+-   [2.2.1 Timing
+    Adjustable](http://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-required-behaviors)
+
+From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+
+-   [F36: Failure of Success Criterion 3.2.2 due to automatically
+    submitting a form and presenting new content without prior warning
+    when the last field in the form is given a
+    value](http://www.w3.org/TR/WCAG20-TECHS/)
+-   [F82: Failure of Success Criterion 3.3.2 by visually formatting a
+    set of phone number fields but not including a text
+    label](http://www.w3.org/TR/WCAG20-TECHS/F82)
+-   [H91: Using HTML form controls and
+    links](http://www.w3.org/TR/WCAG20-TECHS/H91)
+-   [H92: Including a text cue for colored form control
+    labels](http://www.w3.org/TR/WCAG20-TECHS/h92)
+-   [G13: Describing what will happen before a change to a form control
+    that causes a change of context to occur is
+    made](http://www.w3.org/TR/WCAG20-TECHS/G13)
+-   [SCR18: Providing client-side validation and
+    alert](http://www.w3.org/TR/WCAG20-TECHS/SCR18)
+
+### Basics of accessible scripting and WAI-ARIA (Accessible Rich Internet Applications) &mdash; Day 3 Session 3 {#d3s3}
+
+**Target audience:** Web developers and application programmers
+
+#### Learning Objectives:
+
+-   Identify common barriers in scripted content
+-   Learn to include progressive enhancement techniques in the
+    development process
+-   Understand the additional accessibility provided by WAI-ARIA for
+    rich internet applications
+-   Implement and test basic accessibility scripting features
+
+#### Outline:
+
+-   Introduction to the barriers created by some scripting techniques
+-   Introduction to the concept of progressive enhancement with
+    scripting
+-   Introduction to scripting techniques that satisfy WCAG 2.0 success
+    criteria
+-   Introduction to WAI-ARIA and accessibility barriers in rich internet
+    applications
+-   WAI-ARIA techniques to improve keyboard usage and setting of focus
+-   Hands-on analysis of scripting challenges and solutions related to
+    web applications, for example:
+    -   embedded objects such as media players
+    -   device specific events
+    -   generic elements as interface controls
+    -   scripting elements to emulate links
+    -   scripted drop-down boxes
+-   Provision of related resources, including the use of libraries and
+    toolkits with WAI-ARIA support
+
+#### Related Accessibility Topics:
+
+-   [Designing Accessible Websites with WCAG
+    2](http://www.w3.org/WAI/training/topics#design)
+-   [Accessible Rich Internet
+    Applications](http://www.w3.org/WAI/training/topics#aria)
+-   [Conformance Evaluation for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#conform)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+
+-   [Client-side Scripting Techniques for WCAG
+    2.0](http://www.w3.org/TR/WCAG20-TECHS/client-side-script)
+-   [F54: Failure of Success Criterion 2.1.1 due to using only
+    pointing-device-specific event handlers (including gesture) for a
+    function](http://www.w3.org/TR/WCAG20-TECHS/F54)
+-   [F59: Failure of Success Criterion 4.1.2 due to using script to make
+    div or span a user interface control in
+    HTML](http://www.w3.org/TR/WCAG20-TECHS/F59)
+-   [F42: Failure of Success Criterion 1.3.1 and 2.1.1 due to using
+    scripting events to emulate links in a way that is not
+    programmatically
+    determinable](http://www.w3.org/TR/WCAG20-TECHS/F42)
+-   [F36: Failure of Success Criterion 3.2.2 due to automatically
+    submitting a form and presenting new content without prior warning
+    when the last field in the form is given a
+    value](http://www.w3.org/TR/WCAG20-TECHS/F36)
+
+### Principles of conformance evaluation &mdash; Day 3 Session 4 {#d3s4}
+
+**Target audience:** Web developers and application programmers
+
+#### Learning Objectives:
+
+-   Define the concept of a conformance evaluation for websites
+-   Understand the importance of involving users in web accessibility
+    evaluation
+-   Understand the concept of accessibility support and its
+    applicability to the organization's website
+
+#### Outline:
+
+-   Introduction of the concept of website conformance testing as a
+    formal extension of the testing done in previous sessions
+-   Process for conformance evaluation of websites for accessibility
+-   WCAG 2.0 conformance requirements and conformance claims
+-   Selection of automated tools and their benefits and drawbacks
+-   Combining testing with users with formal conformance evaluation
+    methods
+-   Introduction of the concept of accessibility supported technologies
+
+#### Related Accessibility Topics:
+
+-   [Conformance Evaluation for Web
+    Accessibility](http://www.w3.org/WAI/training/topics#conform)
+
+#### Relevant WCAG 2.0 Resources:
+
+From [Understanding WCAG
+2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
+
+-   [Understanding
+    Conformance](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance)
+-   [Understanding Accessibility
+    Support](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance#uc-accessibility-support-head)
+
+### Workshop review and lessons learned &mdash; Day 3 Session 5 {#d3s5}
+
+**Target audience:** Web developers and application programmers
+
+#### Session Objectives:
+
+-   Ensure participants have understood the key messages from the
+    workshop
+-   Provide an opportunity for questions and answers to outstanding
+    issues
+
+#### Outline:
+
+-   General questions and answers (Q&A) to elaborate on anything needing
+    clarification
+-   Summary of the overall requirements for accessible web design and
+    development
+-   Reiteration of the value of using "How to Meet WCAG 2.0" as a
+    gateway to WCAG 2.0
+-   Opportunities for follow-up, including the [WAI Interest
+    Group](http://www.w3.org/WAI/IG/) (and the associated [WAI-IG email
+    list](http://www.w3.org/WAI/WCAG20/quickref/))
+
+#### Suggested activity:
+
+-   Ask participants to write down something they learned in the last
+    two days that they will incorporate in their work immediately,
+    something that surprised them, or the most interesting thing they
+    learned. Discuss some of the impressions from the participants to
+    share lessons learned.
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="mobile" %}
+{% include_cached excol.html type="start" id="notes" %}
 
-## 15. Accessibility and the Mobile Web
+## Important Notes
 
 {% include_cached excol.html type="middle" %}
 
-**Goal:** Provide an understanding of the overlapping issues between web
-accessibility and mobile web use.
+This example workshop is not a complete set of training material.
+Trainers will need to adapt the material to suit their audience. For
+example, for an in-house workshop, trainers should focus on the issues
+most common to the organization's content and development environment,
+and could use the organization's website and authoring tools for
+examples and activities.
 
-**Audience:** Managers and decision makers, web developers, ICT and
-procurement departments, accessibility advocates and others who inform
-decisions and policies
+This material assumes that trainers are experienced web accessibility
+practitioners and trainers. That is, it does not attempt to train
+trainers.
 
-### Description
+This outline is for an initial workshop. Follow up workshops might be
+needed. For example, content authors would benefit from specific
+instruction on how to use their content management system (CMS) or other
+authoring tools to provide accessible content.
 
-This topic encourages concurrent development of websites for both
-accessibility and mobile use through understanding the common needs of
-both groups. It covers the overlapping solutions available to
-developers, and the efficacy of meeting the needs of both groups
-simultaneously.
+### Additional notes for presenters for the technical sessions on days 2 and 3
+{:.no_toc}
 
-### What this topic covers
-
--   Similar experiences of web users with disabilities and users of
-    mobile devices
--   W3C standards and guidelines for web accessibility and mobile web
--   Overlapping technical requirements for web accessibility and mobile
-    friendly websites
--   Benefits of a combined approach for making accessible and mobile
-    friendly websites
--   Meeting one set of requirements if the other set of requirements has
-    already been met
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [Mobile Accessibility](http://www.w3.org/WAI/mobile/) - summarizes
-    existing and developing resources related to mobile accessibility
--   [Web Content Accessibility and Mobile Web: Making a Web Site
-    Accessible Both for People with Disabilities and for Mobile
-    Devices](http://www.w3.org/WAI/mobile/overlap.html) - introduces the
-    similarities along with benefits of addressing both areas
--   [Shared Web Experiences: Barriers Common to Mobile Device Users and
-    People with
-    Disabilities](http://www.w3.org/WAI/mobile/experiences) - provides
-    examples of barriers that people with disabilities and people using
-    mobile devices experience when interacting with Web content
--   [Relationship between Mobile Web Best Practices (MWBP) and Web
-    Content Accessibility Guidelines
-    (WCAG)](http://www.w3.org/TR/mwbp-wcag/) - technical report
-    describing the similarities and differences between the requirements
-    in WCAG and MWBP
--   [From MWBP to WCAG 2.0](http://www.w3.org/TR/mwbp-wcag/mwbp-wcag20)
-    (and [From MWBP to WCAG
-    1.0)](http://www.w3.org/TR/mwbp-wcag/mwbp-wcag10) - outlines what
-    also needs to be done to meet WCAG for those familiar with MWBP
--   [From WCAG 2.0 to MWBP](http://www.w3.org/TR/mwbp-wcag/wcag20-mwbp)
-    (and [From WCAG 1.0 to
-    MWBP](http://www.w3.org/TR/mwbp-wcag/wcag10-mwbp)) - outlines what
-    also needs to be done to meet MWBP for those familiar with WCAG
--   [Mobile Web Best Practices 1.0](http://www.w3.org/TR/mobile-bp/) -
-    technical report specifying Best Practices for delivering web
-    content to mobile devices
--   [Mobile Web Application Best
-    Practices](http://www.w3.org/TR/mwabp/ "http://www.w3.org/TR/mwabp/") -
-    technical report to aid the development of rich and dynamic mobile
-    Web applications
-
-#### Handouts
-
--   [Mobile Web Best Practices (MWBP)
-    Flipcards](http://www.w3.org/2007/02/mwbp_flip_cards) - a summary of
-    the [Mobile Web Best Practices 1.0](http://www.w3.org/TR/mobile-bp)
-    document
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
-
-### Suggestions for speakers
-
--   **Discussion:** Explore some of the [overlapping
-    issues](http://www.w3.org/WAI/mobile/experiences) for mobile web
-    users and people with disabilities. For example, explore issues with
-    websites that do not provide keyboard support, resizable text,
-    sufficient color contrast, and such. Discuss how accessibility
-    benefit mobile web users and many more.
--   **Tip:** Use Independent User Interfaces
-    ([IndieUI](http://www.w3.org/WAI/intro/indieui)) to attract advanced
-    web developers to leading edge accessibility work and how it is
-    relevant to many others.
+-   Allow time at the end of each session to sum up the requirements and
+    clarify any issues arising from the session.
+-   Finish days 1 and 2 with a brief summary of the day, and start days
+    2 and 3 with a brief summary of the previous day. Seek feedback at
+    the end of each day and adjust remaining material as appropriate.
+-   Clarify that not all WCAG 2.0 success criteria are being presented
+    and discussed in this workshop.
+-   Describe the intent of accessibility requirements, and their
+    relationship to barriers for people with disabilities and [older
+    people]( https://www.w3.org/WAI/older-users/). Also describe the broader benefits for [mobile
+    users]( https://www.w3.org/WAI/mobile/overlap), search engine optimization
+    (SEO), and more.
+-   Draw illustrative examples from sites and material that are relevant
+    to the participants backgrounds, e.g. government, commerce, etc.
+-   The [Before and After
+    Demonstration](http://www.w3.org/WAI/demos/bad/) provides accessible
+    and inaccessible web pages, including evaluation reports, that can
+    be used as examples. Using the participants' own websites or similar
+    websites to theirs (such as websites from competitor organizations)
+    helps make the examples more tangible.
+-   Emphasize the benefits of [How to Meet WCAG
+    2.0](http://www.w3.org/WAI/WCAG20/quickref/), a customizable quick
+    reference to WCAG 2.0 requirements and techniques, including 'best
+    practice' advisory techniques.
+-   Introduce appropriate evaluation techniques and tools for each issue
+    as it is covered.
+-   Carry out activities and exercises to reinforce the learning effect.
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="policy" %}
-
-## 16. Web Accessibility Policy and Legislation
-
-{% include_cached excol.html type="middle" %}
-**Goal:** Provide an appreciation of local web accessibility policy and
-legislation, the need for international harmonization, and the essential
-elements of an organizational policy.
-
-**Audience:** Managers and decision makers, ICT and procurement
-departments, marketing and legal departments, accessibility advocates
-and others who inform decisions and policies
-
-### Description
-
-This topic examines global policy and legal requirements that companies
-and organizations face as they meet local nondiscrimination and web
-accessibility laws. It also explores the move towards international
-standards harmonization, and covers the development and implementation
-of organizational accessibility policies.
-
-### What this topic covers
-
--   Web accessibility laws and policies specific to the local audience
--   UN Convention on the Rights of Persons with Disabilities (CRPD) and
-    local implications
--   Importance and benefits of international standards harmonization for
-    organizations and for users
--   Developing policies, including procurement practices, relating to
-    web accessibility
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [Legal and Policy Factors in Developing a Web Accessibility Business
-    Case for Your Organization](http://www.w3.org/WAI/bcase/pol) -
-    provides guidance on addressing legal and policy factors in a
-    business case for Web accessibility
--   [UN Convention on the Rights of Persons with Disabilities (CRPD) ![-
-    external
-    page](/Icons/offsite.png)](http://www.un.org/disabilities/default.asp?navid=12&pid=150) -
-    ratified by many countries and specifically includes accessibility
-    of the Internet and other information and communications technology
-    (ICT)
--   International [Policies Relating to Web
-    Accessibility](http://www.w3.org/WAI/Policy/) - links to laws and
-    policies regarding Web accessibility around the world (not
-    definitive)
--   [Why Standards Harmonization is Essential to Web
-    Accessibility](http://www.w3.org/WAI/Policy/harmon) - explains the
-    key role that harmonization of standards plays in increasing the
-    accessibility of the Web
--   [Developing Organizational Policies on Web
-    Accessibility](%7B%7Bsite.github.url%7D%7D/planning-and-managing/implement/) -
-    addresses considerations that can arise when developing
-    organizational policies on Web accessibility
-
-### Suggestions for speakers
-
--   **Discussion:** Explore the impact of fragmented technical standards
-    on sharing resources, expertise, know how, and tools. Discuss the
-    benefits of internationally harmonized standards for web
-    accessibility.
--   **Discussion:** Explore the international, national, or
-    organizational policies that are applicable to the participants.
-    Discuss relevant [policies relating to web
-    accessibility](http://www.w3.org/WAI/Policy/), [legal and policy
-    factors](http://www.w3.org/WAI/bcase/pol) in a web accessibility
-    business case, and [cautionary tales of
-    inaccessibility](http://www.w3.org/WAI/bcase/resources#casesnot).
--   **Discussion:** Explore effective ways to increase the adoption of
-    web accessibility within organizations. Discuss the role of key
-    players, such as management, procurement, and local advocates.
--   **Tip:** Refer to your local disability organizations for further
-    background on statistics, local policies, and examples of good and
-    bad practices.
--   **Tip:** Give accessibility a human face, for example by relating it
-    to older relatives, such as grandparents, who may be encountering
-    accessibility barriers as they go online.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="check" %}
-
-## 17. Quick Check for Web Accessibility
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Introduce the concept of a quick website accessibility check,
-including benefits, techniques, and limitations.
-
-**Audience:** Anyone wanting to learn how to do a quick website
-accessibility check
-
-### Description
-
-This topic explores some easy evaluation techniques that will provide
-participants with the ability to perform initial reviews and present the
-results. It includes an explanation of the difference between a quick
-preliminary website accessibility check and a thorough conformance
-evaluation review.
-
-### What this topic covers
-
--   What is meant by a quick website accessibility check, and its
-    limitations
--   Basic techniques for performing a preliminary review
--   Difference between a quick check and a full conformance review
--   Evaluation tools and their limitations
--   Summarizing the results of the quick check
--   Where to get more information
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
-    provides step-by-step guidance and brief explanations for checking some aspects of accessibility.
--   [Selecting Web Accessibility Evaluation
-    Tools](http://www.w3.org/WAI/eval/selectingtools) - highlights
-    different features of evaluation tools which can assist during
-    evaluation reviews
--   [Web Accessibility Evaluation
-    Tools](http://www.w3.org/WAI/ER/tools/) - filterable list of Web
-    accessibility evaluation tools
--   [Involving Users in Evaluating Web
-    Accessibility](http://www.w3.org/WAI/eval/users) - describes the
-    benefits of evaluating with real people and identifying usability
-    issues that are not discovered by conformance evaluation alone
--   [Better Web Browsing: Tips for Configuring Your
-    Computer](http://www.w3.org/WAI/users/browsing) - references to
-    resources to help people customize their web browser and computer
-    setup
-
-### Suggestions for speakers
-
--   **Activity/Demonstration:** Explore web accessibility barriers using
-    some of the techniques from [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/).
-    For example use some techniques for examining pages using [graphical
-    browsers](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/#guibrowsers)
-    or [specialized
-    browsers](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/#altbrowsers).
--   **Activity/Demonstration:** Use evaluation tools to help identify
-    failures and repairs in the [Before and After
-    Demonstration](http://www.w3.org/WAI/demos/bad/). Discuss the
-    different types of evaluation tools, their benefits, and their
-    limitations.
--   **Tip:** Suggest participants repeat the activities/demonstrations
-    with other websites, including their own, after the session.
-
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="conform" %}
-
-## 18. Conformance Evaluation for Web Accessibility
-
-{% include_cached excol.html type="middle" %}
-**Goal:** Provide an understanding of how to undertake a conformance
-review for website accessibility.
-
-**Audience:** Web developers and quality assurers, accessibility
-experts, researchers
-
-### Description
-
-This topic provides an introduction to the approach, tools, and
-techniques for performing a thorough website accessibility conformance
-evaluation review. It also discussed the importance of testing with
-users.
-
-**Note:** This topic assumes familiarity with WCAG 2. See [Topic 5:
-Introducing WCAG 2.0](#intro20).
-
-### What this topic covers
-
--   Selecting a representative sample of web pages to evaluate,
-    including samples from large or dynamically generated websites
--   Selecting and using evaluation tools to support evaluation
-    approaches and processes
--   Benefits of involving users to achieve a more complete evaluation
--   Reporting findings in a comprehensive and understandable way
--   When and where to get more help and more information
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
-    introduces an approach for determining conformance to Web Content Accessibility Guidelines (WCAG)
--   [Evaluation Approaches for Specific
-    Contexts](http://www.w3.org/WAI/eval/considerations) - describes
-    considerations for evaluation of large and complex websites
--   [Using Combined Expertise to Evaluate Web
-    Accessibility](http://www.w3.org/WAI/eval/reviewteams) - describes
-    the diverse kinds of expertise and perspectives required to evaluate
-    the accessibility of web content
--   [Selecting Web Accessibility Evaluation
-    Tools](http://www.w3.org/WAI/eval/selectingtools) - highlights
-    different features of evaluation tools which can assist during
-    evaluation reviews
--   [Web Accessibility Evaluation
-    Tools](http://www.w3.org/WAI/ER/tools/) - filterable list of Web
-    accessibility evaluation tools
--   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
-    customizable quick reference to WCAG 2.0 requirements and techniques
--   [Involving Users in Evaluating Web
-    Accessibility](http://www.w3.org/WAI/eval/users) - describes the
-    benefits from evaluating with real people and identifying usability
-    issues that are not discovered by conformance evaluation alone
--   [Template for Accessibility Evaluation
-    Reports](http://www.w3.org/WAI/eval/template) (refers to WCAG 1.0,
-    but applicable to WCAG 2.0);\
-    see also the reports from [Before and After
-    Demonstration](http://www.w3.org/WAI/demos/bad/)
--   [\[Draft\] Website Accessibility Conformance Evaluation Methodology
-    1.0](http://www.w3.org/TR/WCAG-EM/) - a methodology for evaluating
-    the conformance of websites to WCAG 2.0
-
-#### Handouts
-
--   [Including People with Disabilities in Design
-    Studies](http://www.w3.org/WAI/flyer/#pwds)
-
-### Suggestions for speakers
-
--   **Activity/Demonstration:** Evaluate accessible and inaccessible web
-    pages from the [Before and After
-    Demonstration](http://www.w3.org/WAI/demos/bad/). Compare results
-    among the participants and with the reports provided.
--   **Activity:** Have participants recommend improvements for
-    inaccessible web pages from the [Before and After
-    Demonstration](http://www.w3.org/WAI/demos/bad/). Compare with the
-    accessible web pages from the Demo and discuss different types of
-    solutions to meet accessibility requirements.
--   **Tip:** Suggest participants repeat the activity/demonstration with
-    other websites, including their own, after the session.
-  
-{% include_cached excol.html type="end" %}
-
-{% include excol.html type="all" %}
+{% include_cached excol.html type="all" %}
 
