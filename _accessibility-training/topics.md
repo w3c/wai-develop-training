@@ -268,7 +268,7 @@ accessibility.
 #### Sample presentation
 
 -   [Components of Web Accessibility
-    Presentation _(old draft)_](http://www.w3.org/WAI/presentations/components/) -
+    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/components/) -
     can be used as the basis for this topic
 
 #### Primary resources
@@ -424,7 +424,7 @@ accessibility for people with disabilities and older people.
 #### Sample presentation
 
 -   [Benefits of WCAG 2
-    presentation *(old draft)*(http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
+    presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
     a related presentation to draw from
 
 #### Primary resources
@@ -505,7 +505,7 @@ requirements.
 #### Sample presentation
 
 -   [Benefits of WCAG 2
-    presentation *(old draft)*(http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
+    presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
     a related presentation to draw from
 
 #### Primary resources
