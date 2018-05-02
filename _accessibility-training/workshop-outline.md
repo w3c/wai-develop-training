@@ -175,7 +175,7 @@ and other key audiences
 -   Introduction to WAI guidelines as the international standard for
     making the web accessible
 
-#### Related Accessibility Topics:
+#### Related Topics with More Information:
 
 -   [Introducing Web
     Accessibility](http://www.w3.org/WAI/training/topics#intro)
@@ -229,7 +229,7 @@ and other key audiences
 -   [Including People with Disabilities in Design
     Projects](http://www.w3.org/WAI/flyer/Overview.html#pwds)
 
-#### Related Accessibility Topics:
+#### Related Topics with More Information:
 
 -   [Components of Web
     Accessibility](http://www.w3.org/WAI/training/topics#components)
@@ -270,10 +270,10 @@ and other key audiences
 -   Considerations in selecting authoring tools and content management
     systems (CMS's)
 -   Selecting evaluation tools for checking web accessibility
--   Undertaking and documenting a quick check for web accessibility with
+-   Undertaking and documenting a preliminary check for web accessibility with
     exercise
 
-#### Related Accessibility Topics:
+#### Related Topics with More Information:
 
 -   [Improving the Accessibility of Existing
     Websites](http://www.w3.org/WAI/training/topics#improve)
@@ -322,7 +322,7 @@ for web content authors.
 -   Additional requirements for preparing accessible content (e.g.
     abbreviations and acronyms, and jargon and unusual words)
 
-#### Related Accessibility Topics:
+#### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
@@ -381,7 +381,7 @@ developers and application programmers
 -   Applicability of WCAG 2.0 to all web technologies
 -   Introduction to accessibility support
 
-#### Related Accessibility Topics:
+#### Related Topics with More Information:
 
 -   [Introducing WCAG
     2.0](http://www.w3.org/WAI/training/topics#intro20)
@@ -424,7 +424,7 @@ developers and application programmers
 -   Introduction to the issues associated with movement on web pages
     (e.g. from scrolling text, animations, flashing/flickering)
 
-#### Related Accessibility Topics:
+#### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
@@ -476,7 +476,11 @@ developers and application programmers
 -   Introduction to additional image-related issues such as sensory
     experiences and use of CAPTCHA
 
-#### Related Accessibility Topics:
+#### Tutorial:
+
+- [Images Tutorial](https://www.w3.org/WAI/tutorials/images/)
+
+#### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
@@ -521,7 +525,7 @@ developers and application programmers
 -   Introduction to the issues and solutions for live audio and live
     synchronized media (video)
 
-#### Related Accessibility Topics:
+#### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
@@ -574,7 +578,11 @@ developers and application programmers
     -   Identification of accessibility improvements to page structure
     -   Coding accessible page navigation, headings, and lists
 
-#### Related Accessibility Topics:
+#### Tutorial:
+
+- [Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)
+
+#### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
@@ -635,7 +643,11 @@ developers and application programmers
 -   Introduction to some of the known failures for creating links and
     menus such as scripts emulating links and scripted drop-down boxes
 
-#### Related Accessibility Topics:
+#### Tutorial:
+
+- [Menus Tutorial](https://www.w3.org/WAI/tutorials/menus/)
+
+#### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
@@ -696,7 +708,11 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   Introduction of some advisory techniques for tables such as cell
     highlighting on hover
 
-#### Related Accessibility Topics:
+#### Tutorial:
+
+- [Tables Tutorial](https://www.w3.org/WAI/tutorials/tables/)
+
+#### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
@@ -757,7 +773,11 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
     approaches (client-side - server-side)
 -   Adequate interaction time as an issue for form completion
 
-#### Related Accessibility Topics:
+#### Tutorial:
+
+- [Forms Tutorial](https://www.w3.org/WAI/tutorials/forms/)
+
+#### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
@@ -836,7 +856,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   Provision of related resources, including the use of libraries and
     toolkits with WAI-ARIA support
 
-#### Related Accessibility Topics:
+#### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
@@ -889,7 +909,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
     methods
 -   Introduction of the concept of accessibility supported technologies
 
-#### Related Accessibility Topics:
+#### Related Topics with More Information:
 
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
@@ -971,8 +991,8 @@ authoring tools to provide accessible content.
     and discussed in this workshop.
 -   Describe the intent of accessibility requirements, and their
     relationship to barriers for people with disabilities and [older
-    people]( https://www.w3.org/WAI/older-users/). Also describe the broader benefits for [mobile
-    users]( https://www.w3.org/WAI/mobile/overlap), search engine optimization
+    people](https://www.w3.org/WAI/older-users/). Also describe the broader benefits for [mobile
+    users](https://www.w3.org/WAI/mobile/overlap), search engine optimization
     (SEO), and more.
 -   Draw illustrative examples from sites and material that are relevant
     to the participants backgrounds, e.g. government, commerce, etc.
@@ -993,4 +1013,3 @@ authoring tools to provide accessible content.
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="all" %}
-
