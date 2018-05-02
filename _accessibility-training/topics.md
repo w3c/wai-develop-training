@@ -50,12 +50,11 @@ This page provides material for web accessibility topics that you can use as bui
         <li><a href="#improve">Improving the Accessibility of Existing Websites</a></li>
         <li><a href="#involving">Involving Users in Web Projects</a></li>
         <li><a href="#older">Web Accessibility and Older People</a> <!--(sample presentation available) --></li>
-        <li><a href="#mobile">Accessibility  and the Mobile Web</a></li>
         <li><a href="#policy">Web Accessibility Policy and Legislation</a></li>
      </ol>
   </li>
   <li><strong>Evaluating Accessibility</strong>
-     <ol start="17">
+     <ol start="16">
         <li><a href="#check">Quick Check for Web Accessibility</a></li>
         <li><a href="#conform">Conformance Evaluation for Web Accessibility</a></li>
      </ol>
@@ -1159,6 +1158,8 @@ some statistics highlighting the demographic changes.
 
 {% include_cached excol.html type="end" %}
 
+{% include_cached excol.html type="start" id="policy" %}
+
 ## 15. Web Accessibility Policy and Legislation
 
 {% include_cached excol.html type="middle" %}
@@ -1397,4 +1398,3 @@ Introducing WCAG 2.0](#intro20).
 {% include_cached excol.html type="end" %}
 
 {% include excol.html type="all" %}
-
