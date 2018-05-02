@@ -190,7 +190,7 @@ and other key audiences
 -   [Accessibility and the Mobile
     Web](http://www.w3.org/WAI/training/topics#mobile)
 
-### Day 1 - Session 2: Components of web accessibility {#d1s2}
+### Introduction to web accessibility &mdash; Day 1 - Session 1 {#d1s1}
 
 **Target audience:** Managers and decision makers, web content authors
 and visual designers, website developers and application programmers,
