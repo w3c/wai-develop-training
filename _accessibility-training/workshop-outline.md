@@ -142,7 +142,7 @@ Website developers and application programmers should be able to do above and **
 
 {% include_cached excol.html type="middle" %}
 
-### Introduction to web accessibility &mdash; Day 1 - Session 1 {#d1s1}
+### Introduction to web accessibility &mdash; Day 1 Session 1 {#d1s1}
 
 **Target audience:** Managers and decision makers, web content authors
 and visual designers, website developers and application programmers,
@@ -190,7 +190,7 @@ and other key audiences
 -   [Accessibility and the Mobile
     Web](http://www.w3.org/WAI/training/topics#mobile)
 
-### Components of web accessibility &mdash; Day 1 - Session 2 {#d1s2}
+### Components of web accessibility &mdash; Day 1 Session 2 {#d1s2}
 
 **Target audience:** Managers and decision makers, web content authors
 and visual designers, website developers and application programmers,
@@ -240,7 +240,7 @@ and other key audiences
 -   [How People with Disabilities Use the
     Web](http://www.w3.org/WAI/training/topics#people)
 
-### Managing web accessibility &mdash; Day 1 - Session 3 {#d1s3}
+### Managing web accessibility &mdash; Day 1 Session 3 {#d1s3}
 
 **Target audience:** Managers and decision makers, web content authors
 and visual designers, website developers and application programmers,
@@ -284,7 +284,7 @@ and other key audiences
 -   [Quick Check for Web
     Accessibility](http://www.w3.org/WAI/training/topics#check)
 
-### Content authoring &mdash; Day 1 - Session 4 {#d1s4}
+### Content authoring &mdash; Day 1 Session 4 {#d1s4}
 
 **Target audience:** Managers and decision makers, web content authors
 and visual designers, website developers and application programmers,
@@ -359,7 +359,7 @@ From [Understanding WCAG
 -   [3.1.3 Unusual
     Words](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-idioms)
 
-### Working with WCAG 2.0 &mdash; Day 2 - Session 1  {#d2s1}
+### Working with WCAG 2.0 &mdash; Day 2 Session 1  {#d2s1}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -396,7 +396,7 @@ From [Understanding WCAG
 -   [Understanding Accessibility
     Support](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance#uc-accessibility-support-head)
 
-### Visual design and CSS &mdash; Day 2 - Session 2 {#d2s2}
+### Visual design and CSS &mdash; Day 2 Session 2 {#d2s2}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -452,7 +452,7 @@ From [Understanding WCAG
     Hide](http://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-pause)
 -   [2.3.1 Seizures](http://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure)
 
-### Images &mdash; Day 2 - Session 3 {#d2s3}
+### Images &mdash; Day 2 Session 3 {#d2s3}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -498,7 +498,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [C9: Using CSS to include decorative
     images](http://www.w3.org/TR/2007/WD-WCAG20-TECHS-20071211/C9)
 
-### Multimedia &mdash; Day 2 - Session 4 {#d2s4}
+### Multimedia &mdash; Day 2 Session 4 {#d2s4}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -548,7 +548,7 @@ From [Understanding WCAG
 -   [1.2.4 Captions
     (Live)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions)
 
-### Page structure &mdash; Day 2 - Session 5 {#d2s5}
+### Page structure &mdash; Day 2 Session 5 {#d2s5}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -608,7 +608,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [G64: Providing a Table of
     Contents](http://www.w3.org/TR/WCAG20-TECHS/G64)
 
-### Site navigation and orientation &mdash; Day 2 - Session 6 {#d2s6}
+### Site navigation and orientation &mdash; Day 2 Session 6 {#d2s6}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -669,7 +669,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
     when the last field in the form is given a
     value](http://www.w3.org/TR/WCAG20-TECHS/)
 
-### Tables &mdash; Day 3 - Session 1 {#d3s1}
+### Tables &mdash; Day 3 Session 1 {#d3s1}
 
 **Target audience:** Web developers and application programmers
 
@@ -726,7 +726,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [H43: Using id and headers attributes to associate data cells with
     header cells in data tables](http://www.w3.org/TR/WCAG20-TECHS/H43)
 
-### Forms &mdash; Day 3 - Session 2 {#d3s2}
+### Forms &mdash; Day 3 Session 2 {#d3s2}
 
 **Target audience:** Web developers and application programmers
 
@@ -803,7 +803,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [SCR18: Providing client-side validation and
     alert](http://www.w3.org/TR/WCAG20-TECHS/SCR18)
 
-### Basics of accessible scripting and WAI-ARIA (Accessible Rich Internet Applications) &mdash; Day 3 - Session 3 {#d3s3}
+### Basics of accessible scripting and WAI-ARIA (Accessible Rich Internet Applications) &mdash; Day 3 Session 3 {#d3s3}
 
 **Target audience:** Web developers and application programmers
 
@@ -866,7 +866,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
     when the last field in the form is given a
     value](http://www.w3.org/TR/WCAG20-TECHS/F36)
 
-### Principles of conformance evaluation &mdash; Day 3 - Session 4 {#d3s4}
+### Principles of conformance evaluation &mdash; Day 3 Session 4 {#d3s4}
 
 **Target audience:** Web developers and application programmers
 
@@ -904,7 +904,7 @@ From [Understanding WCAG
 -   [Understanding Accessibility
     Support](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance#uc-accessibility-support-head)
 
-### Workshop review and lessons learned &mdash; Day 3 - Session 5 {#d3s5}
+### Workshop review and lessons learned &mdash; Day 3 Session 5 {#d3s5}
 
 **Target audience:** Web developers and application programmers
 
