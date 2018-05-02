@@ -14,7 +14,7 @@ WAI offers materials for speakers, lecturers, educators, and other presenters to
 -   [**Accessibility Topics**]({% link _accessibility-training/topics.md %}) - provides descriptions and resources for topics that can be covered in presentations and  training, including:
     -   Introducing accessibility (4 topics)
     -   Guidelines and techniques (6 topics)
-    -   Managing accessibility (6 topics)
+    -   Managing accessibility (5 topics)
     -   Evaluating accessibility (2 topics)
 -   [**Presentation Outlines**]({% link _accessibility-training/presentation-outlines.md %}) - example outlines of presentations that combine some of the Topics:
     -   Introducing web accessibility (20 minutes for any audience)
