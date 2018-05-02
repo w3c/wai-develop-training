@@ -674,19 +674,12 @@ Accessibility](#components).
 -   Adaptive strategies used by people with disabilities in using user
     agents
 
-**Note:** UAAG 2.0 is a mature draft and we expect that it will not
-change significantly. We recommend that you use the UAAG 2.0 draft in
-most cases, understanding that it might change. (For more information on
-the status of UAAG 2.0, see the [UAAG Versions
-section](%7B%7Bsite.github.url%7D%7D/standards/uaag/#version) of the
-UAAG Overview.)
-
 ### Resources for developing a presentation
 
 #### Sample presentation
 
--   [**Components of Web Accessibility
-    presentation**](http://www.w3.org/WAI/presentations/components/) - a
+-   [Components of Web Accessibility
+    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/components/) - a
     related presentation to draw from
 
 #### Primary resources
@@ -694,15 +687,12 @@ UAAG Overview.)
 -   [User Agent Accessibility Guidelines (UAAG)
     Overview](%7B%7Bsite.github.url%7D%7D/standards/uaag/) - an overview
     of UAAG and the related documentation
--   [\[Draft\] User Agent Accessibility Guidelines (UAAG)
-    2.0](http://www.w3.org/TR/UAAG20/) - working draft for UAAG 2.0
+-   User Agent Accessibility Guidelines (UAAG)
+    2.0](http://www.w3.org/TR/UAAG20/) – W3C Working Group Note (not a standard)
 -   [User Agent Accessibility Guidelines
-    1.0](http://www.w3.org/TR/UAAG10/) - specifies requirements that, if
+    1.0 *(old standard)*](http://www.w3.org/TR/UAAG10/) - specifies requirements that, if
     satisfied by user agent developers, will lower barriers to
     accessibility
--   [Table of Checkpoints for User Agent Accessibility Guidelines
-    1.0](http://www.w3.org/TR/UAAG/uaag10-chktable) - list may be used
-    to review a tool or set of tools for accessibility
 -   [Better Web Browsing: Tips for Configuring Your
     Computer](http://www.w3.org/WAI/users/browsing) - references to
     resources to help people customize their web browser and computer
@@ -769,19 +759,12 @@ Accessibility](#components).
 -   Ensuring that authoring tools are themselves accessible to people
     with disabilities
 
-**Note:** ATAG 2.0 is a mature draft and we expect that it will not
-change significantly. We recommend that you use the ATAG 2.0 draft in
-most cases, understanding that it might change. (For more information on
-the status of ATAG 2.0, see the [ATAG Versions
-section](%7B%7Bsite.github.url%7D%7D/standards/atag/#version) of the
-ATAG Overview.)
-
 ### Resources for developing a presentation
 
 #### Sample presentation
 
--   [**Components of Web Accessibility
-    presentation**](http://www.w3.org/WAI/presentations/components/) - a
+-   [Components of Web Accessibility
+    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/components/) - a
     related presentation to draw from
 
 #### Primary resources
@@ -789,16 +772,14 @@ ATAG Overview.)
 -   [Authoring Tool Accessibility Guidelines (ATAG)
     Overview](%7B%7Bsite.github.url%7D%7D/standards/atag/) - an overview
     of ATAG and the related documentation
--   [\[Draft\] Authoring Tool Accessibility Guidelines (ATAG)
-    2.0](http://www.w3.org/TR/ATAG20/) - working draft for ATAG 2.0
--   [\[Draft\] Implementing ATAG
+-   Authoring Tool Accessibility Guidelines (ATAG)
+    2.0](http://www.w3.org/TR/ATAG20/)/) - specifies requirements that, if
+    satisfied by authoring tool developers, will lower barriers to
+    accessibility
+-   Implementing ATAG
     2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/) - a guide to
     understanding and implementing Authoring Tool Accessibility
     Guidelines 2.0
--   [Authoring Tool Accessibility Guidelines
-    1.0](http://www.w3.org/TR/ATAG10/) - specifies requirements that, if
-    satisfied by authoring tool developers, will lower barriers to
-    accessibility
 -   [Selecting and Using Authoring Tools for Web
     Accessibility](http://www.w3.org/WAI/impl/software) - provides
     information which may help find improved authoring tools and/or work
@@ -1174,8 +1155,8 @@ some statistics highlighting the demographic changes.
 
 #### Sample presentation
 
--   [**Web Accessibility for Older Users
-    presentation**](http://www.w3.org/WAI/presentations/ageing/) - can
+-   [Web Accessibility for Older Users
+    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/ageing/) - can
     be used as the basis for a presentation on this topic
 
 #### Primary resources
