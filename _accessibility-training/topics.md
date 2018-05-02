@@ -855,7 +855,8 @@ Accessibility](#components).
 
 -   [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria) - describes
     the problems that WAI-ARIA addresses, and introduces the WAI-ARIA
-    suite of technical documents. Links to relevant documents, including [Accessible Rich Internet Applications (WAI-ARIA)] – technical specification, web standard (W3C Recommendation).
+    suite of technical documents. Links to relevant documents, including:
+    -   [Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/TR/wai-aria/) – technical specification, web standard (W3C Recommendation)
 -   [WAI-ARIA FAQ](http://www.w3.org/WAI/aria/faq) - some frequently
     asked questions (FAQ) about WAI-ARIA
 
@@ -1525,4 +1526,3 @@ Introducing WCAG 2.0](#intro20).
 {% include_cached excol.html type="end" %}
 
 {% include excol.html type="all" %}
-
