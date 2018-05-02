@@ -8,14 +8,23 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
 
-## Introduction
 
-This page provides material for web accessibility topics that you
-  can  use as building blocks to create presentations and training
-  sessions. These are examples that you can adapt and combine for your
-  specific audience and goals.
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
 
-## Topics on this page
+This page provides material for web accessibility topics that you can use as building blocks to create presentations and training. These are examples that you can adapt and combine for your specific audience and goals.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
 <ul class="toc">
   <li><strong>Introducing Accessibility </strong>
      <ol>
@@ -53,7 +62,13 @@ This page provides material for web accessibility topics that you
   </li>
 </ul>
 
-**See also:** [How to Make Your Presentations Accessible to All](http://www.w3.org/WAI/training/accessible) for guidance on ensuring that your training is accessible to all of your audience, including participants with disabilities.
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+**Note:** For guidance on making your presentations and training accessible to people with disabilities and others in your audience, see [How to Make Your Presentations Accessible to All](http://www.w3.org/WAI/training/accessible).
+
+{% include excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="intro" %}
 
@@ -1544,3 +1559,4 @@ Introducing WCAG 2.0](#intro20).
     other websites, including their own, after the session.
   
 {% include_cached excol.html type="end" %}
+
