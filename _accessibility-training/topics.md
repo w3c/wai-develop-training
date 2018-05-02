@@ -918,14 +918,16 @@ policies.
 
 ### Resources for developing a presentation
 
-#### Primary resources
+#### Sample presentation
 
+-   [Web Accessibility is Smart Business](https://www.w3.org/WAI/presentations/bcase/) - can
+    be used as the basis for a presentation on this topic
+
+#### Primary resources
 -   [Developing a Web Accessibility Business Case for Your
     Organization](http://www.w3.org/WAI/bcase/) - a suite of pages
     covering the social, technical, financial, and legal and policy
-    factors in the business case for web accessibility
--   [Resources for Developing a Web Accessibility Business Case for Your
-    Organization](http://www.w3.org/WAI/bcase/resources), including:
+    factors in the business case for web accessibility. Includes resources such as:
     -   [Case Studies of Accessibility
         Improvements](http://www.w3.org/WAI/bcase/resources#cases)
     -   [Statistics on People with Disabilities and Web
@@ -936,33 +938,17 @@ policies.
         calculations](http://www.w3.org/WAI/bcase/resources#roi)
     -   [Cautionary Tales of
         Inaccessibility](http://www.w3.org/WAI/bcase/resources#casesnot)
--   [Overview of WAI presentation](http://www.w3.org/Talks/WAI-Intro/),
-    in particular:
-    -   [Web accessibility is a marketplace
-        issue](http://www.w3.org/Talks/WAI-Intro/slide7-0)
-    -   [Accessibility contributes to universal
-        design](http://www.w3.org/Talks/WAI-Intro/slide8-0)
--   [Web Accessibility for Older Users
-    presentation](http://www.w3.org/WAI/presentations/ageing/), in
-    particular:
-    -   [Changing
-        demographics](http://www.w3.org/WAI/presentations/ageing/waiage#demog)
-    -   [Changing
-        abilities](http://www.w3.org/WAI/presentations/ageing/waiage#abilities)
-        of older people
--   [Policies Relating to Web
-    Accessibility](http://www.w3.org/WAI/Policy/) - links to laws and
-    policies regarding web accessibility around the world
--   [Developing Organizational Policies on Web
-    Accessibility](%7B%7Bsite.github.url%7D%7D/planning-and-managing/implement/) -
-    addresses considerations that can arise when developing
-    organizational policies on web accessibility
-
-#### Additional resources
-
 -   [Web Content Accessibility and Mobile Web: Making a Web Site
     Accessible Both for People with Disabilities and for Mobile
     Devices](http://www.w3.org/WAI/mobile/overlap.html)
+-   [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]( https://www.w3.org/WAI/older-users/)
+    -   Overview of "Web Accessibility for Older Users: A Literature Review" – includes [statistics on the impact and prevalence of ageing]( https://www.w3.org/WAI/intro/wai-age-literature#summary)
+-   [Web Accessibility Laws and Policies](http://www.w3.org/WAI/Policy/) - links to laws and
+    policies regarding web accessibility around the world
+-   [Developing Organizational Policies on Web
+    Accessibility](https://www.w3.org/WAI/impl/pol) -
+    addresses considerations that can arise when developing
+    organizational policies on web accessibility
 
 ### Suggestions for speakers
 
@@ -980,7 +966,7 @@ policies.
     accessible web design benefits mobile web users.
 -   **Discussion:** Explore the international, national, or
     organizational policies that are applicable to the participants.
-    Discuss relevant [policies relating to web
+    Discuss relevant [laws and policies relating to web
     accessibility](http://www.w3.org/WAI/Policy/), [legal and policy
     factors](http://www.w3.org/WAI/bcase/pol) in a web accessibility
     business case, and [cautionary tales of
@@ -1030,24 +1016,15 @@ website's accessibility over time.
     process of improving accessibility more efficient and effective
 -   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
     planning process for implementing web accessibility
--   [Preliminary Review of Web Sites for
-    Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
-    describes a method to quickly identify some accessibility problems
-    on a website
--   [Conformance Evaluation of Web Sites for
-    Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
-    describes a conformance evaluation method that combines automatic,
-    semi-automatic, and manual testing
+-   [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
+    provides step-by-step guidance and brief explanations for checking some aspects of accessibility.
+-   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
+    introduces an approach for determining conformance to Web Content Accessibility Guidelines (WCAG)
 
 ### Suggestions for speakers
 
 -   **Activity/Demonstration:** Explore web accessibility barriers using
-    some of the techniques from [Preliminary Review of Web Sites for
-    Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/).
-    For example use some techniques for examining pages using [graphical
-    browsers](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/#guibrowsers)
-    or [specialized
-    browsers](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/#altbrowsers).
+    some of the techniques from [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/).
 -   **Discussion:** Explore the failures and repairs in the [Before and
     After Demonstration](http://www.w3.org/WAI/demos/bad/). Discuss how
     websites can be made accessible with little or no change to their
@@ -1166,9 +1143,6 @@ some statistics highlighting the demographic changes.
     Review"](http://www.w3.org/WAI/intro/wai-age-literature) - the
     Literature Review informs educational activities and enables better
     promotion of accessibility solutions for older Web users
--   [WAI-AGE Project](http://www.w3.org/WAI/WAI-AGE/) - contains an
-    overview of the education and outreach materials updated or
-    developed within the WAI-AGE Project
 
 #### Handouts
 
@@ -1176,112 +1150,16 @@ some statistics highlighting the demographic changes.
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.
 
 ### Suggestions for speakers
-
--   **Demonstration:** Show some [videos with older people using the Web
-    ![- external
-    page](/Icons/offsite.png)](http://www.uiaccess.com/accessucd/resources_videos.html).
+-   **Demonstration:** Show some videos of older people using the web from:
+    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspectives/)
+    -   [Videos of people with disabilities using the Web](http://www.uiaccess.com/accessucd/resources_videos.html)
 -   **Activity:** Show some simulations of low vision; get participants
     to experience some impairments, e.g. using the mouse with other hand
     and browsing some sites with text enlarged.
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="mobile" %}
-
-## 15. Accessibility and the Mobile Web
-
-{% include_cached excol.html type="middle" %}
-
-**Goal:** Provide an understanding of the overlapping issues between web
-accessibility and mobile web use.
-
-**Audience:** Managers and decision makers, web developers, ICT and
-procurement departments, accessibility advocates and others who inform
-decisions and policies
-
-### Description
-
-This topic encourages concurrent development of websites for both
-accessibility and mobile use through understanding the common needs of
-both groups. It covers the overlapping solutions available to
-developers, and the efficacy of meeting the needs of both groups
-simultaneously.
-
-### What this topic covers
-
--   Similar experiences of web users with disabilities and users of
-    mobile devices
--   W3C standards and guidelines for web accessibility and mobile web
--   Overlapping technical requirements for web accessibility and mobile
-    friendly websites
--   Benefits of a combined approach for making accessible and mobile
-    friendly websites
--   Meeting one set of requirements if the other set of requirements has
-    already been met
-
-### Resources for developing a presentation
-
-#### Primary resources
-
--   [Mobile Accessibility](http://www.w3.org/WAI/mobile/) - summarizes
-    existing and developing resources related to mobile accessibility
--   [Web Content Accessibility and Mobile Web: Making a Web Site
-    Accessible Both for People with Disabilities and for Mobile
-    Devices](http://www.w3.org/WAI/mobile/overlap.html) - introduces the
-    similarities along with benefits of addressing both areas
--   [Shared Web Experiences: Barriers Common to Mobile Device Users and
-    People with
-    Disabilities](http://www.w3.org/WAI/mobile/experiences) - provides
-    examples of barriers that people with disabilities and people using
-    mobile devices experience when interacting with Web content
--   [Relationship between Mobile Web Best Practices (MWBP) and Web
-    Content Accessibility Guidelines
-    (WCAG)](http://www.w3.org/TR/mwbp-wcag/) - technical report
-    describing the similarities and differences between the requirements
-    in WCAG and MWBP
--   [From MWBP to WCAG 2.0](http://www.w3.org/TR/mwbp-wcag/mwbp-wcag20)
-    (and [From MWBP to WCAG
-    1.0)](http://www.w3.org/TR/mwbp-wcag/mwbp-wcag10) - outlines what
-    also needs to be done to meet WCAG for those familiar with MWBP
--   [From WCAG 2.0 to MWBP](http://www.w3.org/TR/mwbp-wcag/wcag20-mwbp)
-    (and [From WCAG 1.0 to
-    MWBP](http://www.w3.org/TR/mwbp-wcag/wcag10-mwbp)) - outlines what
-    also needs to be done to meet MWBP for those familiar with WCAG
--   [Mobile Web Best Practices 1.0](http://www.w3.org/TR/mobile-bp/) -
-    technical report specifying Best Practices for delivering web
-    content to mobile devices
--   [Mobile Web Application Best
-    Practices](http://www.w3.org/TR/mwabp/ "http://www.w3.org/TR/mwabp/") -
-    technical report to aid the development of rich and dynamic mobile
-    Web applications
-
-#### Handouts
-
--   [Mobile Web Best Practices (MWBP)
-    Flipcards](http://www.w3.org/2007/02/mwbp_flip_cards) - a summary of
-    the [Mobile Web Best Practices 1.0](http://www.w3.org/TR/mobile-bp)
-    document
--   [WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
-
-### Suggestions for speakers
-
--   **Discussion:** Explore some of the [overlapping
-    issues](http://www.w3.org/WAI/mobile/experiences) for mobile web
-    users and people with disabilities. For example, explore issues with
-    websites that do not provide keyboard support, resizable text,
-    sufficient color contrast, and such. Discuss how accessibility
-    benefit mobile web users and many more.
--   **Tip:** Use Independent User Interfaces
-    ([IndieUI](http://www.w3.org/WAI/intro/indieui)) to attract advanced
-    web developers to leading edge accessibility work and how it is
-    relevant to many others.
-
-{% include_cached excol.html type="end" %}
-
-{% include_cached excol.html type="start" id="policy" %}
-
-## 16. Web Accessibility Policy and Legislation
+## 15. Web Accessibility Policy and Legislation
 
 {% include_cached excol.html type="middle" %}
 **Goal:** Provide an appreciation of local web accessibility policy and
@@ -1320,14 +1198,12 @@ of organizational accessibility policies.
     business case for Web accessibility
 -   [UN Convention on the Rights of Persons with Disabilities (CRPD) ![-
     external
-    page](/Icons/offsite.png)](http://www.un.org/disabilities/default.asp?navid=12&pid=150) -
+    page](/Icons/offsite.png)]( https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html) -
     ratified by many countries and specifically includes accessibility
     of the Internet and other information and communications technology
     (ICT)
--   International [Policies Relating to Web
-    Accessibility](http://www.w3.org/WAI/Policy/) - links to laws and
-    policies regarding Web accessibility around the world (not
-    definitive)
+-   [Web Accessibility Laws and Policies](http://www.w3.org/WAI/Policy/) - links to laws and
+    policies regarding Web accessibility around the world
 -   [Why Standards Harmonization is Essential to Web
     Accessibility](http://www.w3.org/WAI/Policy/harmon) - explains the
     key role that harmonization of standards plays in increasing the
@@ -1364,14 +1240,14 @@ of organizational accessibility policies.
 
 {% include_cached excol.html type="start" id="check" %}
 
-## 17. Quick Check for Web Accessibility
+## 16. Preliminary Check for Web Accessibility
 
 {% include_cached excol.html type="middle" %}
 
-**Goal:** Introduce the concept of a quick website accessibility check,
+**Goal:** Introduce the concept of a preliminary website accessibility check,
 including benefits, techniques, and limitations.
 
-**Audience:** Anyone wanting to learn how to do a quick website
+**Audience:** Anyone wanting to learn how to do a preliminary website
 accessibility check
 
 ### Description
@@ -1396,10 +1272,8 @@ evaluation review.
 
 #### Primary resources
 
--   [Preliminary Review of Web Sites for
-    Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
-    describes a method to quickly identify some accessibility problems
-    on a website
+-   [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
+    provides step-by-step guidance and brief explanations for checking some aspects of accessibility.
 -   [Selecting Web Accessibility Evaluation
     Tools](http://www.w3.org/WAI/eval/selectingtools) - highlights
     different features of evaluation tools which can assist during
@@ -1419,8 +1293,7 @@ evaluation review.
 ### Suggestions for speakers
 
 -   **Activity/Demonstration:** Explore web accessibility barriers using
-    some of the techniques from [Preliminary Review of Web Sites for
-    Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/).
+    some of the techniques from [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/).
     For example use some techniques for examining pages using [graphical
     browsers](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/#guibrowsers)
     or [specialized
@@ -1438,7 +1311,7 @@ evaluation review.
 
 {% include_cached excol.html type="start" id="conform" %}
 
-## 18. Conformance Evaluation for Web Accessibility
+## 17. Conformance Evaluation for Web Accessibility
 
 {% include_cached excol.html type="middle" %}
 **Goal:** Provide an understanding of how to undertake a conformance
@@ -1471,10 +1344,8 @@ Introducing WCAG 2.0](#intro20).
 
 #### Primary resources
 
--   [Conformance Evaluation of Web Sites for
-    Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
-    describes a conformance evaluation method that combines automatic,
-    semi-automatic, and manual testing
+-   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
+    introduces an approach for determining conformance to Web Content Accessibility Guidelines (WCAG)
 -   [Evaluation Approaches for Specific
     Contexts](http://www.w3.org/WAI/eval/considerations) - describes
     considerations for evaluation of large and complex websites
@@ -1526,3 +1397,4 @@ Introducing WCAG 2.0](#intro20).
 {% include_cached excol.html type="end" %}
 
 {% include excol.html type="all" %}
+
