@@ -44,9 +44,9 @@ requirements.
 
 **Target audience:**
 
--   Day 1: Managers and decision makers
--   Days 1 and 2: Web content authors and visual designers
--   Days 1, 2, and 3: Website developers and application programmers
+-   Managers and decision makers &mdash; Day 1
+-   Web content authors and visual designers &mdash; Days 1 and 2
+-   Website developers and application programmers &mdash; Days 1, 2, and 3
 
 **Other key audiences** include staff from public relations, marketing,
 communications, human resources, procurement, legal and policy advisors,
@@ -106,24 +106,24 @@ Website developers and application programmers should be able to do above and **
 {:.no_toc}
 
 1.  **09:00 - 09:30 [Session 1 - Working with WCAG 2.0](#d2s1)**
-2.  **09:30 - 10:30 [Session 2 - Accessible visual design and
+2.  **09:30 - 10:30 [Session 2 - Visual design and
     CSS](#d2s2)**
 3.  10:30 - 11:00 Break
-4.  **11:00 - 11:45 [Session 3 - Accessible images](#d2s3)**
-5.  **11:45 - 12:30 [Session 4 - Accessible multimedia](#d2s4)**
+4.  **11:00 - 11:45 [Session 3 - Images](#d2s3)**
+5.  **11:45 - 12:30 [Session 4 - Multimedia](#d2s4)**
 6.  12:30 - 13:30 Lunch
-7.  **13:30 - 15:00 [Session 5 - Accessible page structure](#d2s5)**
+7.  **13:30 - 15:00 [Session 5 - Page structure](#d2s5)**
 8.  15:00 - 15:30 Break
-9.  **15:30 - 17:00 [Session 6 - Accessible navigation and
+9.  **15:30 - 17:00 [Session 6 - Navigation and
     orientation](#d2s6)**
 {:style="list-style:none;"}
 
 ### Day 3 schedule
 {:.no_toc}
 
-1.  **09:30 - 11:00 [Session 1 - Accessible tables](#d3s1)**
+1.  **09:30 - 11:00 [Session 1 - Tables](#d3s1)**
 2.  11:00 - 11:30 Break
-3.  **11:30 - 12:30 [Session 2 - Accessible forms](#d3s2)**
+3.  **11:30 - 12:30 [Session 2 - Forms](#d3s2)**
 4.  12:30 - 13:30 Lunch
 5.  **13:30 - 15:00 [Session 3 - Basics of accessible scripting and
     WAI-ARIA](#d3s3)**
@@ -284,7 +284,7 @@ and other key audiences
 -   [Quick Check for Web
     Accessibility](http://www.w3.org/WAI/training/topics#check)
 
-### Accessible content authoring &mdash; Day 1 - Session 4 {#d1s4}
+### Content authoring &mdash; Day 1 - Session 4 {#d1s4}
 
 **Target audience:** Managers and decision makers, web content authors
 and visual designers, website developers and application programmers,
@@ -396,7 +396,7 @@ From [Understanding WCAG
 -   [Understanding Accessibility
     Support](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance#uc-accessibility-support-head)
 
-### Accessible visual design and CSS &mdash; Day 2 - Session 2 {#d2s2}
+### Visual design and CSS &mdash; Day 2 - Session 2 {#d2s2}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -452,7 +452,7 @@ From [Understanding WCAG
     Hide](http://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-pause)
 -   [2.3.1 Seizures](http://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure)
 
-### Accessible images &mdash; Day 2 - Session 3 {#d2s3}
+### Images &mdash; Day 2 - Session 3 {#d2s3}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -498,7 +498,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [C9: Using CSS to include decorative
     images](http://www.w3.org/TR/2007/WD-WCAG20-TECHS-20071211/C9)
 
-### Accessible multimedia &mdash; Day 2 - Session 4 {#d2s4}
+### Multimedia &mdash; Day 2 - Session 4 {#d2s4}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -548,7 +548,7 @@ From [Understanding WCAG
 -   [1.2.4 Captions
     (Live)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions)
 
-### Accessible page structure &mdash; Day 2 - Session 5 {#d2s5}
+### Page structure &mdash; Day 2 - Session 5 {#d2s5}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -608,7 +608,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [G64: Providing a Table of
     Contents](http://www.w3.org/TR/WCAG20-TECHS/G64)
 
-### Accessible site navigation and orientation &mdash; Day 2 - Session 6 {#d2s6}
+### Site navigation and orientation &mdash; Day 2 - Session 6 {#d2s6}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
@@ -669,7 +669,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
     when the last field in the form is given a
     value](http://www.w3.org/TR/WCAG20-TECHS/)
 
-### Accessible tables &mdash; Day 3 - Session 1 {#d3s1}
+### Tables &mdash; Day 3 - Session 1 {#d3s1}
 
 **Target audience:** Web developers and application programmers
 
@@ -726,7 +726,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [H43: Using id and headers attributes to associate data cells with
     header cells in data tables](http://www.w3.org/TR/WCAG20-TECHS/H43)
 
-### Accessible forms &mdash; Day 3 - Session 2 {#d3s2}
+### Forms &mdash; Day 3 - Session 2 {#d3s2}
 
 **Target audience:** Web developers and application programmers
 
@@ -993,4 +993,3 @@ authoring tools to provide accessible content.
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="all" %}
-
