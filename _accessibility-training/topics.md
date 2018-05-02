@@ -30,13 +30,13 @@ This page provides material for web accessibility topics that you can use as bui
      <ol>
         <li><a href="#introduction">Introducing Web Accessibility</a></li>
         <li><a href="#people">How People with Disabilities Use the Web</a></li>
-        <li><a href="#components">Components of Web Accessibility</a> (sample presentation available)</li>
+        <li><a href="#components">Components of Web Accessibility</a><!--(sample presentation available) --></li>
         <li><a href="#promoting">Promoting Web Accessibility</a></li>
      </ol>
   </li>
   <li><strong>Guidelines and Techniques </strong>
      <ol start="5">
-        <li><a href="#intro20">Introducing WCAG 2.0</a> (related presentation  available)</li>
+        <li><a href="#intro20">Introducing WCAG 2.0</a><!--(related presentation  available)--></li>
         <li><a href="#migrate">Migrating to WCAG 2.0</a></li>
         <li><a href="#design">Designing and Developing Accessible Websites with WCAG 2</a></li>
         <li><a href="#browsers">Browser Accessibility and UAAG</a></li>
@@ -49,7 +49,7 @@ This page provides material for web accessibility topics that you can use as bui
         <li><a href="#bcase">Business Case for Web Accessibility</a></li>
         <li><a href="#improve">Improving the Accessibility of Existing Websites</a></li>
         <li><a href="#involving">Involving Users in Web Projects</a></li>
-        <li><a href="#older">Web Accessibility and Older People</a> (sample presentation available)</li>
+        <li><a href="#older">Web Accessibility and Older People</a> <!--(sample presentation available) --></li>
         <li><a href="#mobile">Accessibility  and the Mobile Web</a></li>
         <li><a href="#policy">Web Accessibility Policy and Legislation</a></li>
      </ol>
@@ -105,12 +105,12 @@ people should have equal, barrier-free access.
 
 #### Primary resources
 
--   [Introduction to Web Accessibility](http://www.w3.org/WAI/intro/accessibility) - Explains web accessibility in context; the scope of accessibility; and that accessibility benefits individuals, businesses, and society. Links to resources on accessibility standards, making the web accessibility, and evaluating accessibility. Provides simple examples of accessibility.
+-   [Introduction to Web Accessibility](http://www.w3.org/WAI/intro/accessibility) - explains web accessibility in context; the scope of accessibility; and that accessibility benefits individuals, businesses, and society. Links to resources on accessibility standards, making the web accessibility, and evaluating accessibility. Provides simple examples of accessibility.
 -   [How People with Disabilities use the Web](http://www.w3.org/WAI/intro/people-use-web) - provides examples of people with different disabilities using websites, applications, browsers, and authoring tools
 -   [WAI Guidelines for addressing different components](http://www.w3.org/WAI/intro/components.php#guidelines) of the web accessibility equation
--   [Participating in WAI](http://www.w3.org/WAI/participation)
 -   [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]( https://www.w3.org/WAI/older-users/)
     -   Overview of "Web Accessibility for Older Users: A Literature Review" – includes [statistics on the impact and prevalence of ageing]( https://www.w3.org/WAI/intro/wai-age-literature#summary)
+-   [Participating in WAI](http://www.w3.org/WAI/participation)
 
 #### Handouts
 
@@ -123,9 +123,9 @@ people should have equal, barrier-free access.
     use the Web](http://www.w3.org/WAI/intro/people-use-web) to
     illustrate the importance of web accessibility.
 -   **Demonstration:** Show some videos:
-    -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits) – 4 minutes.
+    -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits) – 4 minutes
     -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspectives/) – show selected videos, or the [compilation of all 10 videos (YouTube, 7:36 minutes)]( https://www.youtube.com/watch?v=3f31oufqFSM)
-    -   [Videos of people with disabilities using the Web ![- external page](/Icons/offsite.png)](http://www.uiaccess.com/accessucd/resources_videos.html)
+    -   [Videos of people with disabilities using the Web](http://www.uiaccess.com/accessucd/resources_videos.html)
 -   **Demonstration:** Show examples of accessible and inaccessible
     websites, and the effect they have on access with assistive
     technologies. Consider using the [Before and After
@@ -184,13 +184,8 @@ technologies and adaptive browsing strategies.
 
 #### Additional resources
 
--   [Overview of WAI presentation](http://www.w3.org/Talks/WAI-Intro/),
-    in particular [Web accessibility is a Cross-Disability
-    Issue](http://www.w3.org/Talks/WAI-Intro/slide6-0)
--   [Web Accessibility for Older Users
-    presentation](http://www.w3.org/WAI/presentations/ageing/), in
-    particular material from [Changing Abilities of Older
-    People](http://www.w3.org/WAI/presentations/ageing/waiage#abilities)
+-   [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users]( https://www.w3.org/WAI/older-users/)
+    -   Overview of "Web Accessibility for Older Users: A Literature Review" – includes [statistics on the impact and prevalence of ageing]( https://www.w3.org/WAI/intro/wai-age-literature#summary)
 -   [Essential Components of Web
     Accessibility](http://www.w3.org/WAI/intro/components.php) - shows
     how Web accessibility depends on several components working together
@@ -213,9 +208,7 @@ technologies and adaptive browsing strategies.
 ### Suggestions for speakers
 
 -   **Demonstration:** Show examples of using assistive technologies and
-    adaptive strategies, and/or show [videos of people with disabilities
-    using the Web ![- external
-    page](/Icons/offsite.png)](http://www.uiaccess.com/accessucd/resources_videos.html).
+    adaptive strategies, and/or show videos linked above.
 -   **Activity/Demonstration:** Explore the usage of accessible versus
     inaccessible websites, while using the keyboard only to navigate;
     wearing mittens or gardening gloves; very fast mouse pointer;
@@ -274,8 +267,8 @@ accessibility.
 
 #### Sample presentation
 
--   [**Components of Web Accessibility
-    presentation**](http://www.w3.org/WAI/presentations/components/) -
+-   [Components of Web Accessibility
+    Presentation _(old draft)_](http://www.w3.org/WAI/presentations/components/) -
     can be used as the basis for this topic
 
 #### Primary resources
@@ -312,7 +305,7 @@ accessibility.
 ### Suggestions for speakers
 
 -   **Question:** Ask audience if they have ever used
-    [velcro](http://en.wikipedia.org/wiki/Velcro){.termref}, and think
+    [velcro](http://en.wikipedia.org/wiki/Velcro), and think
     about how it works. Each side of the velcro must do a job, one can't
     work without the other. Draw an analogy to assistive technologies,
     adaptive strategies, and accessible web design.
@@ -1560,3 +1553,4 @@ Introducing WCAG 2.0](#intro20).
   
 {% include_cached excol.html type="end" %}
 
+{% include excol.html type="all" %}
