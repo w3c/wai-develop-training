@@ -89,6 +89,7 @@ Website developers and application programmers should be able to do above and **
 {% include_cached excol.html type="middle" %}
 
 ### Day 1 schedule
+{:.no_toc}
 
 1.  **09:00 - 10:30 [Session 1 - Introduction to web
     accessibility](#d1s1)**
@@ -102,6 +103,7 @@ Website developers and application programmers should be able to do above and **
 {:style="list-style:none;"}
 
 ### Day 2 schedule
+{:.no_toc}
 
 1.  **09:00 - 09:30 [Session 1 - Working with WCAG 2.0](#d2s1)**
 2.  **09:30 - 10:30 [Session 2 - Accessible visual design and
@@ -117,6 +119,7 @@ Website developers and application programmers should be able to do above and **
 {:style="list-style:none;"}
 
 ### Day 3 schedule
+{:.no_toc}
 
 1.  **09:30 - 11:00 [Session 1 - Accessible tables](#d3s1)**
 2.  11:00 - 11:30 Break
@@ -957,6 +960,7 @@ instruction on how to use their content management system (CMS) or other
 authoring tools to provide accessible content.
 
 ### Additional notes for presenters for the technical sessions on days 2 and 3
+{:.no_toc}
 
 -   Allow time at the end of each session to sum up the requirements and
     clarify any issues arising from the session.
