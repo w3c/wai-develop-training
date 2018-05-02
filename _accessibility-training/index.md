@@ -11,7 +11,7 @@ footer: >
 
 WAI offers materials for speakers, lecturers, educators, and other presenters to help their participants understand more about web accessibility. The materials provide a range of information from introductory slides for those new to accessibility, to statistics and demos for experienced trainers. This set of resources includes:
 
--   [**Accessibility Topics**]({% link _accessibility-training/topics.md %}) - provides descriptions and resources for topics that can be covered in presentations and  training, including:
+-   [**Accessibility Topics**]({% link _accessibility-training/topics.md %}) - descriptions and resources for topics that can be covered in presentations and training, including:
     -   Introducing accessibility (4 topics)
     -   Guidelines and techniques (6 topics)
     -   Managing accessibility (5 topics)
@@ -21,7 +21,7 @@ WAI offers materials for speakers, lecturers, educators, and other presenters to
     -   Promoting web accessibility (10 minutes for senior management)
     -   Using an accessible web (1 hour for people with accessibility needs)
     -   Accessible web design (2 hour lecture as part of a web design course)
--   [**Workshop Outline**]({% link _accessibility-training/workshop-outline.md %}) - an example outline for a 3-day hands-on web accessibility training workshop for:
+-   [**Workshop Outline**]({% link _accessibility-training/workshop-outline.md %}) - description of a 3-day hands-on web accessibility training workshop for:
     -   Web developers and application programmers (all 3 days)
     -   Web content authors and visual designers (days 1 & 2 only)
     -   Managers and decision-makers (day 1 only)
@@ -36,5 +36,5 @@ We encourage you to share accessibility information. Understand your own level o
 
 ### Share your ideas
 
-You can share your tips, guidance, and suggestions in the [Presentations and Training WAI-Engage wiki page](http://www.w3.org/community/wai-engage/wiki/Presentations_and_Training_on_Web_Accessibility). [About the WAI-Engage Web Accessibility Community Group](http://www.w3.org/community/wai-engage/).
+You can share your tips, guidance, and suggestions in the [Presentations and Training wiki page](http://www.w3.org/community/wai-engage/wiki/Presentations_and_Training_on_Web_Accessibility) of the [WAI-Engage Web Accessibility Community Group](http://www.w3.org/community/wai-engage/).
 
