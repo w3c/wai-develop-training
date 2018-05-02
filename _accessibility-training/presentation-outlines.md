@@ -41,7 +41,7 @@ This page provides example outlines of four web accessibility presentations. It 
 
 {% include_cached excol.html type="middle" %}
 
-**Example scenario:** general overview of web accessibility, as one of
+**Example scenario:** General overview of web accessibility, as one of
 several short presentations from a panel of speakers.
 
 **Notes:**
@@ -96,7 +96,7 @@ several short presentations from a panel of speakers.
 
 {% include_cached excol.html type="middle" %}
 
-**Example scenario:** short presentation during a senior management
+**Example scenario:** Short presentation during a senior management
 meeting to introduce the business case for web accessibility.
 
 **Notes:**
@@ -135,8 +135,7 @@ meeting to introduce the business case for web accessibility.
     -   Give a brief policy overview if relevant for the organization's
         locale or markets, mentioning national legal requirements and
         the UN Convention on the Rights of Persons with Disabilities
-        (CRPD)\
-        -- **OR** --\
+        (CRPD)<br/>**or**<br/>
         Introduce the social factors that an organization might consider
         and mention web accessibility as an aspect of corporate social
         responsibility (CSR)
@@ -150,7 +149,7 @@ meeting to introduce the business case for web accessibility.
 ## Using an accessible web (1 hour, for people with accessibility needs)
 
 {% include_cached excol.html type="middle" %}
-**Example scenario:** presentation for non-technical people (such as
+**Example scenario:** Presentation for non-technical people (such as
 users, trainers, or accessibility advocates) about web accessibility and
 accessibility features of computers, browsers, and websites.
 
@@ -211,14 +210,14 @@ accessibility features of computers, browsers, and websites.
 ## Accessible web design (2 hour lecture, for web design students)
 
 {% include_cached excol.html type="middle" %}
-**Example scenario:** lecture/presentation on web accessibility as part
+**Example scenario:** Lecture/presentation on web accessibility as part
 of a full semester's introductory course on general web design.
 
 **Notes:**
 
--   Handouts:[WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/)
-    and [WAI Web Accessibility
-    Resources](http://www.w3.org/WAI/flyer/#resources)
+-   Handouts:
+    -   [WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/)
+    -   [WAI Web Accessibility Resources](http://www.w3.org/WAI/flyer/#resources)
 -   Useful resources:
     -   [Before and After
         Demonstration](http://www.w3.org/WAI/demos/bad/)
@@ -310,4 +309,5 @@ After the lecture and exercise, students should be able to:
     describe the barriers addressed and solutions applied.
 
 {% include_cached excol.html type="end" %}
+
 {% include excol.html type="all" %}
