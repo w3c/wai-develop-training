@@ -423,8 +423,8 @@ accessibility for people with disabilities and older people.
 
 #### Sample presentation
 
--   [**Benefits of WCAG 2
-    presentation**](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
+-   [Benefits of WCAG 2
+    presentation *(old draft)*(http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
     a related presentation to draw from
 
 #### Primary resources
@@ -434,7 +434,7 @@ accessibility for people with disabilities and older people.
     and the related documentation
 -   [Understanding the Four Principles of
     Accessibility](http://www.w3.org/TR/UNDERSTANDING-WCAG20/intro#introduction-fourprincs-head)
-    (from understanding WCAG 2.0)
+    in Introduction to Understanding WCAG 2.0
 -   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
     describes the different WCAG 2.0 technical documents, to help know
     where to go for different types of information
@@ -444,8 +444,8 @@ accessibility for people with disabilities and older people.
 #### Additional resources
 
 -   [Web Content Accessibility Guidelines (WCAG)
-    2.0](http://www.w3.org/TR/WCAG20/) - formal technical specification
-    (W3C Technical Report)
+    2.0](http://www.w3.org/TR/WCAG20/) - formal technical standard
+    (W3C Recommendation)
 -   [Understanding WCAG
     2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/) - a guide to
     understanding and implementing Web Content Accessibility Guidelines
@@ -465,7 +465,7 @@ accessibility for people with disabilities and older people.
 ### Suggestions for speakers
 
 -   **Demonstration:** Show how to effectively access WCAG 2.0
-    Guidelines, Success Criteria and associated techniques using [How to
+    success criteria, understanding documents, and techniques using [How to
     Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/).
 
 {% include_cached excol.html type="end" %}
@@ -504,8 +504,8 @@ requirements.
 
 #### Sample presentation
 
--   [**Benefits of WCAG 2
-    presentation**](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
+-   [Benefits of WCAG 2
+    presentation *(old draft)*(http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
     a related presentation to draw from
 
 #### Primary resources
@@ -531,11 +531,9 @@ requirements.
 
 #### Additional resources
 
--   [Improving the Accessibility of Your Web
-    Site](http://www.w3.org/WAI/impl/improving) - approaches to make the
+-   [Web Accessibility First Aid: Approaches for Interim Repairs](http://www.w3.org/WAI/impl/improving) - approaches to make the
     process of improving accessibility more efficient and effective
--   [Implementation Plan for Web
-    Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
+-   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
     planning process for implementing web accessibility
 
 #### Handouts
@@ -607,16 +605,14 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
     the problems that WAI-ARIA addresses, and introduces the WAI-ARIA
     suite of technical document
 -   [Benefits of WCAG 2
-    presentation](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
+    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
     a complete presentation to draw from
 
 #### Additional resources
 
--   [Improving the Accessibility of Your Web
-    Site](http://www.w3.org/WAI/impl/improving) - approaches to make the
+-   [Web Accessibility First Aid: Approaches for Interim Repairs](http://www.w3.org/WAI/impl/improving) - approaches to make the
     process of improving accessibility more efficient and effective
--   [Implementation Plan for Web
-    Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
+-   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
     planning process for implementing web accessibility
 
 #### Handouts
@@ -1052,11 +1048,9 @@ website's accessibility over time.
 
 #### Primary resources
 
--   [Improving the Accessibility of Your Web
-    Site](http://www.w3.org/WAI/impl/improving) - approaches to make the
+-   [Web Accessibility First Aid: Approaches for Interim Repairs](http://www.w3.org/WAI/impl/improving) - approaches to make the
     process of improving accessibility more efficient and effective
--   [Implementation Plan for Web
-    Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
+-   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
     planning process for implementing web accessibility
 -   [Preliminary Review of Web Sites for
     Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
@@ -1554,3 +1548,4 @@ Introducing WCAG 2.0](#intro20).
 {% include_cached excol.html type="end" %}
 
 {% include excol.html type="all" %}
+
