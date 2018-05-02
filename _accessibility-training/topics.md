@@ -687,7 +687,7 @@ Accessibility](#components).
 -   [User Agent Accessibility Guidelines (UAAG)
     Overview](%7B%7Bsite.github.url%7D%7D/standards/uaag/) - an overview
     of UAAG and the related documentation
--   User Agent Accessibility Guidelines (UAAG)
+-   [User Agent Accessibility Guidelines (UAAG)
     2.0](http://www.w3.org/TR/UAAG20/) – W3C Working Group Note (not a standard)
 -   [User Agent Accessibility Guidelines
     1.0 *(old standard)*](http://www.w3.org/TR/UAAG10/) - specifies requirements that, if
@@ -772,11 +772,11 @@ Accessibility](#components).
 -   [Authoring Tool Accessibility Guidelines (ATAG)
     Overview](%7B%7Bsite.github.url%7D%7D/standards/atag/) - an overview
     of ATAG and the related documentation
--   Authoring Tool Accessibility Guidelines (ATAG)
-    2.0](http://www.w3.org/TR/ATAG20/)/) - specifies requirements that, if
+-   [Authoring Tool Accessibility Guidelines (ATAG)
+    2.0](http://www.w3.org/TR/ATAG20/) - specifies requirements that, if
     satisfied by authoring tool developers, will lower barriers to
     accessibility
--   Implementing ATAG
+-   [Implementing ATAG
     2.0](http://www.w3.org/TR/IMPLEMENTING-ATAG20/) - a guide to
     understanding and implementing Authoring Tool Accessibility
     Guidelines 2.0
