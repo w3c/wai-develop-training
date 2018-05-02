@@ -858,6 +858,7 @@ Accessibility](#components).
     suite of technical documents. Links to relevant documents, including [Accessible Rich Internet Applications (WAI-ARIA)] – technical specification, web standard (W3C Recommendation).
 -   [WAI-ARIA FAQ](http://www.w3.org/WAI/aria/faq) - some frequently
     asked questions (FAQ) about WAI-ARIA
+
 <!-- @@ this will need better links or more thought to be specific enough to be a useful link here…
 -   WAI-ARIA and scripting techniques from [How to Meet WCAG
     2.0](http://www.w3.org/WAI/WCAG20/quickref/)
@@ -1524,3 +1525,4 @@ Introducing WCAG 2.0](#intro20).
 {% include_cached excol.html type="end" %}
 
 {% include excol.html type="all" %}
+
