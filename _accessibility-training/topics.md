@@ -598,20 +598,25 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
 -   [Web Content Accessibility Guidelines (WCAG)
     Overview](http://www.w3.org/WAI/intro/wcag) - an overview of WCAG
     and the related documentation
--   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
+    -   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
     describes the different WCAG 2.0 technical documents, to help know
     where to go for different types of information
--   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
+    -   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
     customizable quick reference to WCAG 2.0 requirements and techniques
--   [WCAG 2.0
+    -   [WCAG 2.0
     Conformance](http://www.w3.org/WAI/WCAG20/quickref/Overview.php?introopt=Y#conformance-reqs) -
     lists the WCAG 2.0 conformance levels and requirements
+    -   [Benefits of WCAG 2
+    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
+    a complete presentation to draw from
+-   Tips for Getting Started with Web Accessibility - introduce some basic considerations for making your website more accessible to people with disabilities, and provide links to additional guidance:
+    -   [Writing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/writing.html) - tips for writing and presenting content
+    -   [Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing.html) - tips for user interface and visual design
+    -   [Developing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/developing.html) - tips for markup and coding
+-  [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) - provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG)
 -   [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria) - describes
     the problems that WAI-ARIA addresses, and introduces the WAI-ARIA
     suite of technical document
--   [Benefits of WCAG 2
-    Presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
-    a complete presentation to draw from
 
 #### Additional resources
 
