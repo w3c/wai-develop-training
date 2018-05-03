@@ -384,6 +384,12 @@ situation, from formal talks to personal conversations.
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
     paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
 
+### Suggestions for speakers
+
+-   **Demonstration:** Show some videos:
+    -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits) – 4 minutes
+    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspectives/) – show selected videos, or the [compilation of all 10 videos (YouTube, 7:36 minutes)]( https://www.youtube.com/watch?v=3f31oufqFSM)
+
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="intro20" %}
@@ -979,6 +985,9 @@ policies.
 -   **Tip:** Give accessibility a human face, for example by relating it
     to older relatives, such as grandparents, who may be encountering
     accessibility barriers as they go online.
+-   **Demonstration:** Show some videos:	
+    -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits) – 4 minutes
+    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspectives/) – show selected videos, or the [compilation of all 10 videos (YouTube, 7:36 minutes)]( https://www.youtube.com/watch?v=3f31oufqFSM)
 
 {% include_cached excol.html type="end" %}
 
