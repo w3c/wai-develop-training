@@ -29,7 +29,7 @@ kramwdown:
   input: GFM
   syntax_highlighter: rouge
 highlighter: rouge
-repository: w3c/wai-bcase
+repository: w3c/wai-develop-training
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
@@ -41,7 +41,7 @@ collections:
     name: "Accessibility Training"
     shortname: Trainings
     icon: "book" # TODO
-    repostitory: w3c/wai-training
+    repository: w3c/wai-develop-training
     output: true
     acknowledgements: false
     permalink: /teach-advocate/:collection/:path/
