@@ -281,7 +281,7 @@ and other key audiences
     Legislation](http://www.w3.org/WAI/training/topics#policy)
 -   [Authoring Tool Accessibility and
     ATAG](http://www.w3.org/WAI/training/topics#authoring)
--   [Quick Check for Web
+-   [Preliminary Check for Web
     Accessibility](http://www.w3.org/WAI/training/topics#check)
 
 ### Content authoring &mdash; Day 1 Session 4 {#d1s4}
@@ -326,7 +326,8 @@ for web content authors.
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
--   [Quick Check for Web
+    -   [Tips for Getting Started Writing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/writing.html) - tips for writing and presenting content
+-   [Preliminary Check for Web
     Accessibility](http://www.w3.org/WAI/training/topics#check)
 
 #### Relevant WCAG 2.0 Resources:
@@ -422,12 +423,13 @@ developers and application programmers
 -   Practical exercise, such as identifying pages with inaccessible
     visual design
 -   Introduction to the issues associated with movement on web pages
-    (e.g. from scrolling text, animations, flashing/flickering)
+    (e.g. from scrolling text, animations, flashing/flickering)	
 
 #### Related Topics with More Information:
 
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
+    -   [Tips for Getting Started Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing.html) - tips for user interface and visual design
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
 
