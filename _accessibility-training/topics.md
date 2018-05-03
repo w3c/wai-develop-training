@@ -609,7 +609,7 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
     -   [Benefits of WCAG 2
     Presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
     a complete presentation to draw from
--   Tips for Getting Started with Web Accessibility - introduce some basic considerations for making your website more accessible to people with disabilities, and provide links to additional guidance:
+-   Tips for Getting Started with Web Accessibility - introduces some basic considerations for making your website more accessible to people with disabilities, and provide links to additional guidance:
     -   [Writing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/writing.html) - tips for writing and presenting content
     -   [Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing.html) - tips for user interface and visual design
     -   [Developing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/developing.html) - tips for markup and coding
