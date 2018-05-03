@@ -12,7 +12,7 @@ footer: >
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides example outlines of four web accessibility presentations. It shows how you can use the [Accessibility Topics](topics) as building blocks for different types of presentations.
+This page provides example outlines of four web accessibility presentations. It shows how you can use the [Accessibility Topics]({% link _accessibility-training/topics.md %}) as building blocks for different types of presentations.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -65,20 +65,20 @@ several short presentations from a panel of speakers.
 ### Sample outline:
 
 -   **[Introducing web
-    accessibility](http://www.w3.org/WAI/training/topics#intro)** (5
+    accessibility]({% link _accessibility-training/topics.md %}#intro)** (5
     minutes)
     -   Describe what web accessibility is and why it's important
     -   Mention the WAI guidelines as the international standard for
         making the web accessible
 -   **[How people with disabilities use the
-    web](http://www.w3.org/WAI/training/topics#people)** (10 minutes)
+    web]({% link _accessibility-training/topics.md %}#people)** (10 minutes)
     -   Discuss some of the ways that people with disabilities use the
         web and/or show some short videos of people with disabilities
         using the web
     -   Mention some of the types of barriers that arise from
         inaccessible design
 -   **[Business case for web
-    accessibility](http://www.w3.org/WAI/training/topics#bcase)** (5
+    accessibility]({% link _accessibility-training/topics.md %}#bcase)** (5
     minutes)
     -   Introduce aspects of the business case that are most relevant to
         your audience, such as:
@@ -118,13 +118,13 @@ meeting to introduce the business case for web accessibility.
 
 ### Sample outline:
 
--   [**Introducing web accessibility**](http://www.w3.org/WAI/training/topics#intro) (4 minutes)
+-   [**Introducing web accessibility**]({% link _accessibility-training/topics.md %}#intro) (4 minutes)
     -   Describe what web accessibility is
     -   Briefly introduce demographics of the disability marketplace
         and/or demographics of the ageing population
     -   Mention a range of barriers faced by people with disabilities
 -   **[Business case for web
-    accessibility](http://www.w3.org/WAI/training/topics#bcase)** (6
+    accessibility]({% link _accessibility-training/topics.md %}#bcase)** (6
     minutes)
     -   Introduce the carry-over benefits of universal design
         highlighting some of the additional business benefits that
@@ -174,13 +174,13 @@ accessibility features of computers, browsers, and websites.
 ### Sample outline:
 
 -   **[Introducing web
-    accessibility](http://www.w3.org/WAI/training/topics#intro)** (5
+    accessibility]({% link _accessibility-training/topics.md %}#intro)** (5
     minutes)
     -   Describe what web accessibility is
     -   Introduce the different ways people with disabilities and older
         people use the web by describing some scenarios or showing some
         videos
--   **[How people with disabilities use the web](http://www.w3.org/WAI/training/topics#people)** (25 minutes)
+-   **[How people with disabilities use the web]({% link _accessibility-training/topics.md %}#people)** (25 minutes)
     -   Discuss and illustrate the range of adaptive strategies and
         assistive technologies
     -   Demonstrate some adaptive strategies and/or assistive
@@ -188,7 +188,7 @@ accessibility features of computers, browsers, and websites.
     -   Draw examples from "Better Web Browsing: Tips for Customizing
         Your Computer" resource
 -   **[Components of web
-    accessibility](http://www.w3.org/WAI/training/topics#components)**
+    accessibility]({% link _accessibility-training/topics.md %}#components)**
     (10 minutes)
     -   Explain the four principles of accessible web design:
         perceivable, operable, understandable and robust (POUR)
@@ -196,7 +196,7 @@ accessibility features of computers, browsers, and websites.
         Glance" handout
     -   Explain the components of web accessibility and how they relate
         to the WAI Guidelines
--   **[Promoting web accessibility](http://www.w3.org/WAI/training/topics#promoting)** (5
+-   **[Promoting web accessibility]({% link _accessibility-training/topics.md %}#promoting)** (5
     minutes)
     -   Introduce how to contact organizations with inaccessible
         websites
@@ -223,7 +223,7 @@ of a full semester's introductory course on general web design.
         Demonstration](http://www.w3.org/WAI/demos/bad/)
     -   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/)
     -   [Involving Users in Web Projects for Better, Easier
-        Accessibility](%7B%7Bsite.github.io%7D%7D/plan/involving-users/)
+        Accessibility]({{ "/plan/involving-users/" | relative_url }})
 
 ### Learning objectives:
 
@@ -242,17 +242,17 @@ After the lecture and exercise, students should be able to:
 
 ### Sample outline:
 
--   [**Introduction to web accessibility**](http://www.w3.org/WAI/training/topics#intro) (5 minutes)
+-   [**Introduction to web accessibility**]({% link _accessibility-training/topics.md %}#intro) (5 minutes)
     -   Describe what web accessibility is
 -   **[How people with disabilities use the
-    web](http://www.w3.org/WAI/training/topics#people)** (15 minutes)
+    web]({% link _accessibility-training/topics.md %}#people)** (15 minutes)
     -   Discuss some of the ways that people with disabilities use the
         web and/or show some short videos of people with disabilities
         using the web
     -   Mention some of the types of barriers that arise from
         inaccessible design
 -   **[Business case for web
-    accessibility](http://www.w3.org/WAI/training/topics#bcase)** (15
+    accessibility]({% link _accessibility-training/topics.md %}#bcase)** (15
     minutes)
     -   Introduce the carry-over benefits of universal design
         highlighting some of the additional business benefits that
@@ -265,7 +265,7 @@ After the lecture and exercise, students should be able to:
     -   Highlight some of the documented case studies of accessibility
         improvements
 -   **[Components of web
-    accessibility](http://www.w3.org/WAI/training/topics#components)**
+    accessibility]({% link _accessibility-training/topics.md %}#components)**
     (10 minutes)
     -   Explain the four principles of accessible web design:
         perceivable, operable, understandable and robust (POUR)
@@ -274,7 +274,7 @@ After the lecture and exercise, students should be able to:
     -   Explain the components of web accessibility and how they relate
         to the WAI Guidelines
 -   **[Designing accessible websites with WCAG
-    2](http://www.w3.org/WAI/training/topics#design)** (45 minutes)
+    2]({% link _accessibility-training/topics.md %}#design)** (45 minutes)
     -   Explain some of the WCAG 2 requirements using real examples to
         demonstrate their applicability
     -   Demonstrate using "How to Meet WCAG 2.0" reference to help
@@ -283,7 +283,7 @@ After the lecture and exercise, students should be able to:
         design process
     -   Consider using interactive coding exercises to engage students
 -   **[Evaluation for web
-    accessibility](http://www.w3.org/WAI/training/topics#conform)** (30
+    accessibility]({% link _accessibility-training/topics.md %}#conform)** (30
     minutes)
     -   Introduce preliminary and conformance evaluation of websites for
         accessibility
@@ -295,7 +295,7 @@ After the lecture and exercise, students should be able to:
 
 **Suggested preparatory reading for students:**
 
--   [Introduction to Web Accessibility]( https://www.w3.org/WAI/intro/accessibility)
+-   [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility)
 -   [How People with Disabilities Use the
     Web](http://www.w3.org/WAI/intro/people-use-web)
 -   [Developing a Web Accessibility Business Case for Your

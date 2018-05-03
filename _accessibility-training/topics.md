@@ -280,15 +280,15 @@ accessibility.
     of people with different disabilities using websites, web
     applications, browsers, and authoring tools
 -   [Web Content Accessibility Guidelines (WCAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/wcag/) - an overview
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }}) - an overview
     of WCAG and the related documentation
 -   [Authoring Tool Accessibility Guidelines (ATAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/atag/) - an overview
+    Overview]({{ "/standards-guidelines/atag/" | relative_url }}) - an overview
     of ATAG and the related documentation
 -   [User Agent Accessibility Guidelines (UAAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/uaag/) - an overview
+    Overview]({{ "/standards-guidelines/uaag/" | relative_url }}) - an overview
     of UAAG and the related documentation
--   [WAI-ARIA Overview](%7B%7Bsite.github.url%7D%7D/standards/aria/) -
+-   [WAI-ARIA Overview]({{ "/standards-guidelines/aria/" | relative_url }}) -
     describes the problems that WAI-ARIA addresses, and introduces the
     WAI-ARIA suite of technical documents
 
@@ -371,7 +371,7 @@ situation, from formal talks to personal conversations.
     pointer to translation policy; list of existing translations;
     priority list of documents for translation
 -   [Developing Organizational Policies on Web
-    Accessibility](%7B%7Bsite.github.url%7D%7D/planning-and-managing/implement/) -
+    Accessibility]({{ "/planning-and-managing/implement/" | relative_url }}) -
     addresses considerations that can arise when developing
     organizational policies on Web accessibility
 
@@ -695,7 +695,7 @@ Accessibility](#components).
 #### Primary resources
 
 -   [User Agent Accessibility Guidelines (UAAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/uaag/) - an overview
+    Overview]({{ "/standards-guidelines/uaag/" | relative_url }}) - an overview
     of UAAG and the related documentation
 -   [User Agent Accessibility Guidelines (UAAG)
     2.0](http://www.w3.org/TR/UAAG20/) – W3C Working Group Note (not a standard)
@@ -780,7 +780,7 @@ Accessibility](#components).
 #### Primary resources
 
 -   [Authoring Tool Accessibility Guidelines (ATAG)
-    Overview](%7B%7Bsite.github.url%7D%7D/standards/atag/) - an overview
+    Overview]({{ "/standards-guidelines/atag/" | relative_url }}) - an overview
     of ATAG and the related documentation
 -   [Authoring Tool Accessibility Guidelines (ATAG)
     2.0](http://www.w3.org/TR/ATAG20/) - specifies requirements that, if
@@ -1029,15 +1029,15 @@ website's accessibility over time.
     process of improving accessibility more efficient and effective
 -   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
     planning process for implementing web accessibility
--   [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
+-   [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/easychecks/" | relative_url }}) -
     provides step-by-step guidance and brief explanations for checking some aspects of accessibility.
--   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
+-   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]({{ "/test-evaluate/conformance/" | relative_url }}) -
     introduces an approach for determining conformance to Web Content Accessibility Guidelines (WCAG)
 
 ### Suggestions for speakers
 
 -   **Activity/Demonstration:** Explore web accessibility barriers using
-    some of the techniques from [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/).
+    some of the techniques from [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/easychecks/" | relative_url }}).
 -   **Discussion:** Explore the failures and repairs in the [Before and
     After Demonstration](http://www.w3.org/WAI/demos/bad/). Discuss how
     websites can be made accessible with little or no change to their
@@ -1224,7 +1224,7 @@ of organizational accessibility policies.
     key role that harmonization of standards plays in increasing the
     accessibility of the Web
 -   [Developing Organizational Policies on Web
-    Accessibility](%7B%7Bsite.github.url%7D%7D/planning-and-managing/implement/) -
+    Accessibility]({{ "/planning-and-managing/implement/" | relative_url }}) -
     addresses considerations that can arise when developing
     organizational policies on Web accessibility
 
@@ -1287,7 +1287,7 @@ evaluation review.
 
 #### Primary resources
 
--   [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
+-   [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/easychecks/" | relative_url }}) -
     provides step-by-step guidance and brief explanations for checking some aspects of accessibility
 -   [Selecting Web Accessibility Evaluation Tools](http://www.w3.org/WAI/eval/selectingtools) - provides guidance on choosing tools; describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation
 -   [Web Accessibility Evaluation
@@ -1301,7 +1301,7 @@ evaluation review.
 ### Suggestions for speakers
 
 -   **Activity/Demonstration:** Explore web accessibility barriers using
-    some of the techniques from [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/).
+    some of the techniques from [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/easychecks/" | relative_url }}).
 -   **Activity/Demonstration:** Use evaluation tools to help identify
     failures and repairs in the [Before and After
     Demonstration](http://www.w3.org/WAI/demos/bad/). Discuss the
@@ -1349,7 +1349,7 @@ Introducing WCAG 2.0](#intro20).
 #### Primary resources
 
 -   Website Accessibility Conformance Evaluation Methodology (WCAG-EM) documents:
-    -   [WCAG-EM Overview](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
+    -   [WCAG-EM Overview]({{ "/test-evaluate/conformance/" | relative_url }}) -
     introduces an approach for determining conformance to Web Content Accessibility Guidelines (WCAG)
     -   [Website Accessibility Conformance Evaluation Methodology (WCAG-EM) ](https://www.w3.org/TR/WCAG-EM/)
     -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator](https://www.w3.org/WAI/eval/report-tool/#/) - helps you generate evaluation reports according to WCAG-EM.
