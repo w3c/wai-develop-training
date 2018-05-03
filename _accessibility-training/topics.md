@@ -55,7 +55,7 @@ This page provides material for web accessibility topics that you can use as bui
   </li>
   <li><strong>Evaluating Accessibility</strong>
      <ol start="16">
-        <li><a href="#check">Quick Check for Web Accessibility</a></li>
+        <li><a href="#check">Preliminary Check for Web Accessibility</a></li>
         <li><a href="#conform">Conformance Evaluation for Web Accessibility</a></li>
      </ol>
   </li>
@@ -1274,31 +1274,20 @@ evaluation review.
 #### Primary resources
 
 -   [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/) -
-    provides step-by-step guidance and brief explanations for checking some aspects of accessibility.
--   [Selecting Web Accessibility Evaluation
-    Tools](http://www.w3.org/WAI/eval/selectingtools) - highlights
-    different features of evaluation tools which can assist during
-    evaluation reviews
+    provides step-by-step guidance and brief explanations for checking some aspects of accessibility
+-   [Selecting Web Accessibility Evaluation Tools](http://www.w3.org/WAI/eval/selectingtools) - provides guidance on choosing tools; describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation
 -   [Web Accessibility Evaluation
-    Tools](http://www.w3.org/WAI/ER/tools/) - filterable list of Web
+    Tools](http://www.w3.org/WAI/ER/tools/) - filterable list of web
     accessibility evaluation tools
 -   [Involving Users in Evaluating Web
     Accessibility](http://www.w3.org/WAI/eval/users) - describes the
     benefits of evaluating with real people and identifying usability
     issues that are not discovered by conformance evaluation alone
--   [Better Web Browsing: Tips for Configuring Your
-    Computer](http://www.w3.org/WAI/users/browsing) - references to
-    resources to help people customize their web browser and computer
-    setup
 
 ### Suggestions for speakers
 
 -   **Activity/Demonstration:** Explore web accessibility barriers using
     some of the techniques from [Easy Checks - A First Review of Web Accessibility](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/).
-    For example use some techniques for examining pages using [graphical
-    browsers](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/#guibrowsers)
-    or [specialized
-    browsers](%7B%7Bsite.github.url%7D%7D/test-evaluate/easychecks/#altbrowsers).
 -   **Activity/Demonstration:** Use evaluation tools to help identify
     failures and repairs in the [Before and After
     Demonstration](http://www.w3.org/WAI/demos/bad/). Discuss the
@@ -1345,36 +1334,25 @@ Introducing WCAG 2.0](#intro20).
 
 #### Primary resources
 
--   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
+-   Website Accessibility Conformance Evaluation Methodology (WCAG-EM) documents:
+    -   [WCAG-EM Overview](%7B%7Bsite.github.url%7D%7D/test-evaluate/conformance/) -
     introduces an approach for determining conformance to Web Content Accessibility Guidelines (WCAG)
--   [Evaluation Approaches for Specific
-    Contexts](http://www.w3.org/WAI/eval/considerations) - describes
-    considerations for evaluation of large and complex websites
+    -   [Website Accessibility Conformance Evaluation Methodology (WCAG-EM) ](https://www.w3.org/TR/WCAG-EM/)
+    -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator](https://www.w3.org/WAI/eval/report-tool/#/) - helps you generate evaluation reports according to WCAG-EM.
 -   [Using Combined Expertise to Evaluate Web
     Accessibility](http://www.w3.org/WAI/eval/reviewteams) - describes
     the diverse kinds of expertise and perspectives required to evaluate
     the accessibility of web content
--   [Selecting Web Accessibility Evaluation
-    Tools](http://www.w3.org/WAI/eval/selectingtools) - highlights
-    different features of evaluation tools which can assist during
-    evaluation reviews
+-   [Involving Users in Evaluating Web
+    Accessibility](http://www.w3.org/WAI/eval/users) - describes the
+    benefits from evaluating with real people and identifying usability
+    issues that are not discovered by conformance evaluation alone
+-   [Selecting Web Accessibility Evaluation Tools](http://www.w3.org/WAI/eval/selectingtools) - provides guidance on choosing tools; describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation
 -   [Web Accessibility Evaluation
     Tools](http://www.w3.org/WAI/ER/tools/) - filterable list of Web
     accessibility evaluation tools
 -   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
     customizable quick reference to WCAG 2.0 requirements and techniques
--   [Involving Users in Evaluating Web
-    Accessibility](http://www.w3.org/WAI/eval/users) - describes the
-    benefits from evaluating with real people and identifying usability
-    issues that are not discovered by conformance evaluation alone
--   [Template for Accessibility Evaluation
-    Reports](http://www.w3.org/WAI/eval/template) (refers to WCAG 1.0,
-    but applicable to WCAG 2.0);\
-    see also the reports from [Before and After
-    Demonstration](http://www.w3.org/WAI/demos/bad/)
--   [\[Draft\] Website Accessibility Conformance Evaluation Methodology
-    1.0](http://www.w3.org/TR/WCAG-EM/) - a methodology for evaluating
-    the conformance of websites to WCAG 2.0
 
 #### Handouts
 
@@ -1398,3 +1376,4 @@ Introducing WCAG 2.0](#intro20).
 {% include_cached excol.html type="end" %}
 
 {% include excol.html type="all" %}
+
