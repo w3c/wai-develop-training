@@ -4,7 +4,7 @@ nav_title: Workshop Outline
 order: 3
 footer: >
   <p><strong>Date:</strong> Links and organization updated 1 May 2018. Content updated 21 February 2013. First published November  2000.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>. </p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
 
@@ -12,7 +12,7 @@ footer: >
 {% include box.html type="start" title="Summary" class="" %} 
 {:/}
 
-This page describes an example three-day hands-on workshop on web accessibility. You can use it as a basis for developing customized training for specific audience needs and goals. It links to [Accessibility Topics](topics) and WAI resources that you can use as building blocks to develop your presentation and activity materials.
+This page describes an example three-day hands-on workshop on web accessibility. You can use it as a basis for developing customized training for specific audience needs and goals. It links to [Accessibility Topics]({{ "/teach-advocate/accessibility-training/topics/" | relative_url }}) and WAI resources that you can use as building blocks to develop your presentation and activity materials.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -817,8 +817,6 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
     label](http://www.w3.org/TR/WCAG20-TECHS/F82)
 -   [H91: Using HTML form controls and
     links](http://www.w3.org/TR/WCAG20-TECHS/H91)
--   [H92: Including a text cue for colored form control
-    labels](http://www.w3.org/TR/WCAG20-TECHS/h92)
 -   [G13: Describing what will happen before a change to a form control
     that causes a change of context to occur is
     made](http://www.w3.org/TR/WCAG20-TECHS/G13)

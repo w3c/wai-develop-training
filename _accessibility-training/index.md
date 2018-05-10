@@ -5,23 +5,23 @@ permalink: /teach-advocate/accessibility-training/
 order: 0
 footer: >
   <p><strong>Date:</strong> Minor updates 2 May 2018. Main content updated 21 February 2013. First published November  2000.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>. </p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
 
 WAI offers materials for speakers, lecturers, educators, and other presenters to help their participants understand more about web accessibility. The materials provide a range of information from introductory slides for those new to accessibility, to statistics and demos for experienced trainers. This set of resources includes:
 
--   [**Accessibility Topics**]({% link _accessibility-training/topics.md %}) - descriptions and resources for topics that can be covered in presentations and training, including:
+-   [**Accessibility Topics**]({{ "/teach-advocate/accessibility-training/topics/" | relative_url }}) - descriptions and resources for topics that can be covered in presentations and training, including:
     -   Introducing accessibility (4 topics)
     -   Guidelines and techniques (6 topics)
     -   Managing accessibility (5 topics)
     -   Evaluating accessibility (2 topics)
--   [**Presentation Outlines**]({% link _accessibility-training/presentation-outlines.md %}) - example outlines of presentations that combine some of the Topics:
+-   [**Presentation Outlines**]({{ "/teach-advocate/accessibility-training/presentation-outlines/" | relative_url }}) - example outlines of presentations that combine some of the Topics:
     -   Introducing web accessibility (20 minutes for any audience)
     -   Promoting web accessibility (10 minutes for senior management)
     -   Using an accessible web (1 hour for people with accessibility needs)
     -   Accessible web design (2 hour lecture as part of a web design course)
--   [**Workshop Outline**]({% link _accessibility-training/workshop-outline.md %}) - description of a 3-day hands-on web accessibility training workshop for:
+-   [**Workshop Outline**]({{ "/teach-advocate/accessibility-training/workshop-outline/" | relative_url }}) - description of a 3-day hands-on web accessibility training workshop for:
     -   Web developers and application programmers (all 3 days)
     -   Web content authors and visual designers (days 1 & 2 only)
     -   Managers and decision-makers (day 1 only)
@@ -32,7 +32,7 @@ Feel free to use this material as is or adapt it for your specific audience and 
 
 We encourage you to share accessibility information. Understand your own level of knowledge (no one knows everything about accessibility), and be careful how you address sensitive topics. Be open with your audience about your background and level of expertise. If you get questions that you are unsure about, it's fine to say that you don't know the answer. That is a opportunity to look for the answer on the [WAI website](http://www.w3.org/WAI/yourWAI) with your audience, or say that you will find the answer later and then ask the question on the [WAI Interest Group mailing list](http://www.w3.org/WAI/IG/#mailinglist).
 
-*See also:* For guidance on making your presentations and training accessible to people with disabilities and others in your audience, see [How to Make Your Presentations Accessible to All](http://www.w3.org/WAI/training/accessible).
+*See also:* For guidance on making your presentations and training accessible to people with disabilities and others in your audience, see [How to Make Your Presentations Accessible to All]({{ "/teach-advocate/accessible-presentations/" | relative_url }}).
 
 ### Share your ideas
 

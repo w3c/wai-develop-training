@@ -4,7 +4,7 @@ nav_title: Topics
 order: 1
 footer: >
   <p><strong>Date:</strong> Links updated 1 May 2018. Other content updated 21 February 2013. First published November 2000.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>. </p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
 
@@ -572,8 +572,8 @@ improve accessibility for people with disabilities and older people.
 
 **Note:** This topic could be presented as an introduction (such as part
 of a [lecture to web design
-students](http://www.w3.org/WAI/training/presentation-outlines#design))
-or as a [multi-day workshop for developers](workshop-outlines). See also
+students]({{ "/teach-advocate/accessibility-training/presentation-outlines/" | relative_url }}#design))
+or as a [multi-day workshop for developers]({{ "/teach-advocate/accessibility-training/workshop-outline/" | relative_url }}). See also
 the related [Topic 9: Accessibility of Authoring Tools](#authoring).
 
 ### What this topic covers
@@ -596,7 +596,7 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
 #### Primary resources
 
 -   [Web Content Accessibility Guidelines (WCAG)
-    Overview](http://www.w3.org/WAI/intro/wcag) - an overview of WCAG
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }}) - an overview of WCAG
     and the related documentation
     -   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
     describes the different WCAG 2.0 technical documents, to help know
@@ -604,25 +604,25 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
     -   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
     customizable quick reference to WCAG 2.0 requirements and techniques
     -   [WCAG 2.0
-    Conformance](http://www.w3.org/WAI/WCAG20/quickref/Overview.php?introopt=Y#conformance-reqs) -
+    Conformance](http://www.w3.org/WAI/WCAG20/quickref#conformance-reqs) -
     lists the WCAG 2.0 conformance levels and requirements
     -   [Benefits of WCAG 2
     Presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
     a complete presentation to draw from
 -   Tips for Getting Started with Web Accessibility - introduces some basic considerations for making your website more accessible to people with disabilities, and provide links to additional guidance:
-    -   [Writing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/writing.html) - tips for writing and presenting content
-    -   [Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing.html) - tips for user interface and visual design
-    -   [Developing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/developing.html) - tips for markup and coding
+    -   [Writing for Web Accessibility]({{"/tips/writing" | relative_url }}) - tips for writing and presenting content
+    -   [Designing for Web Accessibility]({{"/tips/designing" | relative_url }}) - tips for user interface and visual design
+    -   [Developing for Web Accessibility]({{"/tips/developing" | relative_url }}) - tips for markup and coding
 -  [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) - provide guidance on how to create components that meet Web Content Accessibility Guidelines (WCAG)
--   [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria) - describes
+-   [WAI-ARIA Overview]({{ "/standards-guidelines/aria/" | relative_url }}) - describes
     the problems that WAI-ARIA addresses, and introduces the WAI-ARIA
     suite of technical document
 
 #### Additional resources
 
--   [Web Accessibility First Aid: Approaches for Interim Repairs](http://www.w3.org/WAI/impl/improving) - approaches to make the
+-   [Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/plan/interim-repairs/" | relative_url }}) - approaches to make the
     process of improving accessibility more efficient and effective
--   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
+-   [Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }}) - considerations for the
     planning process for implementing web accessibility
 
 #### Handouts
@@ -863,7 +863,7 @@ Accessibility](#components).
 
 #### Primary resources
 
--   [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria) - describes
+-   [WAI-ARIA Overview]({{ "/standards-guidelines/aria/" | relative_url }}) - describes
     the problems that WAI-ARIA addresses, and introduces the WAI-ARIA
     suite of technical documents. Links to relevant documents, including:
     -   [Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/TR/wai-aria/) – technical specification, web standard (W3C Recommendation)
@@ -930,8 +930,7 @@ policies.
 
 #### Sample presentation
 
--   [Web Accessibility is Smart Business](https://www.w3.org/WAI/presentations/bcase/) - can
-    be used as the basis for a presentation on this topic
+-   [Web Accessibility is Smart Business](https://www.w3.org/WAI/presentations/bcase/) - can be used as the basis for a presentation on this topic
 
 #### Primary resources
 -   [Developing a Web Accessibility Business Case for Your
@@ -956,7 +955,7 @@ policies.
 -   [Web Accessibility Laws and Policies](http://www.w3.org/WAI/Policy/) - links to laws and
     policies regarding web accessibility around the world
 -   [Developing Organizational Policies on Web
-    Accessibility](https://www.w3.org/WAI/impl/pol) -
+    Accessibility]({{ "/plan/org-policies/" | relative_url }}) -
     addresses considerations that can arise when developing
     organizational policies on web accessibility
 
@@ -977,7 +976,7 @@ policies.
 -   **Discussion:** Explore the international, national, or
     organizational policies that are applicable to the participants.
     Discuss relevant [laws and policies relating to web
-    accessibility](http://www.w3.org/WAI/Policy/), [legal and policy
+    accessibility]({{ "/policies/" | relative_url }}), [legal and policy
     factors](http://www.w3.org/WAI/bcase/pol) in a web accessibility
     business case, and [cautionary tales of
     inaccessibility](http://www.w3.org/WAI/bcase/resources#casesnot).
@@ -992,7 +991,7 @@ policies.
     accessibility barriers as they go online.
 -   **Demonstration:** Show some videos:	
     -   [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits) – 4 minutes
-    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspectives/) – show selected videos, or the [compilation of all 10 videos (YouTube, 7:36 minutes)]( https://www.youtube.com/watch?v=3f31oufqFSM)
+    -   [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone]({{ "/perspective-videos/" | relative_url }}) – show selected videos, or the [compilation of all 10 videos (YouTube, 7:36 minutes)]( https://www.youtube.com/watch?v=3f31oufqFSM)
 
 {% include_cached excol.html type="end" %}
 
@@ -1029,7 +1028,7 @@ website's accessibility over time.
     process of improving accessibility more efficient and effective
 -   [Planning and Managing Web Accessibility](http://www.w3.org/WAI/impl/) - considerations for the
     planning process for implementing web accessibility
--   [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/easychecks/" | relative_url }}) -
+-   [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}) -
     provides step-by-step guidance and brief explanations for checking some aspects of accessibility.
 -   [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]({{ "/test-evaluate/conformance/" | relative_url }}) -
     introduces an approach for determining conformance to Web Content Accessibility Guidelines (WCAG)
@@ -1037,7 +1036,7 @@ website's accessibility over time.
 ### Suggestions for speakers
 
 -   **Activity/Demonstration:** Explore web accessibility barriers using
-    some of the techniques from [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/easychecks/" | relative_url }}).
+    some of the techniques from [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}).
 -   **Discussion:** Explore the failures and repairs in the [Before and
     After Demonstration](http://www.w3.org/WAI/demos/bad/). Discuss how
     websites can be made accessible with little or no change to their
@@ -1081,15 +1080,15 @@ that are not always discovered by conformance evaluation alone.
 #### Primary resources
 
 -   [Involving Users in Web Projects for Better, Easier
-    Accessibility](%7B%7Bsite.github.io%7D%7D/plan/involving-users/) - a
+    Accessibility]({{ "/plan/involving-users/" | relative_url }}) - a
     start to reaping the benefits of involving people with disabilities
     and older people throughout your projects
 -   [Involving Users in Evaluating Web
-    Accessibility](http://www.w3.org/WAI/eval/users) - describes the
+    Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}) - describes the
     benefits of evaluating with real people and identifying usability
     issues that are not discovered by conformance evaluation alone
 -   [How People with Disabilities use the
-    Web](http://www.w3.org/WAI/intro/people-use-web) - provides examples
+    Web]({{ "/people-use-web/" | relative_url }}) - provides examples
     of people with different disabilities using websites, web
     applications, browsers, and authoring tools
 
@@ -1287,7 +1286,7 @@ evaluation review.
 
 #### Primary resources
 
--   [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/easychecks/" | relative_url }}) -
+-   [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}) -
     provides step-by-step guidance and brief explanations for checking some aspects of accessibility
 -   [Selecting Web Accessibility Evaluation Tools](http://www.w3.org/WAI/eval/selectingtools) - provides guidance on choosing tools; describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation
 -   [Web Accessibility Evaluation
@@ -1301,7 +1300,7 @@ evaluation review.
 ### Suggestions for speakers
 
 -   **Activity/Demonstration:** Explore web accessibility barriers using
-    some of the techniques from [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/easychecks/" | relative_url }}).
+    some of the techniques from [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}).
 -   **Activity/Demonstration:** Use evaluation tools to help identify
     failures and repairs in the [Before and After
     Demonstration](http://www.w3.org/WAI/demos/bad/). Discuss the
