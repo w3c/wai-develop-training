@@ -620,7 +620,7 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
 
 #### Additional resources
 
--   [Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/plan/interim-repairs/" | relative_url }}) - approaches to make the
+-   [Web Accessibility First Aid: Approaches for Interim Repairs]({{ "/planning/interim-repairs/" | relative_url }}) - approaches to make the
     process of improving accessibility more efficient and effective
 -   [Planning and Managing Web Accessibility]({{ "/planning-and-managing/" | relative_url }}) - considerations for the
     planning process for implementing web accessibility
@@ -955,7 +955,7 @@ policies.
 -   [Web Accessibility Laws and Policies](http://www.w3.org/WAI/Policy/) - links to laws and
     policies regarding web accessibility around the world
 -   [Developing Organizational Policies on Web
-    Accessibility]({{ "/plan/org-policies/" | relative_url }}) -
+    Accessibility]({{ "/planning/org-policies/" | relative_url }}) -
     addresses considerations that can arise when developing
     organizational policies on web accessibility
 
@@ -1080,7 +1080,7 @@ that are not always discovered by conformance evaluation alone.
 #### Primary resources
 
 -   [Involving Users in Web Projects for Better, Easier
-    Accessibility]({{ "/plan/involving-users/" | relative_url }}) - a
+    Accessibility]({{ "/planning/involving-users/" | relative_url }}) - a
     start to reaping the benefits of involving people with disabilities
     and older people throughout your projects
 -   [Involving Users in Evaluating Web

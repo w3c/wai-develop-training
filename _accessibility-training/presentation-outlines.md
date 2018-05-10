@@ -223,7 +223,7 @@ of a full semester's introductory course on general web design.
         Demonstration](http://www.w3.org/WAI/demos/bad/)
     -   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/)
     -   [Involving Users in Web Projects for Better, Easier
-        Accessibility]({{ "/plan/involving-users/" | relative_url }})
+        Accessibility]({{ "/planning/involving-users/" | relative_url }})
 
 ### Learning objectives:
 
