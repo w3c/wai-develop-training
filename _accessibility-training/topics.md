@@ -3,7 +3,7 @@ title: "Topics for Web Accessibility Presentations and Training"
 nav_title: Topics
 order: 1
 footer: >
-  <p><strong>Date:</strong> Links updated 1 May 2018. Other content updated 21 February 2013. First published November 2000.</p>
+  <p><strong>Date:</strong> Links updated 24 May 2018. Other content updated 21 February 2013. First published November 2000.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
@@ -36,8 +36,8 @@ This page provides material for web accessibility topics that you can use as bui
   </li>
   <li><strong>Guidelines and Techniques </strong>
      <ol start="5">
-        <li><a href="#intro20">Introducing WCAG 2.0</a><!--(related presentation  available)--></li>
-        <li><a href="#migrate">Migrating to WCAG 2.0</a></li>
+        <li><a href="#intro20">Introducing WCAG 2</a><!--(related presentation  available)--></li>
+        <li><a href="#migrate">Migrating to WCAG 2</a></li>
         <li><a href="#design">Designing and Developing Accessible Websites with WCAG 2</a></li>
         <li><a href="#browsers">Browser Accessibility and UAAG</a></li>
         <li><a href="#authoring">Authoring Tool Accessibility and ATAG</a></li>
@@ -114,7 +114,7 @@ people should have equal, barrier-free access.
 #### Handouts
 
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
+    paraphrased summary of Web Content Accessibility Guidelines WCAG 2
 
 ### Suggestions for speakers
 
@@ -202,7 +202,7 @@ technologies and adaptive browsing strategies.
     diagram
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
     paraphrased summary of Web Content Accessibility Guidelines (WCAG)
-    2.0
+    2
 
 ### Suggestions for speakers
 
@@ -299,7 +299,7 @@ accessibility.
     information about Essential Components of Web Accessibility with a
     diagram
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
+    paraphrased summary of Web Content Accessibility Guidelines WCAG 2
 
 ### Suggestions for speakers
 
@@ -382,7 +382,7 @@ situation, from formal talks to personal conversations.
     information about Essential Components of Web Accessibility with a
     diagram
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
+    paraphrased summary of Web Content Accessibility Guidelines WCAG 2
 
 ### Suggestions for speakers
 
@@ -394,35 +394,35 @@ situation, from formal talks to personal conversations.
 
 {% include_cached excol.html type="start" id="intro20" %}
 
-## 5. Introducing WCAG 2.0
+## 5. Introducing WCAG 2
 
 {% include_cached excol.html type="middle" %}
 
-**Goal:** Provide basic familiarity with WCAG 2.0 and its benefits.
+**Goal:** Provide basic familiarity with WCAG 2 and its benefits.
 
-**Audience:** Anyone requiring an introduction to WCAG 2.0 and
-familiarization with the WCAG 2.0 documents.
+**Audience:** Anyone requiring an introduction to WCAG 2 and
+familiarization with the WCAG 2 documents.
 
 ### Description
 
-This topic presents the use of WCAG 2.0 when developing websites
+This topic presents the use of WCAG 2 when developing websites
 (especially techniques to use and techniques to avoid) that will improve
 accessibility for people with disabilities and older people.
 
 ### What this topic covers
 
 -   The four basic principles (Perceivable, Operable, Understandable,
-    Robust) under which WCAG 2.0 is organized
+    Robust) under which WCAG 2 is organized
 -   Relationship of the organizing principles to the supporting
     Guidelines, Success Criteria and associated techniques
--   Structure of WCAG 2.0 success criteria and associated techniques
+-   Structure of WCAG 2 success criteria and associated techniques
     (Sufficient, Advisory, Failure)
--   Benefits of WCAG 2.0 in relation to internationalization,
+-   Benefits of WCAG 2 in relation to internationalization,
     interoperability, adaptability to emerging technologies, etc.
 -   Tools and documents provided to support practical implementation and
     testing
 -   How to locate supporting resources through the "How to Meet WCAG
-    2.0" gateway
+    2 (Quick Reference)" gateway
 
 ### Resources for developing a presentation
 
@@ -439,12 +439,12 @@ accessibility for people with disabilities and older people.
     and the related documentation
 -   [Understanding the Four Principles of
     Accessibility](http://www.w3.org/TR/UNDERSTANDING-WCAG20/intro#introduction-fourprincs-head)
-    in Introduction to Understanding WCAG 2.0
--   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
-    describes the different WCAG 2.0 technical documents, to help know
+    in Introduction to Understanding WCAG 2
+-   [The WCAG 2 Documents](http://www.w3.org/WAI/intro/wcag20) -
+    describes the different WCAG 2 technical documents, to help know
     where to go for different types of information
--   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
-    customizable quick reference to WCAG 2.0 requirements and techniques
+-   [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/) - a
+    customizable quick reference to WCAG 2 requirements and techniques
 
 #### Additional resources
 
@@ -461,7 +461,7 @@ accessibility for people with disabilities and older people.
 #### Handouts
 
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
+    paraphrased summary of Web Content Accessibility Guidelines WCAG 2
 -   [WAI Web Accessibility
     Resources](http://www.w3.org/WAI/flyer/#resources) - includes
     information about Essential Components of Web Accessibility with a
@@ -469,9 +469,9 @@ accessibility for people with disabilities and older people.
 
 ### Suggestions for speakers
 
--   **Demonstration:** Show how to effectively access WCAG 2.0
+-   **Demonstration:** Show how to effectively access WCAG 2
     success criteria, understanding documents, and techniques using [How to
-    Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/).
+    Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/).
 
 {% include_cached excol.html type="end" %}
 
@@ -481,7 +481,7 @@ accessibility for people with disabilities and older people.
 
 {% include_cached excol.html type="middle" %}
 
-**Goal:** Help people wanting to transition to WCAG 2.0.
+**Goal:** Help people wanting to transition to WCAG 2.
 
 **Audience:** Web developers, policy makers, and accessibility advocates
 
@@ -496,14 +496,14 @@ requirements.
 
 -   Acknowledgement that the basic goals of web accessibility have not
     changed
--   Advantages of WCAG 2.0 as a common target for accessibility
+-   Advantages of WCAG 2 as a common target for accessibility
 -   Identification of priority areas for revision based on impact and
     effort
--   The need to analyze and relate those priorities to WCAG 2.0
+-   The need to analyze and relate those priorities to WCAG 2
     Principles, Guidelines and Success Criteria
 -   Methods to document the process and update organizational policies
     and supporting materials
--   Where to get more information, including WCAG 2.0 translations
+-   Where to get more information, including WCAG 2 translations
 
 ### Resources for developing a presentation
 
@@ -518,8 +518,8 @@ requirements.
 -   [Web Content Accessibility Guidelines (WCAG)
     Overview](http://www.w3.org/WAI/intro/wcag) - an overview of WCAG
     and the related documentation
--   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
-    describes the different WCAG 2.0 technical documents, to help know
+-   [The WCAG 2 Documents](http://www.w3.org/WAI/intro/wcag20) -
+    describes the different WCAG 2 technical documents, to help know
     where to go for different types of information
 -   [How to Update Your Web Site from WCAG 1.0 to WCAG
     2.0](http://www.w3.org/WAI/WCAG20/from10/websites) - detailed
@@ -531,7 +531,7 @@ requirements.
     2.0](http://www.w3.org/WAI/WCAG20/from10/comparison/) - lists the
     new requirements in WCAG 2.0, and shows how each WCAG 1.0 checkpoint
     relates to WCAG 2.0
--   [WCAG 2.0 Translations](http://www.w3.org/WAI/WCAG20/translations) -
+-   [WCAG 2 Translations](http://www.w3.org/WAI/WCAG20/translations) -
     a list of complete and in-progress translations
 
 #### Additional resources
@@ -544,7 +544,7 @@ requirements.
 #### Handouts
 
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
+    paraphrased summary of Web Content Accessibility Guidelines WCAG 2
 
 ### Suggestions for speakers
 
@@ -566,7 +566,7 @@ applications.
 
 ### Description
 
-This topic presents the use of WCAG 2.0 when developing websites
+This topic presents the use of WCAG 2 when developing websites
 (especially techniques to use, and techniques to avoid) that will
 improve accessibility for people with disabilities and older people.
 
@@ -578,14 +578,14 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
 
 ### What this topic covers
 
--   Applicability of WCAG 2.0 Success Criteria to all web technologies,
+-   Applicability of WCAG 2 Success Criteria to all web technologies,
     including dynamic content, multimedia, and other formats
--   Application of techniques to meet WCAG 2.0 Success Criteria
+-   Application of techniques to meet WCAG 2 Success Criteria
 -   Distinguishing between the different categories of techniques
     (sufficient, advisory, and failure)
 -   Using advisory techniques to optimize accessibility beyond the
     minimum requirements
--   Using How to Meet WCAG 2.0 to effectively access WCAG 2.0
+-   Using How to Meet WCAG 2 (Quick Reference) to effectively access WCAG 2
     Guidelines, Success Criteria and associated techniques
 -   Role of WAI-ARIA for dynamic applications using JavaScript, AJAX,
     and other technologies
@@ -598,14 +598,14 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
 -   [Web Content Accessibility Guidelines (WCAG)
     Overview]({{ "/standards-guidelines/wcag/" | relative_url }}) - an overview of WCAG
     and the related documentation
-    -   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -
-    describes the different WCAG 2.0 technical documents, to help know
+    -   [The WCAG 2 Documents](http://www.w3.org/WAI/intro/wcag20) -
+    describes the different WCAG 2 technical documents, to help know
     where to go for different types of information
-    -   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
-    customizable quick reference to WCAG 2.0 requirements and techniques
-    -   [WCAG 2.0
+    -   [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/) - a
+    customizable quick reference to WCAG 2 requirements and techniques
+    -   [WCAG 2
     Conformance](http://www.w3.org/WAI/WCAG20/quickref#conformance-reqs) -
-    lists the WCAG 2.0 conformance levels and requirements
+    lists the WCAG 2 conformance levels and requirements
     -   [Benefits of WCAG 2
     Presentation *(old draft)*](http://www.w3.org/WAI/presentations/WCAG20_benefits/) -
     a complete presentation to draw from
@@ -628,15 +628,15 @@ the related [Topic 9: Accessibility of Authoring Tools](#authoring).
 #### Handouts
 
 -   [WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/) - a
-    paraphrased summary of Web Content Accessibility Guidelines WCAG 2.0
+    paraphrased summary of Web Content Accessibility Guidelines WCAG 2
 -   [Including People with Disabilities in Design
     Studies](http://www.w3.org/WAI/flyer/#pwds)
 
 ### Suggestions for speakers
 
--   **Demonstration:** Show how to effectively access WCAG 2.0
+-   **Demonstration:** Show how to effectively access WCAG 2
     Guidelines, Success Criteria and associated techniques using [How to
-    Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/).
+    Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/).
 -   **Activity/Demonstration:** Explore the failures and repairs in the
     [Before and After Demonstration](http://www.w3.org/WAI/demos/bad/).
     Consider carrying out evaluations on the inaccessible pages of the
@@ -849,7 +849,7 @@ Accessibility](#components).
 
 -   Accessibility barriers of rich internet applications
 -   Basic steps to make rich internet applications accessible
--   Relationship between WAI-ARIA and WCAG 2.0
+-   Relationship between WAI-ARIA and WCAG 2
 -   Technical solutions provided by WAI-ARIA, including:
     -   WAI-ARIA features that help make Ajax, DHTML, etc accessible
     -   WAI-ARIA Roles, States, Properties, plus relationships and live
@@ -872,7 +872,7 @@ Accessibility](#components).
 
 <!-- @@ this will need better links or more thought to be specific enough to be a useful link here…
 -   WAI-ARIA and scripting techniques from [How to Meet WCAG
-    2.0](http://www.w3.org/WAI/WCAG20/quickref/)
+    2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
 -->
 
 #### Handouts
@@ -1331,7 +1331,7 @@ evaluation review. It also discussed the importance of testing with
 users.
 
 **Note:** This topic assumes familiarity with WCAG 2. See [Topic 5:
-Introducing WCAG 2.0](#intro20).
+Introducing WCAG 2](#intro20).
 
 ### What this topic covers
 
@@ -1364,8 +1364,8 @@ Introducing WCAG 2.0](#intro20).
 -   [Web Accessibility Evaluation
     Tools](http://www.w3.org/WAI/ER/tools/) - filterable list of Web
     accessibility evaluation tools
--   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/) - a
-    customizable quick reference to WCAG 2.0 requirements and techniques
+-   [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/) - a
+    customizable quick reference to WCAG 2 requirements and techniques
 
 #### Handouts
 
