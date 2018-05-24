@@ -3,7 +3,7 @@ title: "Example Outline for a Web Accessibility Workshop"
 nav_title: Workshop Outline
 order: 3
 footer: >
-  <p><strong>Date:</strong> Links and organization updated 1 May 2018. Content updated 21 February 2013. First published November  2000.</p>
+  <p><strong>Date:</strong> Links and organization updated 24 May 2018. Content updated 21 February 2013. First published November  2000.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
@@ -73,11 +73,11 @@ Authors and non-technical developers should be able to do above and **also**:
     communicate the results
 
 Website developers and application programmers should be able to do above and **also**:
--   Utilize WCAG 2.0 and its supporting documents as a guide to
+-   Utilize WCAG 2 and its supporting documents as a guide to
     implementing accessible websites
--   Apply WCAG 2.0 techniques to develop accessible layouts, forms,
+-   Apply WCAG 2 techniques to develop accessible layouts, forms,
     tables, and other content
--   Evaluate websites for conformance with WCAG 2.0 and communicate the
+-   Evaluate websites for conformance with WCAG 2 and communicate the
     results
 
 {% include_cached excol.html type="end" %}
@@ -105,7 +105,7 @@ Website developers and application programmers should be able to do above and **
 ### Day 2 schedule
 {:.no_toc}
 
-1.  **09:00 - 09:30 [Session 1 - Working with WCAG 2.0](#d2s1)**
+1.  **09:00 - 09:30 [Session 1 - Working with WCAG 2](#d2s1)**
 2.  **09:30 - 10:30 [Session 2 - Visual design and
     CSS](#d2s2)**
 3.  10:30 - 11:00 Break
@@ -202,7 +202,7 @@ and other key audiences
     tools and user agents
 -   Explain the role of the W3C/WAI Guidelines in providing a technical
     standard for accessibility
--   Define the basic concepts of WCAG 2.0, its organizing principles and
+-   Define the basic concepts of WCAG 2, its organizing principles and
     guidelines
 -   Describe the importance of authoring tools that support the
     production of accessible content
@@ -214,9 +214,9 @@ and other key audiences
 -   Hands-on experiential session showing the use of adaptive strategies
     and assistive technologies
 -   Introduction to the components of web accessibility
--   Introduction to WCAG 2.0, its four basic design principles, and
+-   Introduction to WCAG 2, its four basic design principles, and
     guidelines
--   Benefits of WCAG 2.0
+-   Benefits of WCAG 2
 -   Importance of accessible authoring tools, including content
     management systems
 -   Benefits of involving users in all aspects of web projects from the
@@ -330,7 +330,7 @@ for web content authors.
 -   [Preliminary Check for Web
     Accessibility](http://www.w3.org/WAI/training/topics#check)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -360,26 +360,25 @@ From [Understanding WCAG
 -   [3.1.3 Unusual
     Words](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-idioms)
 
-### Working with WCAG 2.0 &mdash; Day 2 Session 1  {#d2s1}
+### Working with WCAG 2 &mdash; Day 2 Session 1  {#d2s1}
 
 **Target audience:** Web content authors and visual designers, website
 developers and application programmers
 
 #### Learning Objectives:
 
--   Explain the concepts of WCAG 2.0 and list its supporting documents
--   Use WCAG 2.0 documents to support practical implementation and
+-   Explain the concepts of WCAG 2 and list its supporting documents
+-   Use WCAG 2 documents to support practical implementation and
     testing
--   Explain the improvements and benefits of WCAG 2.0
+-   Explain the improvements and benefits of WCAG 2
 
 #### Outline:
 
--   Introduction to the WCAG 2.0 documents
--   Demonstration of the "How to Meet WCAG 2.0" customizable quick
-    reference
--   Benefits of WCAG 2.0, especially in relation to testability and
+-   Introduction to the WCAG 2 documents
+-   Demonstration of the "How to Meet WCAG 2 (Quick Reference)", and how to use the filters
+-   Benefits of WCAG 2, especially in relation to testability and
     applicability to different situations
--   Applicability of WCAG 2.0 to all web technologies
+-   Applicability of WCAG 2 to all web technologies
 -   Introduction to accessibility support
 
 #### Related Topics with More Information:
@@ -389,7 +388,7 @@ developers and application programmers
 -   [Designing Accessible Websites with WCAG
     2](http://www.w3.org/WAI/training/topics#design)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -433,7 +432,7 @@ developers and application programmers
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -489,7 +488,7 @@ developers and application programmers
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -499,7 +498,7 @@ From [Understanding WCAG
 -   [1.4.8 Images of Text (No
     Exception)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-text-images)
 
-From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+From [Techniques for WCAG 2](http://www.w3.org/TR/WCAG20-TECHS/):
 
 -   [C9: Using CSS to include decorative
     images](http://www.w3.org/TR/2007/WD-WCAG20-TECHS-20071211/C9)
@@ -536,7 +535,7 @@ developers and application programmers
 -   [Browser Accessibility and
     UAAG](http://www.w3.org/WAI/training/topics#browsers)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -591,7 +590,7 @@ developers and application programmers
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -607,7 +606,7 @@ From [Understanding WCAG
 -   [2.4.1 Bypass
     Blocks](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip)
 
-From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+From [Techniques for WCAG 2](http://www.w3.org/TR/WCAG20-TECHS/):
 
 -   [G141: Organizing a page using
     headings](http://www.w3.org/TR/WCAG20-TECHS/G141)
@@ -656,7 +655,7 @@ developers and application programmers
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -672,7 +671,7 @@ From [Understanding WCAG
 -   [2.4.2 Page
     Titled](http://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title)
 
-From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+From [Techniques for WCAG 2](http://www.w3.org/TR/WCAG20-TECHS/):
 
 -   [F42: Failure of Success Criterion 1.3.1 and 2.1.1 due to using
     scripting events to emulate links in a way that is not
@@ -721,7 +720,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -731,7 +730,7 @@ From [Understanding WCAG
 -   [1.4.8 Visual
     Presentation](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-visual-presentation#visual-audio-contrast-visual-presentation-94-head)
 
-From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+From [Techniques for WCAG 2](http://www.w3.org/TR/WCAG20-TECHS/):
 
 -   [H51: Using table markup to present tabular
     information](http://www.w3.org/TR/WCAG20-TECHS/H51)
@@ -786,7 +785,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -806,7 +805,7 @@ From [Understanding WCAG
 -   [2.2.1 Timing
     Adjustable](http://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-required-behaviors)
 
-From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+From [Techniques for WCAG 2](http://www.w3.org/TR/WCAG20-TECHS/):
 
 -   [F36: Failure of Success Criterion 3.2.2 due to automatically
     submitting a form and presenting new content without prior warning
@@ -841,7 +840,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   Introduction to the barriers created by some scripting techniques
 -   Introduction to the concept of progressive enhancement with
     scripting
--   Introduction to scripting techniques that satisfy WCAG 2.0 success
+-   Introduction to scripting techniques that satisfy WCAG 2 success
     criteria
 -   Introduction to WAI-ARIA and accessibility barriers in rich internet
     applications
@@ -865,9 +864,9 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
-From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
+From [Techniques for WCAG 2](http://www.w3.org/TR/WCAG20-TECHS/):
 
 -   [Client-side Scripting Techniques for WCAG
     2.0](http://www.w3.org/TR/WCAG20-TECHS/client-side-script)
@@ -903,7 +902,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   Introduction of the concept of website conformance testing as a
     formal extension of the testing done in previous sessions
 -   Process for conformance evaluation of websites for accessibility
--   WCAG 2.0 conformance requirements and conformance claims
+-   WCAG 2 conformance requirements and conformance claims
 -   Selection of automated tools and their benefits and drawbacks
 -   Combining testing with users with formal conformance evaluation
     methods
@@ -914,7 +913,7 @@ From [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/):
 -   [Conformance Evaluation for Web
     Accessibility](http://www.w3.org/WAI/training/topics#conform)
 
-#### Relevant WCAG 2.0 Resources:
+#### Relevant WCAG 2 Resources:
 
 From [Understanding WCAG
 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/):
@@ -941,8 +940,8 @@ From [Understanding WCAG
     clarification
 -   Summary of the overall requirements for accessible web design and
     development
--   Reiteration of the value of using "How to Meet WCAG 2.0" as a
-    gateway to WCAG 2.0
+-   Reiteration of the value of using "How to Meet WCAG 2 (Quick Reference)" as a
+    gateway to WCAG 2
 -   Opportunities for follow-up, including the [WAI Interest
     Group](http://www.w3.org/WAI/IG/) (and the associated [WAI-IG email
     list](http://www.w3.org/WAI/WCAG20/quickref/))
@@ -987,7 +986,7 @@ authoring tools to provide accessible content.
 -   Finish days 1 and 2 with a brief summary of the day, and start days
     2 and 3 with a brief summary of the previous day. Seek feedback at
     the end of each day and adjust remaining material as appropriate.
--   Clarify that not all WCAG 2.0 success criteria are being presented
+-   Clarify that not all WCAG 2 success criteria are being presented
     and discussed in this workshop.
 -   Describe the intent of accessibility requirements, and their
     relationship to barriers for people with disabilities and [older
@@ -1003,8 +1002,8 @@ authoring tools to provide accessible content.
     websites to theirs (such as websites from competitor organizations)
     helps make the examples more tangible.
 -   Emphasize the benefits of [How to Meet WCAG
-    2.0](http://www.w3.org/WAI/WCAG20/quickref/), a customizable quick
-    reference to WCAG 2.0 requirements and techniques, including 'best
+    2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/), a customizable quick
+    reference to WCAG 2 requirements and techniques, including 'best
     practice' advisory techniques.
 -   Introduce appropriate evaluation techniques and tools for each issue
     as it is covered.
