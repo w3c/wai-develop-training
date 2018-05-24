@@ -3,7 +3,7 @@ title: "Example Outlines for Web Accessibility Presentations"
 nav_title: "Presentation Outlines"
 order: 2
 footer: >
-  <p><strong>Date:</strong> Links updated 1 May 2018. Content updated 21 February 2013. First published November 2000.</p>
+  <p><strong>Date:</strong> Links updated 24 May 2018. Content updated 21 February 2013. First published November 2000.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
@@ -221,7 +221,7 @@ of a full semester's introductory course on general web design.
 -   Useful resources:
     -   [Before and After
         Demonstration](http://www.w3.org/WAI/demos/bad/)
-    -   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/)
+    -   [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
     -   [Involving Users in Web Projects for Better, Easier
         Accessibility]({{ "/planning/involving-users/" | relative_url }})
 
@@ -277,7 +277,7 @@ After the lecture and exercise, students should be able to:
     2]({{ "/teach-advocate/accessibility-training/topics/" | relative_url }}#design)** (45 minutes)
     -   Explain some of the WCAG 2 requirements using real examples to
         demonstrate their applicability
-    -   Demonstrate using "How to Meet WCAG 2.0" reference to help
+    -   Demonstrate using "How to Meet WCAG 2 (Quick Reference)" reference to help
         design accessible websites
     -   Introduce the importance of involving users throughout the
         design process
@@ -305,7 +305,7 @@ After the lecture and exercise, students should be able to:
 
 -   Ask students to fix some web pages (possibly from the [Before and
     After Demonstration](http://www.w3.org/WAI/demos/bad/)), using [How
-    to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/), and
+    to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/), and
     describe the barriers addressed and solutions applied.
 
 {% include_cached excol.html type="end" %}
