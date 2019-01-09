@@ -1,5 +1,4 @@
 ---
-title: "Example Outline for a Web Accessibility Workshop"---
 title: "Example Outline for a Web Accessibility Workshop"
 nav_title: Workshop Outline
 order: 3
