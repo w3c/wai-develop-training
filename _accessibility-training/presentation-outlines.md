@@ -3,7 +3,7 @@ title: "Example Outlines for Web Accessibility Presentations"
 nav_title: "Presentation Outlines"
 order: 2
 footer: >
-  <p><strong>Date:</strong> Links updated 24 May 2018. Content updated 21 February 2013. First published November 2000.</p>
+  <p><strong>Date:</strong> Links updated 9 January 2019. Content updated 21 February 2013. First published November 2000.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Previous editor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>. Contributors: <a href="http://www.w3.org/People/shawn/">Shawn Lawton Henry</a>, Sharron Rush, Heather Hasner, Michael Stenitzer, Jennifer Sutton, <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> participants, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>. </p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
@@ -50,7 +50,7 @@ several short presentations from a panel of speakers.
     types of audiences, including technical or non-technical, managers,
     developers, designers, people with disabilities, disability
     advocates, procurement officers, and others
--   Handout: [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/)
+-   Handout: [WCAG 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 -   Useful resource: [Before and After
     Demonstration](http://www.w3.org/WAI/demos/bad/)
 
@@ -101,7 +101,7 @@ meeting to introduce the business case for web accessibility.
 
 **Notes:**
 
--   Handout: [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance)
+-   Handout: [WCAG 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 -   Useful resource: [Before and After
     Demonstration](http://www.w3.org/WAI/demos/bad/)
 
@@ -155,7 +155,7 @@ accessibility features of computers, browsers, and websites.
 
 **Notes:**
 
--   Handout: [WCAG 2 at a Glance](http://www.w3.org/WAI/flyer/#glance)
+-   Handout: [WCAG 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 -   Useful resources:
     -   [Before and After
         Demonstration](http://www.w3.org/WAI/demos/bad/)
@@ -192,8 +192,8 @@ accessibility features of computers, browsers, and websites.
     (10 minutes)
     -   Explain the four principles of accessible web design:
         perceivable, operable, understandable and robust (POUR)
-    -   Discuss some of the WCAG 2 guidelines using the "WCAG 2 at a
-        Glance" handout
+    -   Discuss some of the WCAG guidelines using "WCAG 2.1 at a
+        Glance"
     -   Explain the components of web accessibility and how they relate
         to the WAI Guidelines
 -   **[Promoting web accessibility]({{ "/teach-advocate/accessibility-training/topics/" | relative_url }}#promoting)** (5
@@ -216,12 +216,12 @@ of a full semester's introductory course on general web design.
 **Notes:**
 
 -   Handouts:
-    -   [WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/)
+    -   [WCAG 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
     -   [WAI Web Accessibility Resources](http://www.w3.org/WAI/flyer/#resources)
 -   Useful resources:
     -   [Before and After
         Demonstration](http://www.w3.org/WAI/demos/bad/)
-    -   [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
+    -   [How to Meet WCAG (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
     -   [Involving Users in Web Projects for Better, Easier
         Accessibility]({{ "/planning/involving-users/" | relative_url }})
 
@@ -269,15 +269,15 @@ After the lecture and exercise, students should be able to:
     (10 minutes)
     -   Explain the four principles of accessible web design:
         perceivable, operable, understandable and robust (POUR)
-    -   Discuss some of the WCAG 2 guidelines using the "WCAG 2 at a
-        Glance" handout
+    -   Discuss some of the WCAG guidelines using "WCAG 2.1 at a
+        Glance"
     -   Explain the components of web accessibility and how they relate
         to the WAI Guidelines
 -   **[Designing accessible websites with WCAG
     2]({{ "/teach-advocate/accessibility-training/topics/" | relative_url }}#design)** (45 minutes)
-    -   Explain some of the WCAG 2 requirements using real examples to
+    -   Explain some of the WCAG requirements using real examples to
         demonstrate their applicability
-    -   Demonstrate using "How to Meet WCAG 2 (Quick Reference)" reference to help
+    -   Demonstrate using "How to Meet WCAG (Quick Reference)" reference to help
         design accessible websites
     -   Introduce the importance of involving users throughout the
         design process
@@ -305,7 +305,7 @@ After the lecture and exercise, students should be able to:
 
 -   Ask students to fix some web pages (possibly from the [Before and
     After Demonstration](http://www.w3.org/WAI/demos/bad/)), using [How
-    to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/), and
+    to Meet WCAG (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/), and
     describe the barriers addressed and solutions applied.
 
 {% include_cached excol.html type="end" %}
