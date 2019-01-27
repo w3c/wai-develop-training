@@ -59,7 +59,7 @@ several short presentations from a panel of speakers.
 -   Understand the meaning and importance of web accessibility
 -   Learn how people with disabilities use the web and about the
     barriers encountered on websites that are not well designed
--   Be able to explain aspects of the business case for web
+-   Be able to explain aspects of the business case for digital 
     accessibility, and know where to find more resources
 
 ### Sample outline:
@@ -77,7 +77,7 @@ several short presentations from a panel of speakers.
         using the web
     -   Mention some of the types of barriers that arise from
         inaccessible design
--   **[Business case for web
+-   **[Business case for digital
     accessibility]({{ "/teach-advocate/accessibility-training/topics/" | relative_url }}#bcase)** (5
     minutes)
     -   Introduce aspects of the business case that are most relevant to
@@ -92,12 +92,12 @@ several short presentations from a panel of speakers.
 
 {% include_cached excol.html type="start" id="bcase" %}
 
-## Web accessibility business case (10 minutes, for senior management)
+## Digital accessibility business case (10 minutes, for senior management)
 
 {% include_cached excol.html type="middle" %}
 
 **Example scenario:** Short presentation during a senior management
-meeting to introduce the business case for web accessibility.
+meeting to introduce the business case for digital accessibility.
 
 **Notes:**
 
