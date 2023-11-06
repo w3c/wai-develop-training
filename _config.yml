@@ -51,7 +51,7 @@ defaults:
     scope:
       path: "_accessibility-training"
     values:
-      layout: "sidenav"
+      layout: "default"
 
 plugins:
   - jekyll-seo-tag
