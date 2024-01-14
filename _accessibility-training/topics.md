@@ -69,7 +69,7 @@ This page provides material for web accessibility topics that you can use as bui
 
 {% include excol.html type="all" %}
 
-{% include_cached excol.html type="start" id="intro" %}
+{% include_cached excol.html type="start" id="introduction" %}
 
 ## 1. Introducing Web Accessibility
 
